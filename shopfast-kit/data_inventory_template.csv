@@ -1,0 +1,8 @@
+dataset,file_or_table,description_one_sentence,business_domain,data_owner,data_steward,data_custodian,contains_personal_data_Y_N,sensitivity_level,refresh_frequency,row_count,issues_spotted
+customers,data/customers.csv | raw.customers,customer information,commerce,John Doe,Jane Smith,Robert Johnson,Y,Restricted,Weekly,1241,Complete data missing and unique identifier issues- consistency issues
+products,data/products.csv | raw.products,product information,commerce,John Doe,Jane Smith,Robert Johnson,N,Public,Weekly,52,Data completeness issues_consistency issues_unique identifier issues
+orders,data/orders.csv | raw.orders,order information,commerce,John Doe,Jane Smith,Robert Johnson,N,Internal,Weekly,5207,Data completeness issues_consistency issues_unique identifier issues
+order_items,data/order_items.csv | raw.order_items,item information,commerce,John Doe,Jane Smith,Robert Johnson,N,Internal,Weekly,9193, Data completeness issues_consistency issues_unique identifier issues
+payments,data/payments.csv | raw.payments,payment information,commerce,John Doe,Jane Smith,Robert Johnson,Y,Restricted,Weekly,4902, Data completeness issues_consistency issues_unique identifier issues
+support_tickets,data/support_tickets.csv | raw.support_tickets,support ticket information,commerce,John Doe,Jane Smith,Robert Johnson,Y,Restricted,Daily,422, Data completeness issues_consistency issues_unique identifier issues
+marketing_campaign_export,data/marketing_campaign_export.csv | raw.marketing_campaign_export,marketing campaign data,commerce,John Doe,Jane Smith,Robert Johnson,Y,Confidential,Monthly,600, Data completeness issues_consistency issues_unique identifier issues

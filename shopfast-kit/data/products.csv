@@ -1,0 +1,53 @@
+product_id,sku,product_name,category,unit_price_eur,supplier,is_active
+501,SF-FAS-0522,Wireless Earbuds,Electronics,168.3,TechNova SAS,N
+502,SF-ELE-0502,USB-C Charger 65W,Electronics,54.5,TechNova SAS,Y
+503,SF-ELE-0503,Bluetooth Speaker,Electronics,156.85,TechNova SAS,N
+504,SF-ELE-0504,Smartwatch S2,Electronics ,217.38,TechNova SAS,Y
+505,SF-ELE-0505,4K Webcam,Electronics,166.31,TechNova SAS,Y
+506,SF-ELE-0506,Mechanical Keyboard,Electronics,,TechNova SAS,Y
+507,SF-ELE-0507,Gaming Mouse,electronics,188.42,TechNova SAS,Y
+508,SF-ELE-0508,Power Bank 20000mAh,Electronics,130.77,TechNova SAS,Y
+509,SF-ELE-0509,Noise-Cancelling Headphones,Electronics,184.31,TechNova SAS,N
+510,SF-ELE-0510,Portable SSD 1TB,Electronics,24.21,TechNova SAS,N
+511,SF-HOM-0511,Coffee Grinder,Home,171.12,MaisonPlus SARL,Y
+512,SF-HOM-0512,French Press,Home,125.37,MaisonPlus SARL,N
+513,SF-HOM-0513,LED Desk Lamp,Home,154.02,MaisonPlus SARL,N
+514,SF-HOM-0514,Air Purifier,Home,18.19,MaisonPlus SARL,N
+515,SF-HOM-0515,Electric Kettle,Home,54.83,MaisonPlus SARL,Y
+516,SF-HOM-0516,Bamboo Cutting Board,Home,170.61,MaisonPlus SARL,N
+517,SF-HOM-0517,Scented Candle Set,Home,170.71,MaisonPlus SARL,Y
+518,SF-HOM-0518,Throw Blanket,Home,110.71,MaisonPlus SARL,Y
+519,SF-HOM-0519,Wall Clock,Home,171.48,MaisonPlus SARL,Y
+520,SF-HOM-0520,Storage Baskets,Home,151.96,MaisonPlus SARL,Y
+521,SF-FAS-0521,Linen Shirt,Fashion,114.03,UrbanWear GmbH,Y
+522,SF-FAS-0522,Running Shoes,Fashion ,99.09,UrbanWear GmbH,Y
+523,SF-FAS-0523,Leather Belt,Fashion,212.88,UrbanWear GmbH,Y
+524,SF-FAS-0524,Wool Scarf,Fashion,172.7,UrbanWear GmbH,Y
+525,SF-FAS-0525,Denim Jacket,Fashion ,108.44,UrbanWear GmbH,N
+526,SF-FAS-0526,Canvas Sneakers,Fashion,165.41,UrbanWear GmbH,Y
+527,SF-FAS-0527,Rain Jacket,Fashion,123.05,UrbanWear GmbH,Y
+528,SF-FAS-0528,Baseball Cap,Fashion,139.04,UrbanWear GmbH,Y
+529,SF-FAS-0529,Sports Socks (3-pack),Fashion,96.29,UrbanWear GmbH,Y
+530,SF-FAS-0530,Merino Sweater,Fashion,44.81,UrbanWear GmbH,Y
+531,SF-BEA-0531,Vitamin C Serum,Beauty,23.23,BelleNature SA,Y
+532,SF-BEA-0532,Organic Shampoo,Beauty,29.34,BelleNature SA,Y
+533,SF-BEA-0533,Hand Cream,Beauty,-22.19,BelleNature SA,Y
+534,SF-BEA-0534,Sunscreen SPF50,Beauty ,28.98,BelleNature SA,Y
+535,SF-BEA-0535,Lip Balm Trio,Beauty,22.49,BelleNature SA,Y
+536,SF-BEA-0536,Face Cleanser,Beauty,8.71,BelleNature SA,Y
+537,SF-BEA-0537,Hair Oil,Beauty,24.6,BelleNature SA,N
+538,SF-BEA-0538,Body Lotion,Beauty ,16.79,BelleNature SA,N
+539,SF-SPO-0539,Yoga Mat,Sports,136.55,FitPro SL,Y
+540,SF-SPO-0540,Resistance Bands,Sports,140.32,FitPro SL,N
+541,SF-SPO-0541,Water Bottle 1L,Sports,51.49,FitPro SL,Y
+542,SF-SPO-0542,Foam Roller,SPORTS,65.76,FitPro SL,Y
+543,SF-SPO-0543,Jump Rope,Sports,211.39,FitPro SL,Y
+544,SF-SPO-0544,Dumbbell Set 10kg,Sports,60.26,FitPro SL,Y
+545,SF-SPO-0545,Cycling Gloves,Sports,149.01,FitPro SL,Y
+546,SF-SPO-0546,Running Belt,Sports,180.84,FitPro SL,Y
+547,SF-BOO-0547,Data Mesh in Practice,Books,24.79,Editions Datalivre,Y
+548,SF-BOO-0548,Clean Pipelines,Books,17.18,Editions Datalivre,Y
+549,SF-BOO-0549,The SQL Cookbook,Books,15.94,Editions Datalivre,Y
+550,SF-BOO-0550,Designing Data Products,Books,15.27,Editions Datalivre,N
+551,SF-BOO-0551,Python for Analysts,Books,28.89,Editions Datalivre,Y
+552,SF-BOO-0552,Privacy by Design,Books,21.92,Editions Datalivre,Y

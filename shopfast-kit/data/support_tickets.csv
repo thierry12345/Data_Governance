@@ -1,0 +1,423 @@
+ticket_id,customer_id,created_at,channel,subject,message,agent_notes
+30001,10327,2026-07-10T10:30,phone,Damaged item,"Great service, thank you!","Customer born 1949-05-28, verified identity."
+30002,10814,2026-04-12T23:07,phone,Where is my order?,"Hello, my order 700043 has not arrived. You can call me on 06 25 10 50 53 any time. Thanks, Victoire",
+30003,10807,2026-04-21T14:26,email,Payment declined,"Hello, my order 701180 has not arrived. You can call me on +49 672 240 299 any time. Thanks, Harro",VIP customer - gold tier.
+30004,10695,2026-09-19T23:11,email,Where is my order?,"Refund for 702942 please, to my account FR26 3000 4592 9476 7327 7882 899. Name on the account: Marianne Bruneau.",
+30005,10210,2026-08-07T00:52,phone,Cancel my order,Please send the invoice for order 704616 to my work address ruperta.lumbreras@acme-corp.com instead.,
+30006,10111,2026-02-18T14:36,chat,Cancel my order,"Order 702852: the item arrived damaged, box was crushed.","Customer angry, escalate."
+30007,10067,2026-10-08T12:17,chat,Refund request,My card 5132 7893 2879 2179 was charged twice for 703964!,"Customer born 1987-03-15, verified identity."
+30008,10958,2026-09-18T02:02,phone,Cancel my order,Please send the invoice for order 702180 to my work address camille.fouquet@acme-corp.com instead.,"Customer born 2000-06-25, verified identity."
+30009,10649,2026-08-01T19:37,email,Account access problem,Can I change the delivery slot for 703383?,
+30010,10282,2026-07-10T02:23,email,Account access problem,"Refund for 701238 please, to my account FR14 3000 4397 6709 1989 4006 068. Name on the account: Manu Oliver.","Customer born 1989-05-11, verified identity."
+30011,11023,2026-09-25T22:18,email,Cancel my order,"Hello, my order 701045 has not arrived. You can call me on +33 6 38 22 31 16 any time. Thanks, Marine","Customer born 1974-07-24, verified identity."
+30012,10979,2026-08-24T00:34,chat,Where is my order?,Please send the invoice for order 703070 to my work address sylvie.durand@acme-corp.com instead.,
+30013,10812,2026-10-15T19:25,email,Refund request,"Hello, my order 700687 has not arrived. You can call me on +34666395517 any time. Thanks, Aurelia",
+30014,10443,2026-10-27T17:57,email,Wrong size,"I want to return order 704905, wrong size.","Customer born 1979-01-14, verified identity."
+30015,10544,2026-07-06T16:49,email,Payment declined,"Hello, my order 701346 has not arrived. You can call me on +33 6 86 40 79 05 any time. Thanks, Vincent","Customer born 1968-08-07, verified identity."
+30016,10689,2026-01-06T18:07,chat,Payment declined,"Refund for 703725 please, to my account FR12 3000 4908 9007 0199 2125 076. Name on the account: Adèle Gay.","Customer angry, escalate."
+30017,10505,2026-11-03T23:21,phone,Payment declined,Please send the invoice for order 704323 to my work address véronique.duval@acme-corp.com instead.,VIP customer - gold tier.
+30018,10481,2026-07-17T13:38,phone,Damaged item,"Order 700638: the item arrived damaged, box was crushed.","Customer angry, escalate."
+30019,10351,2026-09-13T22:26,phone,Wrong size,Your app logs me out every time I open it.,VIP customer - gold tier.
+30020,10742,2026-09-15T17:50,email,Change delivery address,"Refund for 704617 please, to my account FR59 3000 4519 2564 2731 4527 283. Name on the account: Christine Meyer.",
+30021,10352,2026-06-25T06:11,email,Refund request,"Hello, my order 705055 has not arrived. You can call me on +33 6 21 37 21 38 any time. Thanks, Michelle","Customer angry, escalate."
+30022,10139,2026-08-26T08:18,email,Refund request,"Refund for 701213 please, to my account FR84 3000 4968 5188 5431 6761 420. Name on the account: Pierre Martineau.","Customer born 1946-06-18, verified identity."
+30023,10217,2026-06-05T04:16,chat,Where is my order?,"Refund for 703560 please, to my account FR89 3000 4816 7410 8593 1487 007. Name on the account: Iván Blanca.","Customer angry, escalate."
+30024,10226,2026-01-28T15:47,chat,Change delivery address,"Hello, my order 705197 has not arrived. You can call me on +49 697 311 219 any time. Thanks, Ignatz",
+30025,11020,2026-02-07T19:52,email,Account access problem,"Order 701847: the item arrived damaged, box was crushed.",
+30026,10059,2026-06-09T05:34,chat,Cancel my order,Please send the invoice for order 701395 to my work address emeline.doumont@acme-corp.com instead.,VIP customer - gold tier.
+30027,10479,2026-04-15T17:24,phone,Delete my account,Please send the invoice for order 704266 to my work address kunibert.schomber@acme-corp.com instead.,"Customer born 1986-08-27, verified identity."
+30028,10501,2026-06-03T10:53,email,Change delivery address,"Refund for 703077 please, to my account FR34 3000 4046 7382 6435 1596 003. Name on the account: Zoraida Patiño.","Called back, resolved."
+30029,10058,2026-03-22T00:16,email,Invoice request,"I moved. New address: 2, boulevard de Diallo, 44933 Royer. Please update order 704144.",VIP customer - gold tier.
+30030,11075,2026-06-21T22:22,chat,Change delivery address,"Hello, my order 700524 has not arrived. You can call me on +34687328077 any time. Thanks, Chema","Called back, resolved."
+30031,10474,2026-03-18T12:53,chat,Cancel my order,The discount code SUMMER10 does not work.,
+30032,10533,2026-09-20T15:20,chat,Cancel my order,"I moved. New address: 56, rue Marin, 01199 Sainte Édithnec. Please update order 703877.",VIP customer - gold tier.
+30033,10701,2026-08-25T13:25,phone,Wrong size,"Great service, thank you!","Called back, resolved."
+30034,10097,2026-10-03T17:08,email,Cancel my order,Please send the invoice for order 703096 to my work address rené.bouillon@acme-corp.com instead.,"Called back, resolved."
+30035,10798,2026-05-22T13:42,chat,Payment declined,Can I change the delivery slot for 700212?,"Customer angry, escalate."
+30036,10430,2026-03-13T01:19,phone,Payment declined,Please send the invoice for order 701429 to my work address célina.henry@acme-corp.com instead.,
+30037,11132,2026-01-27T04:33,chat,Account access problem,"Hello, my order 700372 has not arrived. You can call me on 0033632537657 any time. Thanks, Adélaïde",VIP customer - gold tier.
+30038,11170,2026-04-26T02:39,chat,Invoice request,"Refund for 700043 please, to my account FR27 3000 4608 0861 5309 6142 775. Name on the account: Luce Renaud.",
+30039,10371,2026-07-20T22:20,email,Damaged item,My card 4970 8347 0174 6810 was charged twice for 700205!,"Called back, resolved."
+30040,10989,2026-02-24T17:55,phone,Delete my account,Please send the invoice for order 703309 to my work address sébastien.pages@acme-corp.com instead.,
+30041,10708,2026-06-15T15:09,email,Refund request,Can I change the delivery slot for 703359?,"Customer angry, escalate."
+30042,10308,2026-08-21T01:10,phone,Damaged item,"Refund for 703293 please, to my account FR57 3000 4927 7444 0405 7207 197. Name on the account: Patrick Adam.","Customer angry, escalate."
+30043,10830,2026-06-05T01:22,phone,Change delivery address,The discount code SUMMER10 does not work.,
+30044,11021,2026-10-17T16:34,phone,Account access problem,"I moved. New address: 36, chemin Lemoine, 90237 Coulon. Please update order 702257.","Customer born 1973-12-23, verified identity."
+30045,10733,2026-10-14T20:01,chat,Payment declined,"Hello, my order 703155 has not arrived. You can call me on +32681447443 any time. Thanks, Fabienne",
+30046,11039,2026-10-04T19:25,email,Damaged item,"Great service, thank you!",
+30047,10219,2026-01-12T13:52,chat,Payment declined,"Great service, thank you!","Customer angry, escalate."
+30048,10215,2026-04-01T12:06,chat,Payment declined,Please send the invoice for order 704798 to my work address nilda.pazos@acme-corp.com instead.,"Called back, resolved."
+30049,10576,2026-10-26T23:30,phone,Where is my order?,Please send the invoice for order 700305 to my work address maurice.blondel@acme-corp.com instead.,VIP customer - gold tier.
+30050,11149,2026-08-26T20:47,email,Change delivery address,Please send the invoice for order 704839 to my work address tilman.mosemann@acme-corp.com instead.,
+30051,10337,2026-08-17T00:36,phone,Delete my account,"I want to return order 704361, wrong size.",
+30052,10171,2026-09-18T20:25,phone,Wrong size,The discount code SUMMER10 does not work.,
+30053,10414,2026-06-30T18:36,phone,Delete my account,"Refund for 700511 please, to my account FR13 3000 4301 0240 8575 2844 203. Name on the account: Cécile Petit.","Called back, resolved."
+30054,10956,2026-10-22T02:29,email,Wrong size,"Hello, my order 703051 has not arrived. You can call me on 06 67 04 62 26 any time. Thanks, Charlotte",VIP customer - gold tier.
+30055,10431,2026-10-10T01:37,phone,Wrong size,"Hello, my order 704386 has not arrived. You can call me on 0033630220502 any time. Thanks, Alix",
+30056,10783,2026-05-29T13:28,phone,Change delivery address,Please send the invoice for order 703874 to my work address susanne.cousin@acme-corp.com instead.,"Called back, resolved."
+30057,10648,2026-10-04T13:05,phone,Delete my account,"Hello, my order 701642 has not arrived. You can call me on +32 611 223 386 any time. Thanks, Antoine","Customer angry, escalate."
+30058,10985,2026-01-28T22:17,email,Invoice request,Your app logs me out every time I open it.,"Customer angry, escalate."
+30059,10221,2026-05-12T09:51,chat,Invoice request,"I moved. New address: 417, rue Lopez, 95287 Poirier. Please update order 702060.","Customer angry, escalate."
+30060,10515,2026-03-05T17:58,email,Invoice request,"I want to return order 703399, wrong size.",
+30061,10933,2026-10-29T17:44,phone,Delete my account,"Hello, my order 700108 has not arrived. You can call me on +33 6 75 63 98 36 any time. Thanks, Valentine",
+30062,10789,2026-06-20T21:31,email,Account access problem,"Hello, my order 702825 has not arrived. You can call me on +32667303064 any time. Thanks, Aline",VIP customer - gold tier.
+30063,10833,2026-07-28T09:32,chat,Refund request,"Refund for 701185 please, to my account FR16 3000 4092 0452 0031 5012 613. Name on the account: Christiane Grenier.",
+30064,10736,2026-04-07T05:38,email,Invoice request,My card 5132 6100 3307 6668 was charged twice for 703560!,
+30065,10551,2026-03-20T14:57,email,Account access problem,"Refund for 705061 please, to my account FR96 3000 4095 7388 3313 3569 425. Name on the account: María Carmen Raya.",
+30066,11139,2026-05-30T23:39,phone,Delete my account,Please send the invoice for order 701144 to my work address ruth.revilla@acme-corp.com instead.,VIP customer - gold tier.
+30067,10579,2026-06-19T06:49,phone,Account access problem,Your app logs me out every time I open it.,
+30068,10444,2026-09-03T14:27,email,Wrong size,"Hello, my order 702329 has not arrived. You can call me on +34682307681 any time. Thanks, Reina",
+30069,11039,2026-05-02T11:05,chat,Change delivery address,"Hello, my order 705012 has not arrived. You can call me on +49610173973 any time. Thanks, Petros",
+30070,10699,2026-10-17T03:23,email,Payment declined,Please send the invoice for order 703119 to my work address emilia.abellán@acme-corp.com instead.,VIP customer - gold tier.
+30071,10988,2026-04-10T13:28,phone,Cancel my order,"Great service, thank you!","Called back, resolved."
+30072,10315,2026-03-31T09:14,phone,Invoice request,"I want to return order 702294, wrong size.","Called back, resolved."
+30073,10758,2026-05-08T08:47,phone,Delete my account,"I moved. New address: 29, rue de Chevalier, 37187 Denis-la-Forêt. Please update order 704359.",
+30074,10003,2026-10-21T00:59,phone,Payment declined,The discount code SUMMER10 does not work.,VIP customer - gold tier.
+30075,10564,2026-02-28T20:54,chat,Wrong size,Please send the invoice for order 703140 to my work address albert.leclercq@acme-corp.com instead.,VIP customer - gold tier.
+30076,10462,2026-02-23T18:56,email,Payment declined,"Refund for 702148 please, to my account FR79 3000 4884 6144 1083 5029 611. Name on the account: Susan Allard.","Customer born 1971-12-14, verified identity."
+30077,10230,2026-06-29T15:31,chat,Cancel my order,"I want to return order 704728, wrong size.",
+30078,10386,2026-10-27T19:03,chat,Cancel my order,"I want to return order 702183, wrong size.",
+30079,10760,2026-09-27T10:27,phone,Damaged item,"Refund for 703459 please, to my account FR57 3000 4407 9001 4284 4440 152. Name on the account: Guy Chauvet.","Customer born 1962-02-16, verified identity."
+30080,10182,2026-03-03T20:30,email,Delete my account,The discount code SUMMER10 does not work.,
+30081,10661,2026-08-18T01:33,phone,Account access problem,"I want to return order 700169, wrong size.","Customer angry, escalate."
+30082,10394,2026-09-10T14:52,chat,Refund request,"I moved. New address: rue Isabelle Huet, 61596 Saint Charles-la-Forêt. Please update order 701518.","Called back, resolved."
+30083,10339,2026-06-15T13:14,chat,Payment declined,"I want to return order 704132, wrong size.",
+30084,10585,2026-07-05T01:30,chat,Delete my account,Please send the invoice for order 705007 to my work address maría.abella@acme-corp.com instead.,VIP customer - gold tier.
+30085,10989,2026-02-09T00:15,email,Damaged item,The discount code SUMMER10 does not work.,
+30086,10225,2026-03-10T05:01,phone,Delete my account,Please send the invoice for order 704265 to my work address agathe.valette@acme-corp.com instead.,"Called back, resolved."
+30087,10064,2026-03-09T07:11,chat,Where is my order?,"Hello, my order 701127 has not arrived. You can call me on 06 39 90 49 02 any time. Thanks, Margaux","Customer born 1963-10-01, verified identity."
+30088,10225,2026-07-31T05:57,chat,Payment declined,"Hello, my order 705068 has not arrived. You can call me on 06 62 21 89 09 any time. Thanks, Agathe",
+30089,10541,2026-05-14T09:10,email,Cancel my order,"Order 702820: the item arrived damaged, box was crushed.","Called back, resolved."
+30090,10551,2026-04-02T21:33,chat,Cancel my order,The discount code SUMMER10 does not work.,
+30091,10223,2026-03-16T13:35,phone,Account access problem,"Hello, my order 703281 has not arrived. You can call me on +33 6 36 11 03 71 any time. Thanks, Véronique","Called back, resolved."
+30092,10876,2026-11-01T13:53,chat,Account access problem,Please send the invoice for order 703242 to my work address stéphanie.vaillant@acme-corp.com instead.,"Called back, resolved."
+30093,10165,2026-10-11T07:12,chat,Account access problem,"Order 700901: the item arrived damaged, box was crushed.","Called back, resolved."
+30094,10780,2026-01-30T09:31,email,Delete my account,Please send the invoice for order 701727 to my work address david.mertens@acme-corp.com instead.,"Customer born 1988-12-19, verified identity."
+30095,10061,2026-07-18T01:49,email,Delete my account,"I moved. New address: boulevard de Dupont, 13316 Robertnec. Please update order 704881.",VIP customer - gold tier.
+30096,10930,2026-03-21T05:30,phone,Damaged item,"I moved. New address: 847, boulevard Aurélie Marques, 47798 Gomes. Please update order 701263.","Called back, resolved."
+30097,10840,2026-09-17T23:16,chat,Wrong size,Please send the invoice for order 701560 to my work address ortrun.rosemann@acme-corp.com instead.,
+30098,10734,2026-04-11T04:04,email,Where is my order?,Your app logs me out every time I open it.,VIP customer - gold tier.
+30099,10543,2026-03-18T06:49,chat,Damaged item,"Refund for 703623 please, to my account FR30 3000 4993 5716 8485 0260 517. Name on the account: Matthieu Gonzalez.",VIP customer - gold tier.
+30100,10650,2026-02-08T04:11,phone,Delete my account,"Hello, my order 700463 has not arrived. You can call me on +34617912868 any time. Thanks, Mamen","Called back, resolved."
+30101,10419,2026-07-31T00:06,phone,Invoice request,"Great service, thank you!","Called back, resolved."
+30102,10533,2026-08-10T05:23,chat,Account access problem,"Refund for 700923 please, to my account FR84 3000 4322 9415 9215 1262 201. Name on the account: Laurence Delannoy.","Customer angry, escalate."
+30103,10658,2026-09-16T19:08,chat,Refund request,"Hello, my order 701355 has not arrived. You can call me on +49 615 366 377 any time. Thanks, Myriam","Customer angry, escalate."
+30104,10762,2026-07-23T13:48,phone,Wrong size,Can I change the delivery slot for 701368?,VIP customer - gold tier.
+30105,10377,2026-06-15T22:09,chat,Delete my account,"Hello, my order 700926 has not arrived. You can call me on +33 6 96 88 45 78 any time. Thanks, Adèle","Customer angry, escalate."
+30106,10266,2026-08-24T01:42,email,Change delivery address,"Refund for 704265 please, to my account FR31 3000 4078 5023 5657 2659 887. Name on the account: Alexandria Bouvier.",
+30107,11050,2026-07-28T08:16,email,Account access problem,Can I change the delivery slot for 700977?,"Customer angry, escalate."
+30108,10856,2026-08-18T23:01,phone,Invoice request,"I moved. New address: 76, rue de Hamon, 42925 Saint Cécilenec. Please update order 701778.","Customer born 1990-04-25, verified identity."
+30109,10918,2026-07-22T14:30,phone,Payment declined,"Refund for 704277 please, to my account FR53 3000 4733 0760 9386 5157 065. Name on the account: Noémi Morin.","Customer born 1991-02-01, verified identity."
+30110,10807,2026-08-31T05:41,phone,Cancel my order,"Refund for 701229 please, to my account FR66 3000 4249 9320 4849 4102 253. Name on the account: Harro Hermighausen.",
+30111,10175,2026-01-21T03:16,phone,Account access problem,Please send the invoice for order 702848 to my work address maurice.gilbert@acme-corp.com instead.,"Customer born 1999-02-11, verified identity."
+30112,10031,2026-06-08T13:16,email,Invoice request,"I moved. New address: 20, chemin de Bonnin, 97141 Sauvage. Please update order 704845.",
+30113,10488,2026-07-11T01:18,email,Delete my account,"I want to return order 704478, wrong size.","Customer born 1992-07-19, verified identity."
+30114,10152,2026-03-18T01:48,phone,Payment declined,Please send the invoice for order 702194 to my work address birgitt.lindau@acme-corp.com instead.,VIP customer - gold tier.
+30115,10045,2026-09-17T02:46,phone,Refund request,"Hello, my order 704143 has not arrived. You can call me on +33 6 53 75 56 46 any time. Thanks, Lucas",
+30116,10400,2026-10-08T21:57,chat,Payment declined,My card 4539 6166 3049 4032 was charged twice for 702747!,VIP customer - gold tier.
+30117,10829,2026-07-11T09:52,phone,Invoice request,My card 4970 6991 0237 4094 was charged twice for 704066!,
+30118,10175,2026-05-28T06:09,chat,Account access problem,"I moved. New address: 78, rue de Bernard, 81932 Durand. Please update order 700115.","Called back, resolved."
+30119,10496,2026-06-08T18:24,email,Change delivery address,"Hello, my order 704450 has not arrived. You can call me on 0033606335693 any time. Thanks, Marine",
+30120,10264,2026-06-29T06:46,phone,Change delivery address,"Hello, my order 703906 has not arrived. You can call me on +33 6 61 49 73 10 any time. Thanks, Henri",VIP customer - gold tier.
+30121,10541,2026-10-30T19:09,phone,Invoice request,Your app logs me out every time I open it.,VIP customer - gold tier.
+30122,10724,2026-09-28T16:20,phone,Change delivery address,Your app logs me out every time I open it.,VIP customer - gold tier.
+30123,11129,2026-02-28T05:46,email,Cancel my order,The discount code SUMMER10 does not work.,"Customer angry, escalate."
+30124,10024,2026-10-10T21:02,email,Invoice request,My card 5132 4611 1393 0956 was charged twice for 702824!,"Customer angry, escalate."
+30125,10476,2026-06-26T13:24,email,Where is my order?,"I moved. New address: 60, avenue de Rey, 77596 RoussetBourg. Please update order 701976.",VIP customer - gold tier.
+30126,10312,2026-06-09T00:19,phone,Delete my account,"Refund for 701363 please, to my account FR95 3000 4487 1962 8016 5274 316. Name on the account: Chantal Joubert.",
+30127,10065,2026-09-22T13:53,email,Payment declined,"Hello, my order 703264 has not arrived. You can call me on +32 667 175 655 any time. Thanks, Catherine",VIP customer - gold tier.
+30128,10659,2026-06-04T19:32,phone,Invoice request,The discount code SUMMER10 does not work.,"Called back, resolved."
+30129,10649,2026-02-12T01:04,email,Account access problem,"Hello, my order 703956 has not arrived. You can call me on +32699384253 any time. Thanks, Liliane","Customer born 1963-08-23, verified identity."
+30130,10946,2026-02-13T20:57,email,Where is my order?,Please send the invoice for order 705144 to my work address stéphane.charles@acme-corp.com instead.,
+30131,10340,2026-08-18T18:13,chat,Wrong size,My card 4539 7926 2243 9333 was charged twice for 701367!,
+30132,10944,2026-05-19T05:01,phone,Payment declined,"Hello, my order 700557 has not arrived. You can call me on +34 696 289 365 any time. Thanks, Reynaldo",VIP customer - gold tier.
+30133,10588,2026-04-29T07:25,email,Account access problem,Please send the invoice for order 703215 to my work address georges.morin@acme-corp.com instead.,"Customer angry, escalate."
+30134,10108,2026-05-14T01:10,chat,Refund request,"Hello, my order 701404 has not arrived. You can call me on +33 6 99 55 27 17 any time. Thanks, Zacharie",
+30135,10417,2026-01-15T17:17,email,Wrong size,"Hello, my order 704726 has not arrived. You can call me on +32682329832 any time. Thanks, Sacha","Customer angry, escalate."
+30136,10066,2026-06-30T16:46,email,Wrong size,"Hello, my order 703937 has not arrived. You can call me on +33 6 68 07 15 45 any time. Thanks, Patrick","Called back, resolved."
+30137,10181,2026-05-23T01:14,email,Where is my order?,"Hello, my order 702077 has not arrived. You can call me on +33 6 77 17 53 55 any time. Thanks, Michelle",VIP customer - gold tier.
+30138,11083,2026-09-03T17:49,phone,Change delivery address,"I want to return order 704405, wrong size.",
+30139,10345,2026-08-29T10:42,chat,Wrong size,"Hello, my order 703207 has not arrived. You can call me on +34692984257 any time. Thanks, Venceslás","Customer angry, escalate."
+30140,10688,2026-09-30T17:07,email,Invoice request,"Hello, my order 702047 has not arrived. You can call me on +33 6 57 66 65 67 any time. Thanks, Jérôme",VIP customer - gold tier.
+30141,11003,2026-07-20T15:49,chat,Cancel my order,"Refund for 701690 please, to my account FR02 3000 4207 7189 0751 4948 870. Name on the account: Raymonde Laurent.",
+30142,11108,2026-01-11T13:23,phone,Invoice request,"Order 700731: the item arrived damaged, box was crushed.","Called back, resolved."
+30143,11063,2026-06-08T00:29,chat,Cancel my order,"I moved. New address: 27, avenue de Cousin, 77299 Dijoux. Please update order 701057.",
+30144,10567,2026-11-03T02:57,phone,Change delivery address,"Hello, my order 701162 has not arrived. You can call me on 06 97 35 97 10 any time. Thanks, Valérie","Called back, resolved."
+30145,10146,2026-10-13T21:02,chat,Payment declined,My card 4970 6791 6011 0846 was charged twice for 701535!,"Customer born 2006-10-25, verified identity."
+30146,10417,2026-09-11T07:46,chat,Refund request,"Refund for 701472 please, to my account FR07 3000 4312 4897 6668 2041 150. Name on the account: Sacha Herman.",VIP customer - gold tier.
+30147,10838,2026-01-04T19:58,email,Wrong size,"Great service, thank you!",
+30148,10372,2026-04-15T10:27,chat,Account access problem,"Refund for 702515 please, to my account FR86 3000 4336 8385 4905 6838 162. Name on the account: Magdalene Zorbach.","Customer angry, escalate."
+30149,10386,2026-01-10T21:09,chat,Delete my account,Please send the invoice for order 704382 to my work address anne-sophie.peeters@acme-corp.com instead.,"Customer born 1995-07-14, verified identity."
+30150,11117,2026-04-03T07:23,phone,Damaged item,"Hello, my order 701270 has not arrived. You can call me on 0033659782457 any time. Thanks, Monique",
+30151,10401,2026-05-15T06:55,email,Wrong size,"Great service, thank you!","Customer born 1982-10-25, verified identity."
+30152,10249,2026-07-10T13:05,chat,Damaged item,"Hello, my order 700119 has not arrived. You can call me on 06 99 93 47 68 any time. Thanks, Julie","Customer angry, escalate."
+30153,10438,2026-07-07T14:34,email,Wrong size,Please send the invoice for order 704352 to my work address salomón.llopis@acme-corp.com instead.,"Customer angry, escalate."
+30154,10538,2026-05-25T14:09,phone,Payment declined,"Hello, my order 705152 has not arrived. You can call me on 06 18 77 34 77 any time. Thanks, Margot","Called back, resolved."
+30155,10588,2026-03-16T18:27,phone,Change delivery address,Can I change the delivery slot for 701567?,"Customer born 1976-04-01, verified identity."
+30156,10009,2026-01-09T18:34,email,Delete my account,"Hello, my order 703810 has not arrived. You can call me on 06 12 26 91 66 any time. Thanks, Gérard",
+30157,11147,2026-06-15T21:56,email,Where is my order?,"I moved. New address: 802, chemin Maillet, 70995 Roydan. Please update order 701121.","Customer angry, escalate."
+30158,11018,2026-05-28T15:20,chat,Payment declined,"Hello, my order 700373 has not arrived. You can call me on +33 6 70 09 34 59 any time. Thanks, Inès","Customer angry, escalate."
+30159,10476,2026-05-01T19:48,email,Damaged item,Can I change the delivery slot for 700266?,"Called back, resolved."
+30160,10733,2026-10-31T21:46,chat,Cancel my order,Your app logs me out every time I open it.,VIP customer - gold tier.
+30161,10416,2026-05-26T01:58,chat,Account access problem,"Hello, my order 701999 has not arrived. You can call me on 06 21 68 93 63 any time. Thanks, Patricia","Customer angry, escalate."
+30162,10124,2026-03-30T05:07,phone,Change delivery address,"Order 703964: the item arrived damaged, box was crushed.","Customer angry, escalate."
+30163,10564,2026-04-18T08:05,chat,Invoice request,Please send the invoice for order 702224 to my work address albert.leclercq@acme-corp.com instead.,
+30164,10327,2026-07-06T14:44,email,Wrong size,"Hello, my order 700367 has not arrived. You can call me on +49 690 158 144 any time. Thanks, Dunja",VIP customer - gold tier.
+30165,10987,2026-09-06T14:31,phone,Delete my account,"Hello, my order 703711 has not arrived. You can call me on 06 15 34 33 24 any time. Thanks, Christophe","Customer born 2002-02-13, verified identity."
+30166,10078,2026-06-05T21:23,chat,Account access problem,Can I change the delivery slot for 704254?,"Customer angry, escalate."
+30167,10412,2026-08-31T11:38,phone,Payment declined,The discount code SUMMER10 does not work.,"Customer angry, escalate."
+30168,11121,2026-04-29T07:37,phone,Where is my order?,The discount code SUMMER10 does not work.,
+30169,10496,2026-03-10T00:50,email,Delete my account,Your app logs me out every time I open it.,
+30170,10729,2026-10-17T08:41,chat,Delete my account,Can I change the delivery slot for 701602?,
+30171,10001,2026-11-02T18:08,chat,Change delivery address,The discount code SUMMER10 does not work.,
+30172,10174,2026-02-17T19:56,phone,Delete my account,Your app logs me out every time I open it.,"Customer angry, escalate."
+30173,10484,2026-08-05T10:53,chat,Refund request,Please send the invoice for order 701968 to my work address maxi.benavent@acme-corp.com instead.,"Customer born 1966-01-01, verified identity."
+30174,10023,2026-07-20T02:34,email,Refund request,Your app logs me out every time I open it.,
+30175,10384,2026-06-01T06:35,chat,Wrong size,My card 5132 8212 3789 9140 was charged twice for 701644!,"Customer angry, escalate."
+30176,10633,2026-02-27T05:30,email,Account access problem,"I moved. New address: boulevard Olivier Berger, 27274 Saint BernadetteVille. Please update order 703301.",
+30177,10659,2026-06-14T18:04,chat,Where is my order?,"Hello, my order 702370 has not arrived. You can call me on 06.07.55.36.66 any time. Thanks, Michèle","Called back, resolved."
+30178,11050,2026-01-29T22:39,chat,Refund request,"Refund for 701842 please, to my account FR62 3000 4278 3999 6603 3041 102. Name on the account: Candela Tejera.",
+30179,10161,2026-05-19T09:52,chat,Payment declined,"Refund for 702422 please, to my account FR57 3000 4090 6456 9907 5395 757. Name on the account: Sophie Gomez.",
+30180,10946,2026-11-03T10:41,email,Delete my account,"Refund for 702536 please, to my account FR20 3000 4326 4504 5546 2201 922. Name on the account: Stéphane Charles.","Called back, resolved."
+30181,10231,2026-09-28T16:31,phone,Refund request,"I want to return order 701527, wrong size.",
+30182,10143,2026-11-04T13:50,chat,Payment declined,"Hello, my order 703690 has not arrived. You can call me on +33 6 55 62 58 81 any time. Thanks, Margaux",
+30183,10124,2026-06-14T22:47,phone,Damaged item,"I want to return order 703274, wrong size.",
+30184,10006,2026-08-19T04:49,phone,Change delivery address,"Hello, my order 704020 has not arrived. You can call me on +49628327648 any time. Thanks, Stefania",
+30185,10870,2026-08-10T09:15,email,Damaged item,Please send the invoice for order 704748 to my work address inès.boyer@acme-corp.com instead.,"Called back, resolved."
+30186,10904,2026-02-07T01:22,chat,Payment declined,Please send the invoice for order 700297 to my work address eligia.rey@acme-corp.com instead.,
+30187,10546,2026-02-18T00:24,email,Invoice request,"Hello, my order 704350 has not arrived. You can call me on 06.83.44.04.96 any time. Thanks, Suzanne",
+30188,10191,2026-05-27T17:16,chat,Delete my account,"Refund for 702531 please, to my account FR60 3000 4369 5770 3033 9783 473. Name on the account: Anna Seco.",
+30189,10508,2026-01-29T09:08,phone,Where is my order?,"Hello, my order 704693 has not arrived. You can call me on +34 654 025 472 any time. Thanks, Dora",
+30190,10147,2026-02-15T06:51,phone,Payment declined,"Hello, my order 700129 has not arrived. You can call me on +34660983584 any time. Thanks, Ciro",
+30191,10103,2026-04-01T07:32,phone,Invoice request,"Hello, my order 701493 has not arrived. You can call me on +33 6 24 45 10 76 any time. Thanks, Marine","Customer angry, escalate."
+30192,10144,2026-05-10T01:46,phone,Change delivery address,My card 4970 1527 5892 9001 was charged twice for 700074!,"Customer born 1961-08-29, verified identity."
+30193,10673,2026-08-28T23:20,chat,Delete my account,"Hello, my order 703256 has not arrived. You can call me on +33 6 33 53 31 06 any time. Thanks, Alexandre",VIP customer - gold tier.
+30194,10689,2026-11-01T21:23,phone,Account access problem,"I want to return order 702645, wrong size.",
+30195,10019,2026-04-18T13:28,chat,Payment declined,"Great service, thank you!","Customer angry, escalate."
+30196,11069,2026-01-23T22:54,phone,Cancel my order,"Hello, my order 704442 has not arrived. You can call me on +34688285031 any time. Thanks, Milagros","Called back, resolved."
+30197,10456,2026-08-29T05:56,email,Change delivery address,"I moved. New address: 56, chemin Chartier, 60786 Saint Élisabethdan. Please update order 700286.","Called back, resolved."
+30198,11091,2026-07-02T10:33,chat,Refund request,"Great service, thank you!","Customer born 1966-07-28, verified identity."
+30199,10668,2026-08-09T00:10,phone,Change delivery address,Can I change the delivery slot for 703911?,
+30200,11109,2026-06-25T16:58,chat,Payment declined,"Hello, my order 702151 has not arrived. You can call me on +33 6 50 62 29 23 any time. Thanks, Michel",
+30201,10438,2026-02-15T23:22,chat,Account access problem,"Hello, my order 704307 has not arrived. You can call me on +34655699023 any time. Thanks, Salomón","Customer angry, escalate."
+30202,10447,2026-11-02T20:33,chat,Invoice request,"Great service, thank you!",
+30203,11115,2026-03-14T00:53,email,Invoice request,"Hello, my order 703252 has not arrived. You can call me on +49637970581 any time. Thanks, Selma","Customer born 1995-03-17, verified identity."
+30204,11125,2026-08-20T17:42,email,Invoice request,"I moved. New address: chemin de Hubert, 73884 François-sur-Weiss. Please update order 702291.","Customer born 1952-09-17, verified identity."
+30205,10572,2026-04-27T07:23,chat,Wrong size,"Hello, my order 703991 has not arrived. You can call me on +49628703203 any time. Thanks, Gerolf",
+30206,10910,2026-05-17T00:56,chat,Damaged item,"Hello, my order 701906 has not arrived. You can call me on 06 73 50 47 63 any time. Thanks, Antoinette","Customer born 1949-06-04, verified identity."
+30207,10782,2026-04-22T14:43,email,Refund request,My card 5132 5400 9171 4522 was charged twice for 700333!,VIP customer - gold tier.
+30208,10702,2026-08-22T20:11,chat,Payment declined,"Refund for 704957 please, to my account FR40 3000 4094 9360 4527 9384 869. Name on the account: Margaud Delmas.","Customer angry, escalate."
+30209,10852,2026-03-01T03:48,chat,Change delivery address,"Hello, my order 704094 has not arrived. You can call me on +33 6 23 28 83 77 any time. Thanks, Michèle","Customer born 1963-11-03, verified identity."
+30210,11051,2026-04-28T15:33,chat,Delete my account,"I want to return order 704507, wrong size.","Customer angry, escalate."
+30211,10466,2026-01-21T05:08,phone,Wrong size,"Hello, my order 701262 has not arrived. You can call me on +33 6 40 19 29 27 any time. Thanks, Arnaude",
+30212,10337,2026-08-23T14:12,phone,Delete my account,"I moved. New address: 96, rue Maurice Poirier, 15397 Saint Emmanuelboeuf. Please update order 703387.",VIP customer - gold tier.
+30213,10707,2026-02-03T11:58,chat,Change delivery address,"Refund for 704094 please, to my account FR58 3000 4482 0507 4603 8179 494. Name on the account: Élodie Pottier.","Customer born 1996-04-11, verified identity."
+30214,11086,2026-05-02T23:22,chat,Invoice request,"Refund for 701348 please, to my account FR58 3000 4966 1920 2021 9738 443. Name on the account: Danielle Boucher.",
+30215,10192,2026-04-06T12:24,phone,Cancel my order,Please send the invoice for order 702536 to my work address charles.pierre@acme-corp.com instead.,
+30216,10833,2026-03-25T10:57,phone,Wrong size,The discount code SUMMER10 does not work.,"Called back, resolved."
+30217,10421,2026-10-21T05:36,phone,Delete my account,"Hello, my order 700752 has not arrived. You can call me on 0033672233060 any time. Thanks, Suzanne",
+30218,10189,2026-10-23T15:26,email,Refund request,"Hello, my order 704591 has not arrived. You can call me on +33 6 01 48 90 25 any time. Thanks, Édouard",
+30219,10479,2026-08-22T20:03,email,Payment declined,"I moved. New address: 631, chemin Gillet, 73854 Sainte Charles. Please update order 700334.","Customer angry, escalate."
+30220,10032,2026-08-29T06:38,chat,Cancel my order,"Hello, my order 704059 has not arrived. You can call me on +33 6 19 65 56 98 any time. Thanks, Laurent",
+30221,10507,2026-07-15T12:07,phone,Account access problem,Please send the invoice for order 702073 to my work address adrien.richard@acme-corp.com instead.,VIP customer - gold tier.
+30222,10062,2026-01-22T17:36,chat,Change delivery address,Can I change the delivery slot for 703688?,
+30223,10579,2026-02-10T13:34,chat,Account access problem,"Refund for 701147 please, to my account FR67 3000 4461 1590 5590 7113 360. Name on the account: Monique Albert.",
+30224,10370,2026-02-13T13:35,phone,Change delivery address,"I moved. New address: 736, chemin Susanne Potier, 17632 Maury-sur-Louis. Please update order 703653.","Customer angry, escalate."
+30225,11095,2026-10-09T04:35,chat,Change delivery address,Can I change the delivery slot for 704180?,
+30226,11083,2026-07-11T20:21,phone,Invoice request,"I moved. New address: rue Élise Jacques, 40248 Vasseur. Please update order 704975.",
+30227,11020,2026-08-10T12:12,chat,Payment declined,Can I change the delivery slot for 701239?,
+30228,10992,2026-06-30T16:25,chat,Refund request,Can I change the delivery slot for 704331?,VIP customer - gold tier.
+30229,10543,2026-10-16T02:53,chat,Refund request,"Hello, my order 702413 has not arrived. You can call me on +33 6 34 91 14 15 any time. Thanks, Matthieu",VIP customer - gold tier.
+30230,10812,2026-11-01T21:19,chat,Change delivery address,"I moved. New address: 52, rue Joseph, 40416 LagardeBourg. Please update order 702124.","Customer born 1987-01-23, verified identity."
+30231,10918,2026-10-19T00:43,email,Delete my account,"Hello, my order 700959 has not arrived. You can call me on +33 6 65 81 73 90 any time. Thanks, Noémi","Called back, resolved."
+30232,10001,2026-10-05T15:34,phone,Change delivery address,My card 4970 6079 0966 9095 was charged twice for 703591!,
+30233,10735,2026-05-11T13:23,email,Wrong size,"Hello, my order 700084 has not arrived. You can call me on +33 6 26 50 16 73 any time. Thanks, Alexandrie","Customer angry, escalate."
+30234,10385,2026-08-30T04:45,email,Refund request,"I moved. New address: 873, avenue Charles Le Roux, 20947 Peron. Please update order 701647.","Customer angry, escalate."
+30235,10998,2026-11-05T07:59,chat,Invoice request,Your app logs me out every time I open it.,"Called back, resolved."
+30236,10769,2026-01-23T07:13,phone,Cancel my order,Please send the invoice for order 702459 to my work address trinidad.riquelme@acme-corp.com instead.,
+30237,11096,2026-10-27T02:21,email,Cancel my order,Please send the invoice for order 702336 to my work address ismet.kusch@acme-corp.com instead.,"Customer angry, escalate."
+30238,10900,2026-01-27T01:45,email,Where is my order?,"Refund for 700929 please, to my account FR49 3000 4094 6908 9343 9970 881. Name on the account: Élodie Le Goff.",
+30239,10326,2026-02-02T19:40,chat,Where is my order?,"I moved. New address: 3, avenue Théophile Delmas, 20122 Michaudboeuf. Please update order 700308.",VIP customer - gold tier.
+30240,10970,2026-09-12T12:57,email,Account access problem,"I want to return order 702510, wrong size.","Called back, resolved."
+30241,10462,2026-10-02T19:28,email,Invoice request,"Hello, my order 702642 has not arrived. You can call me on 0033612847818 any time. Thanks, Susan","Customer born 1971-12-14, verified identity."
+30242,10606,2026-07-24T11:25,phone,Where is my order?,Please send the invoice for order 702795 to my work address arthur.joseph@acme-corp.com instead.,"Customer born 1978-01-13, verified identity."
+30243,10427,2026-10-22T16:16,chat,Payment declined,Your app logs me out every time I open it.,
+30244,10821,2026-01-22T02:05,email,Change delivery address,My card 4970 4656 9777 8184 was charged twice for 703601!,"Called back, resolved."
+30245,10679,2026-08-06T16:21,phone,Damaged item,"Refund for 701961 please, to my account FR51 3000 4983 3102 2098 9512 739. Name on the account: Sophie Arnaud.",
+30246,10370,2026-05-24T14:29,phone,Change delivery address,"Great service, thank you!","Customer born 1976-11-06, verified identity."
+30247,10747,2026-01-23T20:50,chat,Payment declined,The discount code SUMMER10 does not work.,"Customer angry, escalate."
+30248,10577,2026-07-27T18:29,email,Delete my account,"Hello, my order 703029 has not arrived. You can call me on +33 6 45 01 89 61 any time. Thanks, Marcel","Customer angry, escalate."
+30249,10732,2026-07-17T01:25,phone,Damaged item,"Order 703414: the item arrived damaged, box was crushed.","Customer angry, escalate."
+30250,10203,2026-09-21T12:41,chat,Refund request,"I want to return order 702575, wrong size.",
+30251,10222,2026-10-31T14:40,phone,Damaged item,"Refund for 703597 please, to my account FR53 3000 4788 1164 8013 1655 502. Name on the account: Alfred Hamon.","Customer angry, escalate."
+30252,10170,2026-07-14T08:30,chat,Change delivery address,The discount code SUMMER10 does not work.,"Called back, resolved."
+30253,11121,2026-10-16T04:39,phone,Cancel my order,My card 4970 1797 4054 2931 was charged twice for 701624!,"Customer angry, escalate."
+30254,10448,2026-10-18T01:02,email,Delete my account,My card 4539 2577 3564 3635 was charged twice for 700477!,"Customer born 2006-05-23, verified identity."
+30255,10747,2026-02-05T11:33,chat,Account access problem,"Hello, my order 702024 has not arrived. You can call me on +32691093371 any time. Thanks, Vincent","Customer angry, escalate."
+30256,10060,2026-01-20T01:25,phone,Delete my account,"Refund for 702547 please, to my account FR80 3000 4280 7431 7158 3675 674. Name on the account: Danielle Ferreira.",
+30257,10404,2026-09-13T16:17,chat,Payment declined,Please send the invoice for order 703468 to my work address colette.perrot@acme-corp.com instead.,"Customer angry, escalate."
+30258,10180,2026-05-28T14:34,chat,Change delivery address,"Refund for 701077 please, to my account FR94 3000 4414 8218 0813 5080 817. Name on the account: Zeki Heuser.","Called back, resolved."
+30259,10512,2026-06-13T00:00,phone,Delete my account,"Hello, my order 704685 has not arrived. You can call me on +34617028140 any time. Thanks, Valerio",
+30260,10363,2026-05-27T12:50,email,Account access problem,"Hello, my order 703290 has not arrived. You can call me on +33 6 75 95 79 47 any time. Thanks, Maryse",
+30261,10871,2026-07-21T00:37,email,Damaged item,"Hello, my order 701432 has not arrived. You can call me on 06 93 42 96 71 any time. Thanks, Benoît","Customer angry, escalate."
+30262,10795,2026-01-21T13:10,chat,Cancel my order,The discount code SUMMER10 does not work.,"Customer angry, escalate."
+30263,10430,2026-06-08T02:32,chat,Payment declined,"I moved. New address: 75, rue Éléonore Petitjean, 36389 Bonnin. Please update order 702341.",VIP customer - gold tier.
+30264,10136,2026-07-27T06:52,phone,Refund request,"Refund for 705107 please, to my account FR08 3000 4650 7294 6635 3779 808. Name on the account: Claire Allard.","Called back, resolved."
+30265,10924,2026-02-02T03:01,phone,Cancel my order,Please send the invoice for order 701697 to my work address hanno.gunpf@acme-corp.com instead.,
+30266,10341,2026-01-07T11:41,phone,Invoice request,Please send the invoice for order 703072 to my work address esteban.varela@acme-corp.com instead.,"Called back, resolved."
+30267,10048,2026-04-22T21:03,phone,Where is my order?,"Refund for 701839 please, to my account FR26 3000 4362 8025 0046 8811 014. Name on the account: François Monnier.",
+30268,10149,2026-10-13T21:30,chat,Delete my account,"Refund for 700862 please, to my account FR33 3000 4590 6736 3841 7843 727. Name on the account: Camille Pascal.","Customer born 1968-11-29, verified identity."
+30269,10386,2026-04-29T16:32,email,Wrong size,"Hello, my order 705187 has not arrived. You can call me on +32608814743 any time. Thanks, Anne-Sophie",
+30270,10374,2026-09-01T23:32,phone,Where is my order?,Please send the invoice for order 701256 to my work address doris.meyer@acme-corp.com instead.,
+30271,10270,2026-04-19T16:53,phone,Wrong size,"Refund for 702087 please, to my account FR05 3000 4542 6187 5423 7752 766. Name on the account: Isaac Zurita.",
+30272,11079,2026-07-18T22:55,chat,Damaged item,"I moved. New address: 31, boulevard Susan Vincent, 90411 Bègue-les-Bains. Please update order 702518.","Customer born 1951-11-28, verified identity."
+30273,11067,2026-07-26T09:23,chat,Payment declined,My card 5132 5975 1049 0498 was charged twice for 703947!,
+30274,10770,2026-01-13T11:44,phone,Invoice request,Can I change the delivery slot for 704017?,VIP customer - gold tier.
+30275,10278,2026-05-29T17:35,phone,Account access problem,"I moved. New address: 87, rue Marc Carpentier, 95300 Sainte Monique. Please update order 701043.","Customer angry, escalate."
+30276,10045,2026-02-01T20:00,chat,Change delivery address,Please send the invoice for order 703124 to my work address lucas.torres@acme-corp.com instead.,"Customer born 1985-10-29, verified identity."
+30277,10872,2026-07-19T09:54,phone,Account access problem,Can I change the delivery slot for 700662?,"Customer angry, escalate."
+30278,10118,2026-06-26T06:45,phone,Delete my account,My card 5132 4902 6730 4320 was charged twice for 700945!,"Customer born 1982-11-10, verified identity."
+30279,11043,2026-10-19T00:54,chat,Damaged item,The discount code SUMMER10 does not work.,
+30280,10899,2026-11-05T03:44,email,Refund request,Please send the invoice for order 703932 to my work address alex.texier@acme-corp.com instead.,VIP customer - gold tier.
+30281,10394,2026-10-20T02:13,email,Refund request,"Hello, my order 703364 has not arrived. You can call me on 06 03 17 31 09 any time. Thanks, Thomas","Customer born 1961-06-24, verified identity."
+30282,10510,2026-05-05T12:47,email,Change delivery address,"Hello, my order 704056 has not arrived. You can call me on +33 6 55 25 78 28 any time. Thanks, Alain",VIP customer - gold tier.
+30283,10709,2026-02-21T22:52,email,Change delivery address,My card 4970 1718 5133 7425 was charged twice for 702479!,
+30284,10146,2026-05-02T08:13,chat,Wrong size,"Order 702862: the item arrived damaged, box was crushed.","Called back, resolved."
+30285,11133,2026-08-04T09:33,chat,Where is my order?,Please send the invoice for order 704620 to my work address régine.pirard@acme-corp.com instead.,VIP customer - gold tier.
+30286,10133,2026-07-10T03:38,chat,Change delivery address,"I want to return order 702188, wrong size.","Customer born 2000-09-27, verified identity."
+30287,11162,2026-06-03T03:49,phone,Wrong size,"Hello, my order 701933 has not arrived. You can call me on +34 656 793 279 any time. Thanks, Cipriano",
+30288,10789,2026-07-17T23:02,email,Cancel my order,"Refund for 700498 please, to my account FR57 3000 4936 1475 0425 2544 391. Name on the account: Aline Salmon.",
+30289,10548,2026-02-01T12:44,chat,Wrong size,"I want to return order 701129, wrong size.",
+30290,10930,2026-02-17T01:03,chat,Refund request,"Hello, my order 704715 has not arrived. You can call me on +33 6 51 02 87 67 any time. Thanks, Christelle","Customer angry, escalate."
+30291,10813,2026-10-25T15:10,chat,Invoice request,"Hello, my order 700213 has not arrived. You can call me on 06.85.60.12.56 any time. Thanks, Charlotte","Called back, resolved."
+30292,10927,2026-04-04T12:02,chat,Damaged item,"I moved. New address: 3, avenue Margaret Roy, 08198 Reynaud. Please update order 702646.","Customer angry, escalate."
+30293,10681,2026-04-30T09:40,chat,Invoice request,The discount code SUMMER10 does not work.,
+30294,10323,2026-07-14T01:55,phone,Wrong size,My card 4970 2345 8889 2631 was charged twice for 703969!,"Called back, resolved."
+30295,10957,2026-04-10T11:34,phone,Wrong size,"Hello, my order 700522 has not arrived. You can call me on +34616025298 any time. Thanks, Nuria","Customer born 1976-12-05, verified identity."
+30296,10575,2026-09-10T07:07,email,Invoice request,Please send the invoice for order 705125 to my work address victoire.traore@acme-corp.com instead.,"Customer born 1962-06-17, verified identity."
+30297,10459,2026-01-27T22:03,chat,Invoice request,Please send the invoice for order 703477 to my work address sabine.chauvin@acme-corp.com instead.,
+30298,10854,2026-03-19T02:08,chat,Account access problem,"Great service, thank you!","Called back, resolved."
+30299,10367,2026-07-12T23:49,email,Change delivery address,My card 4970 6627 7306 8981 was charged twice for 702944!,VIP customer - gold tier.
+30300,10912,2026-08-14T17:17,email,Damaged item,"Hello, my order 701861 has not arrived. You can call me on +32608358328 any time. Thanks, Cindy",
+30301,10356,2026-03-20T18:27,chat,Where is my order?,"Order 704180: the item arrived damaged, box was crushed.","Customer born 1970-07-06, verified identity."
+30302,10245,2026-06-17T14:21,email,Change delivery address,Please send the invoice for order 705112 to my work address adélaïde.paul@acme-corp.com instead.,VIP customer - gold tier.
+30303,10502,2026-06-28T05:14,phone,Wrong size,"Hello, my order 704452 has not arrived. You can call me on 06 18 32 53 81 any time. Thanks, Franck",VIP customer - gold tier.
+30304,10315,2026-04-19T15:20,email,Account access problem,"I moved. New address: 2, chemin de Allain, 55252 MoulinVille. Please update order 700261.",
+30305,10318,2026-09-08T19:59,chat,Account access problem,"Hello, my order 702810 has not arrived. You can call me on +33 6 81 60 64 84 any time. Thanks, Raymond",
+30306,11179,2026-09-30T23:32,phone,Refund request,"Hello, my order 704362 has not arrived. You can call me on +33 6 62 63 35 56 any time. Thanks, Laurent",
+30307,10147,2026-06-19T21:35,phone,Payment declined,"Hello, my order 703873 has not arrived. You can call me on +34660983584 any time. Thanks, Ciro","Customer born 1991-06-30, verified identity."
+30308,10307,2026-04-03T16:48,email,Account access problem,"Order 705138: the item arrived damaged, box was crushed.","Called back, resolved."
+30309,10266,2026-07-14T17:23,chat,Cancel my order,Your app logs me out every time I open it.,"Customer born 2006-02-21, verified identity."
+30310,10232,2026-10-01T18:05,phone,Where is my order?,"Hello, my order 701035 has not arrived. You can call me on +33 6 14 63 03 16 any time. Thanks, Margaret",
+30311,10234,2026-03-07T06:38,chat,Damaged item,My card 5132 7531 1336 1483 was charged twice for 702204!,"Customer angry, escalate."
+30312,10814,2026-07-26T08:04,email,Damaged item,"Hello, my order 704025 has not arrived. You can call me on 06 25 10 50 53 any time. Thanks, Victoire","Customer angry, escalate."
+30313,10542,2026-08-19T00:59,phone,Payment declined,"Refund for 702988 please, to my account FR18 3000 4419 9447 3118 4818 864. Name on the account: Honoré Breton.","Called back, resolved."
+30314,10893,2026-11-02T21:34,chat,Damaged item,"Hello, my order 701924 has not arrived. You can call me on +49 606 021 288 any time. Thanks, Samira","Customer born 1992-07-31, verified identity."
+30315,10874,2026-04-05T23:46,phone,Account access problem,"Hello, my order 703741 has not arrived. You can call me on +33 6 15 20 37 71 any time. Thanks, Thibaut",VIP customer - gold tier.
+30316,10319,2026-06-11T11:03,chat,Change delivery address,Please send the invoice for order 700735 to my work address emmanuelle.bègue@acme-corp.com instead.,VIP customer - gold tier.
+30317,10425,2026-02-20T10:01,email,Delete my account,My card 4970 0758 6470 3160 was charged twice for 703477!,"Called back, resolved."
+30318,10016,2026-05-03T02:28,phone,Change delivery address,"I want to return order 703974, wrong size.",VIP customer - gold tier.
+30319,10130,2026-02-24T09:37,chat,Where is my order?,Please send the invoice for order 704852 to my work address alexandria.pineau@acme-corp.com instead.,
+30320,10993,2026-09-12T15:31,chat,Invoice request,Please send the invoice for order 705140 to my work address luc.barbier@acme-corp.com instead.,
+30321,10991,2026-06-25T10:27,chat,Where is my order?,"Hello, my order 700559 has not arrived. You can call me on +32640333997 any time. Thanks, Maxime","Customer angry, escalate."
+30322,10739,2026-09-28T00:27,phone,Invoice request,The discount code SUMMER10 does not work.,"Customer angry, escalate."
+30323,10288,2026-03-23T15:46,email,Damaged item,"Great service, thank you!","Customer born 2000-11-16, verified identity."
+30324,11093,2026-03-10T13:23,email,Account access problem,Your app logs me out every time I open it.,"Customer angry, escalate."
+30325,10918,2026-05-21T18:33,chat,Where is my order?,"Great service, thank you!",
+30326,10872,2026-05-20T01:21,email,Where is my order?,My card 4970 2852 7288 7790 was charged twice for 704685!,"Customer born 1997-12-17, verified identity."
+30327,10105,2026-08-14T22:33,email,Payment declined,"Hello, my order 701815 has not arrived. You can call me on +33 6 52 97 51 61 any time. Thanks, Martin",VIP customer - gold tier.
+30328,10039,2026-10-26T11:03,phone,Invoice request,Please send the invoice for order 700520 to my work address michelle.bouvier@acme-corp.com instead.,"Called back, resolved."
+30329,10912,2026-02-22T01:12,email,Where is my order?,Please send the invoice for order 702168 to my work address cindy.toussaint@acme-corp.com instead.,"Customer born 1948-03-23, verified identity."
+30330,10337,2026-09-17T20:55,chat,Account access problem,"Hello, my order 703571 has not arrived. You can call me on +33 6 65 80 39 28 any time. Thanks, Philippine","Called back, resolved."
+30331,10042,2026-05-20T11:39,email,Cancel my order,Please send the invoice for order 703083 to my work address alain.martineau@acme-corp.com instead.,"Customer angry, escalate."
+30332,10955,2026-03-15T06:51,phone,Payment declined,"I moved. New address: avenue Camus, 38804 Giraud-sur-Guibert. Please update order 703484.","Called back, resolved."
+30333,10023,2026-10-08T11:38,chat,Where is my order?,"Hello, my order 700852 has not arrived. You can call me on +33 6 79 91 18 38 any time. Thanks, Bertrand",
+30334,10753,2026-06-10T08:31,phone,Payment declined,My card 4539 1378 8482 8882 was charged twice for 704131!,"Called back, resolved."
+30335,10721,2026-09-03T04:03,phone,Payment declined,"Hello, my order 700902 has not arrived. You can call me on +33 6 96 18 44 62 any time. Thanks, Antoinette",
+30336,10190,2026-05-03T06:30,email,Change delivery address,"I moved. New address: 81, avenue de Paris, 80768 TessierVille. Please update order 704182.","Customer angry, escalate."
+30337,10876,2026-02-11T11:20,email,Account access problem,"Refund for 705050 please, to my account FR54 3000 4336 2191 5330 4404 648. Name on the account: Stéphanie Vaillant.",VIP customer - gold tier.
+30338,10733,2026-04-29T06:02,chat,Invoice request,Please send the invoice for order 702349 to my work address fabienne.mertens@acme-corp.com instead.,
+30339,10162,2026-09-16T11:44,phone,Cancel my order,Your app logs me out every time I open it.,"Customer angry, escalate."
+30340,10115,2026-07-03T20:55,chat,Payment declined,Can I change the delivery slot for 700588?,VIP customer - gold tier.
+30341,10995,2026-06-16T02:25,email,Wrong size,"Great service, thank you!","Customer born 1981-04-10, verified identity."
+30342,10885,2026-09-03T15:54,email,Where is my order?,Please send the invoice for order 700629 to my work address isaac.charrier@acme-corp.com instead.,
+30343,10725,2026-08-12T20:00,chat,Damaged item,Please send the invoice for order 701929 to my work address fabrice.léonard@acme-corp.com instead.,"Customer born 1981-06-30, verified identity."
+30344,10274,2026-10-12T10:03,email,Invoice request,"Refund for 700429 please, to my account FR38 3000 4798 7939 5490 8783 518. Name on the account: Margaux Janssen.",
+30345,11174,2026-09-23T10:55,email,Payment declined,"I want to return order 703312, wrong size.",
+30346,10830,2026-06-14T18:58,email,Cancel my order,"Great service, thank you!",
+30347,10651,2026-01-16T06:45,email,Where is my order?,"Hello, my order 701717 has not arrived. You can call me on +33 6 77 74 96 90 any time. Thanks, Brigitte","Customer born 1946-05-21, verified identity."
+30348,10818,2026-08-08T07:59,email,Refund request,My card 4539 8497 3681 8099 was charged twice for 702746!,
+30349,10614,2026-03-28T20:55,chat,Account access problem,"Great service, thank you!",
+30350,11092,2026-01-31T12:37,chat,Change delivery address,"Hello, my order 702427 has not arrived. You can call me on +49631271026 any time. Thanks, Sören","Called back, resolved."
+30351,10668,2026-02-27T20:35,phone,Refund request,Please send the invoice for order 702765 to my work address cédric.callens@acme-corp.com instead.,VIP customer - gold tier.
+30352,10739,2026-08-13T16:24,phone,Account access problem,"I moved. New address: rue Rivière, 62756 JeanVille. Please update order 704751.","Customer angry, escalate."
+30353,10902,2026-08-10T14:36,email,Refund request,"Hello, my order 703355 has not arrived. You can call me on +49613152854 any time. Thanks, Mehdi",VIP customer - gold tier.
+30354,10259,2026-05-25T06:55,email,Refund request,Can I change the delivery slot for 704279?,"Customer born 1978-05-07, verified identity."
+30355,10212,2026-08-16T04:02,chat,Payment declined,"Hello, my order 702509 has not arrived. You can call me on 06.79.05.07.23 any time. Thanks, Maurice",VIP customer - gold tier.
+30356,10657,2026-09-03T20:07,email,Change delivery address,"I want to return order 700820, wrong size.","Customer born 1946-08-31, verified identity."
+30357,10575,2026-07-01T06:10,chat,Change delivery address,Please send the invoice for order 704283 to my work address victoire.traore@acme-corp.com instead.,
+30358,10783,2026-10-27T06:23,chat,Refund request,"I moved. New address: 597, rue de Allain, 23493 Imbertnec. Please update order 701001.","Called back, resolved."
+30359,10610,2026-01-09T19:40,phone,Damaged item,"Hello, my order 703881 has not arrived. You can call me on +33 6 15 94 08 21 any time. Thanks, Yves",
+30360,10103,2026-08-14T07:09,phone,Where is my order?,"I moved. New address: 621, boulevard Gonzalez, 51932 Sainte Frédérique. Please update order 703275.",
+30361,10171,2026-01-05T19:25,phone,Damaged item,"I moved. New address: 971, boulevard de Delannoy, 83227 Delmas. Please update order 702125.",
+30362,10576,2026-04-13T05:01,chat,Where is my order?,Please send the invoice for order 701777 to my work address maurice.blondel@acme-corp.com instead.,
+30363,10808,2026-08-12T01:28,email,Wrong size,"Hello, my order 700405 has not arrived. You can call me on +32 698 028 413 any time. Thanks, Giuseppe",VIP customer - gold tier.
+30364,10832,2026-10-05T22:58,email,Account access problem,"Great service, thank you!",VIP customer - gold tier.
+30365,10642,2026-05-23T10:16,email,Payment declined,My card 5132 0808 6891 7123 was charged twice for 701735!,"Customer angry, escalate."
+30366,10159,2026-09-08T20:34,email,Delete my account,Please send the invoice for order 701274 to my work address maria-luise.seip@acme-corp.com instead.,VIP customer - gold tier.
+30367,10878,2026-05-30T03:55,email,Change delivery address,"Order 704978: the item arrived damaged, box was crushed.",
+30368,10796,2026-04-03T06:54,email,Invoice request,Please send the invoice for order 704164 to my work address luka.lebrun@acme-corp.com instead.,"Customer angry, escalate."
+30369,10265,2026-03-25T23:54,chat,Cancel my order,"Hello, my order 703426 has not arrived. You can call me on +32614677418 any time. Thanks, Noël",
+30370,10854,2026-10-26T18:14,email,Damaged item,Please send the invoice for order 704616 to my work address julien.leclerc@acme-corp.com instead.,"Called back, resolved."
+30371,10888,2026-03-17T09:56,chat,Damaged item,The discount code SUMMER10 does not work.,VIP customer - gold tier.
+30372,10257,2026-05-31T07:34,email,Change delivery address,"Refund for 703753 please, to my account FR09 3000 4086 3777 0123 1058 758. Name on the account: Aimée Faivre.","Called back, resolved."
+30373,11160,2026-09-24T08:35,phone,Cancel my order,Your app logs me out every time I open it.,VIP customer - gold tier.
+30374,11174,2026-04-08T01:39,chat,Change delivery address,"I moved. New address: boulevard Lemonnier, 23105 Cohenboeuf. Please update order 705128.","Customer angry, escalate."
+30375,11180,2026-04-19T03:12,email,Invoice request,Can I change the delivery slot for 700568?,"Called back, resolved."
+30376,10610,2026-07-21T10:04,chat,Delete my account,"Hello, my order 703935 has not arrived. You can call me on +33 6 15 94 08 21 any time. Thanks, Yves",
+30377,11089,2026-01-21T14:17,phone,Payment declined,"Order 703435: the item arrived damaged, box was crushed.",
+30378,10648,2026-06-22T10:24,email,Delete my account,Please send the invoice for order 704408 to my work address antoine.ledoux@acme-corp.com instead.,
+30379,10857,2026-02-10T16:37,email,Delete my account,Can I change the delivery slot for 704533?,VIP customer - gold tier.
+30380,10184,2026-07-09T04:12,email,Delete my account,"Refund for 704178 please, to my account FR69 3000 4542 3436 0955 8968 431. Name on the account: Édith Martineau.",
+30381,10097,2026-07-11T23:02,phone,Cancel my order,Please send the invoice for order 700190 to my work address rené.bouillon@acme-corp.com instead.,
+30382,10402,2026-01-03T22:14,chat,Cancel my order,"Refund for 703970 please, to my account FR16 3000 4620 1819 2974 4512 843. Name on the account: Patrick Fernandez.","Customer born 2004-02-14, verified identity."
+30383,10501,2026-07-20T09:06,phone,Delete my account,"Hello, my order 704998 has not arrived. You can call me on +34650850165 any time. Thanks, Zoraida","Customer born 1948-11-21, verified identity."
+30384,10171,2026-06-21T00:39,chat,Payment declined,Please send the invoice for order 704739 to my work address dominique.bègue@acme-corp.com instead.,"Called back, resolved."
+30385,10011,2026-09-08T09:24,email,Account access problem,Please send the invoice for order 702211 to my work address janine.cornet@acme-corp.com instead.,VIP customer - gold tier.
+30386,10106,2026-09-11T13:34,chat,Wrong size,"Refund for 700385 please, to my account FR15 3000 4568 4268 3759 5727 867. Name on the account: Mathilde Joubert.",
+30387,10461,2026-04-23T14:46,chat,Delete my account,"Refund for 704740 please, to my account FR74 3000 4415 7726 2362 9583 553. Name on the account: Alexandrie Lemoine.","Called back, resolved."
+30388,10799,2026-05-04T14:12,email,Delete my account,"Hello, my order 702363 has not arrived. You can call me on +33 6 60 53 84 44 any time. Thanks, Marine",VIP customer - gold tier.
+30389,10076,2026-05-17T12:42,chat,Invoice request,"Refund for 701777 please, to my account FR62 3000 4809 8818 2975 1737 889. Name on the account: Marie Michaux.",
+30390,10286,2026-08-25T04:14,phone,Invoice request,"Hello, my order 704203 has not arrived. You can call me on 0033617099917 any time. Thanks, Matthieu","Called back, resolved."
+30391,10104,2026-07-05T15:33,phone,Invoice request,Please send the invoice for order 704028 to my work address cécile.dupuy@acme-corp.com instead.,"Called back, resolved."
+30392,10538,2026-10-05T12:57,phone,Damaged item,"I moved. New address: rue Bruneau, 26768 Fernandez. Please update order 703029.",VIP customer - gold tier.
+30393,10045,2026-04-16T08:35,phone,Delete my account,"Great service, thank you!",
+30394,11083,2026-06-04T11:45,chat,Damaged item,Please send the invoice for order 700365 to my work address nicole.gaspard@acme-corp.com instead.,
+30395,10317,2026-08-12T04:15,chat,Payment declined,"Order 704688: the item arrived damaged, box was crushed.","Customer angry, escalate."
+30396,10455,2026-06-27T13:30,phone,Where is my order?,The discount code SUMMER10 does not work.,"Called back, resolved."
+30397,10226,2026-04-09T06:17,email,Where is my order?,"Refund for 704509 please, to my account FR32 3000 4029 8625 9228 1139 119. Name on the account: Ignatz Jacobi Jäckel.","Customer angry, escalate."
+30398,10041,2026-08-09T11:49,chat,Where is my order?,"Hello, my order 703383 has not arrived. You can call me on +33 6 12 23 62 31 any time. Thanks, Marcel","Customer born 1962-07-30, verified identity."
+30399,10320,2026-03-13T15:42,phone,Refund request,"Great service, thank you!",
+30400,10246,2026-08-18T20:29,chat,Cancel my order,Please send the invoice for order 702123 to my work address jeanne.blin@acme-corp.com instead.,
+30401,10435,2026-08-14T15:41,email,Change delivery address,"I moved. New address: 20, boulevard Léger, 46657 Briand. Please update order 701307.",VIP customer - gold tier.
+30402,11072,2026-03-16T23:41,email,Account access problem,Your app logs me out every time I open it.,"Customer angry, escalate."
+30403,11118,2026-09-21T18:22,phone,Account access problem,Your app logs me out every time I open it.,"Called back, resolved."
+30404,10537,2026-06-12T07:40,email,Refund request,"I moved. New address: 4, rue Diane Cousin, 84646 Jolydan. Please update order 701657.","Customer angry, escalate."
+30405,11099,2026-03-16T20:28,email,Payment declined,"Great service, thank you!","Customer angry, escalate."
+30406,10285,2026-02-14T17:31,email,Damaged item,"Great service, thank you!","Customer angry, escalate."
+30407,10202,2026-07-17T03:07,phone,Invoice request,Please send the invoice for order 704351 to my work address pauline.vallée@acme-corp.com instead.,"Called back, resolved."
+30408,10996,2026-01-04T10:01,phone,Where is my order?,"Refund for 702552 please, to my account FR47 3000 4297 8790 2451 3441 336. Name on the account: Claire Poirier.","Customer born 2008-06-21, verified identity."
+30409,10779,2026-09-04T03:14,phone,Refund request,Your app logs me out every time I open it.,"Called back, resolved."
+30410,10508,2026-03-27T19:45,email,Refund request,"Great service, thank you!",
+30411,10146,2026-07-08T22:26,email,Refund request,"Hello, my order 702736 has not arrived. You can call me on +33 6 47 97 48 01 any time. Thanks, Pierre",
+30412,10605,2026-02-05T19:52,chat,Payment declined,Please send the invoice for order 700736 to my work address alice.maréchal@acme-corp.com instead.,VIP customer - gold tier.
+30413,10161,2026-06-26T06:51,phone,Cancel my order,"Hello, my order 702745 has not arrived. You can call me on +33 6 72 87 43 15 any time. Thanks, Sophie","Customer angry, escalate."
+30414,11075,2026-06-16T09:31,chat,Account access problem,Your app logs me out every time I open it.,VIP customer - gold tier.
+30415,10982,2026-07-12T13:33,phone,Damaged item,Please send the invoice for order 704593 to my work address jacques.brunet@acme-corp.com instead.,"Called back, resolved."
+30416,10655,2026-10-23T05:08,email,Wrong size,Please send the invoice for order 700640 to my work address kike.pedrero@acme-corp.com instead.,"Called back, resolved."
+30417,10622,2026-07-28T23:49,chat,Account access problem,"Refund for 704611 please, to my account FR75 3000 4422 1550 3524 9052 331. Name on the account: Azahara Granados.",
+30418,10708,2026-08-25T12:45,phone,Wrong size,"I want to return order 703021, wrong size.",
+30419,10601,2026-04-09T13:00,phone,Invoice request,"Hello, my order 700430 has not arrived. You can call me on +49 608 466 845 any time. Thanks, Matthias","Called back, resolved."
+30420,11019,2026-07-30T16:10,chat,Refund request,"Hello, my order 702078 has not arrived. You can call me on +33 6 25 12 07 34 any time. Thanks, François",
+30421,10423,2026-10-02T09:14,email,Delete my account,"Hello, I no longer want to use ShopFast. Please delete all my data. Camille Rousseau, camille.rousseau@orange.fr, +33 6 12 48 93 27",
+30422,10423,2026-06-11T17:40,chat,Change delivery address,"Hi, please deliver order to 14 rue Paul Bert, 69003 Lyon. Camille","Customer born 1991-03-08, verified identity."

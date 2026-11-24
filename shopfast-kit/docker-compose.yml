@@ -1,0 +1,23 @@
+# ShopFast local database for the Data Governance course
+# Uses about 150-250 MB of RAM. Start:  docker compose up -d    Stop:  docker compose down
+services:
+  shopfast-db:
+    image: postgres:16-alpine
+    container_name: shopfast-db
+    environment:
+      POSTGRES_USER: shopfast_admin
+      POSTGRES_PASSWORD: shopfast_admin   # local training password only
+      POSTGRES_DB: shopfast
+    ports:
+      - "5432:5432"
+    volumes:
+      - ./data:/data:ro
+      - ./init:/docker-entrypoint-initdb.d:ro
+      - shopfast_pgdata:/var/lib/postgresql/data
+    mem_limit: 512m
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U shopfast_admin -d shopfast"]
+      interval: 5s
+      retries: 10
+volumes:
+  shopfast_pgdata:

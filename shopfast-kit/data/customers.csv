@@ -1,0 +1,1242 @@
+customer_id,first_name,last_name,email,phone,birth_date,address,city,postal_code,country,signup_date,marketing_consent,loyalty_tier
+10328,Alain,Boutin,alain.boutin@gmail.com,+33 6 28 32 68 42,1956-08-31,"29, rue de Rolland",Jacquot,63965,FR,2023-08-29,true,gold
+10524,Thérèse,Hubert,therese.hubert@outlook.com,06.32.83.38.98,1999-01-23,"875, rue Thierry",Bernard,42673,fr,2021-07-29,true,bronze
+10125,Célina,Lemaire,celina.lemaire@gmx.de,06.65.40.51.53,09-04-1986,"58, avenue Charlotte Berger",Courtois-les-Bains,20610,FR,2021-03-31,true,bronze
+10812,Aurelia,Cuevas,aurelia.cuevas@yahoo.fr,+34666395517,1987-01-23,Cuesta de Jacinto Querol 6,Burgos,50108,ES,2024-05-28,true,gold
+10335,Cristina,Campoy,cristina.campoy@@outlook.com,+34634110809,2006-01-10,Cuesta de Constanza Pla 98 Puerta 9 ,Zamora,24682,ES,2024-01-09,true,silver
+10613,Esther,Grande,esther.grande@outlook.com,+34 628 777 251,1992-03-14,Rambla de Sabina Cueto 13,Ourense,38628,Espagne,04-10-2025,true,platinum
+11199,Michel,Le Gall, michel.legall@gmail.com,06.88.21.88.49,1953-10-07,"2, avenue Boulay",Dupont-sur-Mer,17180,FR,2026-07-04,true,gold
+10561,Susana,Galan,susana.galan@outlook.com,+34672063459,1984-09-12,Pasadizo María Castro 84,Huelva,02776,ES,14/07/2024,true,silver
+10678,Paul,Colas,paul.colas@free.fr,06 71 50 99 76,1985-04-07,"661, avenue de Boutin",Duval-les-Bains,22671,FRA,2025-10-10,true,silver
+10665,Simone,Imbert,simone.imbert@gmail.com,0033671693859,1993-07-17,"7, rue Philippe Fournier",Munozdan,56850,FR,2021/10/20,false,platinum
+10894,Jean,François,jean.francois@web.de,0033641559991,1968-10-13,"461, avenue Roger Salmon",Allain-sur-Maillard,25446,FR,2022-05-10,true,bronze
+10073,Guillaume,Fernandes,guillaume.fernandes@gmail.com,+33 6 89 51 71 87,1960-06-09,"71, chemin Élodie Turpin",Bonnet-sur-Mer,88256,FR,2021-09-16,true,platinum
+10535,Klaudia,Weitzel,klaudia.weitzel@outlook.com,,1988-02-05,Scheelring 3/5,Viechtach,05717,DE,2021-05-13,true,platinum
+10829,Grégoire,Masson,gregoire.masson@gmail.com,+33 6 66 34 36 29,1999-07-11,"53, rue de Diaz",Picard-sur-Verdier,58528,FR,2024-08-21,true,platinum
+10733,Fabienne,Mertens,,+32681447443,1988-03-18,8281 Jean-François Groves,Carlaview,42865,BE,08-31-2025,true,platinum
+10156,Anne,Schmit,anne.schmit@proton.me,+32 652 404 157,1998-02-23,960 Sabine Stravenue,Vincentton,28888,BE,04/08/2025,true,platinum
+10666,Gabrielle,Cousin,gabrielle.cousin@yahoo.fr,+33 6 75 46 92 63,1980-01-23,"68, avenue Robert Joseph",RenardBourg,62294,FR,2022-08-13,true,platinum
+10571,Célina,Charrier,celina.charrier@outlook.com,+33 6 45 64 49 48,1978-01-10,"4, rue de Boulay",Jolydan,50472,FR,2023-10-20,true,gold
+10456,Valentine,Peltier,valentine.peltier@free.fr,0033694651909,1985-04-01,rue Picard,Faure,61304,FR,06/09/2022,false,silver
+10889,Anouk,Marie,anouk.marie@hotmail.com,+33 6 94 35 35 37,1993-11-02,"9, avenue Ledoux",Fischer,40226,FR,2025-09-09,true,silver
+10233,Catherine,Lemaître,catherine.lemaître@outlook.com,06.02.02.75.88,1969-04-22,"68, chemin Manon Lopes",Noël,97219,FR,2021-09-02,true,gold
+10332,Valentine,Chauvin,valentine.chauvin@hotmail.com,06 49 13 57 75,2004-05-22,"79, boulevard de Rémy",Faivre-les-Bains,8422,FR,2021-07-24,false,silver
+10064,Margaux,Clément,margaux.clement@gmail.com,06 39 90 49 02,01/10/1963,"41, chemin de Jean",Caron,84748,FR,2021-07-07,true,platinum
+10890,Sébastien,Pascal,sebastien.pascal@proton.me,+33 6 15 88 15 79,1991-05-14,"7, avenue Joséphine Guyon",Torres,11435,FR,2023-01-12,false,silver
+10826,Véronique,Lambert,,+32698363146,1994-12-12,4915 Sophie Ville Suite 778,Port Ninatown,95240,BE,2023-07-16,false,bronze
+10473,Charles,Bertrand,charles.bertrand@hotmail.com,+32 611 192 692,2003-06-02,19392 Martens Ports Suite 024,New Dominiquetown,59020,BE,2024-05-12,true,silver
+10507,Adrien,Richard,adrien.richard@free.fr,06 57 98 87 74,1988-03-07,"22, rue de Ramos",Sainte Lucy-sur-Mer,15955,FR,2024-09-04,false,silver
+10200,Thierry,Vaillant,thierry.vaillant@hotmail.com,06.82.80.73.74,1969-08-07,"916, rue Agnès Ruiz",Benoit,42932,FRA,04-27-2024,true,platinum
+10738,Nicolas,Neveu,nicolas.neveu@proton.me,06 50 23 74 16,1964-03-03,avenue Toussaint,Saint Susannenec,24101,FR,2025-03-04,false,silver
+10344,  CÉLINE ,Gautier,celine.gautier@proton.me,0033690413797,1954-05-28,"865, avenue Sylvie Gilles",Dufour-sur-Ribeiro,01505,FR,12/05/2024,true,silver
+10953,Gaston,Schumacher,gaston.schumacher@proton.me,+32 673 162 526,1965-08-09,3104 Piérard Brooks,Cornettown,78396,BE,30/08/2025,false,platinum
+10037,Anne,Mathieu,anne.mathieu@hotmail.com,+33 6 91 76 93 67,2005-03-11,"209, boulevard Geneviève Barbe",Bertin,5084,FR,09-01-2023,true,bronze
+10779,Alexandrie,Marie,alexandrie.marie@outlook.com,06 96 79 04 22,1982-06-05,"947, boulevard Bourdon",Saint CharlotteBourg,88181,FR,2021/02/18,true,bronze
+10498,Marianne,Lucas,marianne.lucas@hotmail.com,,1967-06-18,"16, rue Petitjean",Lecomte,62467,FR,2021-06-20,true,bronze
+10922,Henri,Letellier,henri.letellier@yahoo.fr,+33 6 61 62 02 81,1989-01-16,"25, rue de Pasquier",Renault,38964,fr,2021-08-04,false,bronze
+11053,Trudi,Preiß,trudi.preiß@web.de,+49637490797,2002-08-30,Ira-Hellwig-Ring 3/1,Sebnitz,79600,Allemagne,09/08/2025,false,bronze
+11047,Eva,Schuster,eva.schuster@web.de,+49 669 131 196,1949-08-29,Kruschwitzallee 19,Fallingbostel,60048,DE,12-31-2021,true,gold
+10014,Kathy,Karz,kathy.karz@proton.me,+49657871331,1969-10-10,Täschering 29-27,Naila,76018,DE,2024-10-07,true,silver
+10713,Jean-Claude,Nicaise,jean-claude.nicaise@outlook.com,+32618596263,1984-06-04,029 Stéphan Wells Suite 274,Nicoleland,48912,BE,2021-04-18,true,platinum
+10545,Laetitia,Loiseau,laetitia.loiseau@gmx.de,+33 6 35 78 52 94,1961-03-25,"71, boulevard Monique Carre",Sainte Denise,06798,france ,2021-07-24,false,silver
+10354,Maike,Kruschwitz,maike.kruschwitz@proton.me,+49684902770,2007-11-02,Hölzenbecherplatz 711,Worbis,99582,DE,2024-06-11,true,gold
+10206,Henriette,Besnard,henriette.besnard@orange.fr,06 10 51 23 82,1974-12-15,"386, boulevard Dos Santos",Roux,36896,FR,04-02-2021,false,platinum
+10753,Antoine,Paquay,antoine.paquay@orange.fr,+32 640 338 105,1958-07-03,33910 Demanet Land,North Véroniqueport,11376,BE,2021-09-30,false,gold
+10395,Diane,Seguin,diane.seguin@orange.fr,06 53 91 03 71,1977-12-20,"4, avenue Frédéric Guillot",DiazBourg,95501,France,2021-04-11,true,bronze
+10104,Cécile,Dupuy,,+33 6 60 60 71 59,09/03/1965,"25, boulevard de Ledoux",Olivier,29223,FR,2021-05-28,false,platinum
+10316,Rosa-Maria,Steuer,rosa-maria.steuer@web.de,+49 638 406 665,10-23-1959,Hermighausenweg 4/8,Erding,81444,DE,2023-03-08,true,bronze
+10262,Ferdinand,Beckmann,ferdinand.beckmann@web.de,+49 659 970 629,1978-11-24,Meisterplatz 33,Parsberg,79701,DE,2021-07-10,true,bronze
+10872,Marie-Thérèse,Pirard,marie-therese.pirard@hotmail.com,+32653745843,1997-12-17,825 Lisette Springs,Woutersview,92476,BE,2023-10-11,false,gold
+10597,Priscila,Busquets,priscila.busquets@free.fr,+34 647 871 255,1995-04-01,Cuesta de Carina Peñalver 408 Apt. 82 ,La Rioja,26370,Spain,11-18-2021,true,silver
+10105,Martin,Rousset,martin.rousset@proton.me,+33 6 52 97 51 61,16/05/1976,"441, rue Agnès Colin",Garcia,92703,FR,12/02/2021,true,platinum
+10510,Alain,Dos Santos,alain.dossantos@gmail.com,+33 6 55 25 78 28,1987-08-30,"59, rue de Guichard",Vidal,21436,france ,2024-09-25,true,platinum
+10334,Doris,Wagenknecht,doris.wagenknecht@free.fr,+49 677 547 812,1994-04-26,Hansjürgen-Beckmann-Straße 21-76,Soltau,05652,DE,2023-09-10,true,gold
+10479,Kunibert,Schomber,kunibert.schomber@proton.me,,1986-08-27,Jolanthe-Sölzer-Straße 531,Sonneberg,78066,DE,2021-04-24,true,platinum
+10623,Willibert,Peukert,willibert.peukert@outlook.com,+49607494653,1999-05-20,Rene-Pieper-Gasse 50/74,Beilngries,58567,DE,02/01/2021,true,gold
+10019,Américo,Segovia,americo.segovia@gmail.com,+34 660 647 468,1995-10-09,Cuesta de Constanza Fernandez 81 Apt. 04 ,Lugo,32942,ES,2021-12-04,false,silver
+10977,Bernadette,Joubert,bernadette.joubert@hotmail.com,+33 6 27 53 27 35,1946-12-31,avenue Jacques,Descampsdan,50219,FR,2025-10-08,true,bronze
+10025,Guillaume,Poncin,guillaume.poncin@outlook.com,+32 611 824 493,2000/10/31,28081 Lambot Flat,Bodsonborough,43783,BE,2022/06/26,true,gold
+10263,Michelle,Legendre,michelle.legendre@hotmail.com,+33 6 68 84 44 31,1994-09-02,"20, rue Besnard",Humbert,48251,FR,2022-01-25,true,platinum
+10246,Jeanne,Blin,jeanne.blin@yahoo.fr,+33 6 21 00 32 36,1955-08-02,"159, rue Lambert",Aubry-sur-Gilles,84739,FR,2025-07-05,true,bronze
+10898,Myriam,Lacroix,myriam.lacroix@gmail.com,+32636849951,2007-02-10,3876 Greco Crest Apt. 891,Port Mehmetport,91554,BE,2025-07-26,true,bronze
+10390,Anastasie,Toussaint,anastasie.toussaint@proton.me,06 24 07 78 48,1965-02-12,"21, rue Martel",Saint Jeanne-sur-Mer,89873,,2023-01-04,true,silver
+11109,Michel,Guillon,michel.guillon@outlook.com,+33 6 50 62 29 23,1948-06-17,"87, avenue Alexandrie Mahe",Maillard,65736,FR,2023-03-30,false,platinum
+10952,Ute,Wagenknecht,ute.wagenknecht@outlook.com,+49685072517,1962-04-11,Ingmar-Cichorius-Platz 521,Rathenow,78088,DE,03/11/2024,false,silver
+10368,Astrid,Godard,astrid.godard@outlook.com,06.02.67.28.85,1954-07-22,"38, rue de Camus",Joly,49533,FR,2023-08-27,false,gold
+10293,Elmar,Adler,elmar.adler@gmail.com,+49648909010,1992-11-08,Klemmallee 7/2,Vohenstrauß,41561,DE,2023-02-08,true,platinum
+10999,Ainara,Quevedo,ainara.quevedo@free.fr,+34 646 966 060,1997-06-23,Via de Dionisia Gutiérrez 4,Cáceres,05087,Espagne,2023-07-11,false,silver
+10226,Ignatz,Jacobi Jäckel,ignatz.jacobijackel@outlook.com,+49 697 311 219,1977-02-17,Alida-Oestrovsky-Weg 7757,Pößneck,86122,DEU,2023-04-24,false,platinum
+10002,André,Traore,andre.traore@web.de,+33 6 08 38 63 79,1963-03-13,"9, boulevard Briand",Saint Éric,28242,FR,2024-05-17,true,silver
+10802,Henri,Guibert,henri.guibert@yahoo.fr,0033628196482,1986-03-18,"62, boulevard Adrien Buisson",Martelnec,05780,FR,2024-12-25,true,bronze
+11046,Élodie,Roy,elodie.roy@gmx.de,0033622501394,1995-02-20,"10, boulevard Stéphane Guibert",Martin,68533,,01-11-2023,true,gold
+10725,Fabrice,Léonard,fabrice.leonard@yahoo.fr,+32 684 971 859,1981-06-30,61323 Dussart Flat,Lake Jean-Louisfurt,01957,BE,12-26-2021,true,gold
+10570,Françoise,Bertin,francoise.bertin@orange.fr,+33 6 87 57 21 58,1980-02-09,"75, boulevard Peron",Lucas,69583,FR,2021-12-14,false,bronze
+10624,Diane,Joubert,diane.joubert@web.de,0033614161284,1991-04-07,"18, rue Marie Goncalves",Saint Sylvie,97672,FR,2024-02-28,true,gold
+11039,Petros,Otto,petros.otto@orange.fr,+49610173973,1951-07-08,Mansallee 38/61,Kehl,89236,DE,2023/01/01,true,gold
+11088,Nicole,Gérard,nicole.gerard@outlook.com,+32 669 326 573,1967-06-22,827 Sophie Summit Apt. 194,South Gwenaëlle,92119,BE,2024-08-06,true,platinum
+10767,Madeleine,Peltier,madeleine.peltier@gmx.de,06.83.61.96.89,1949-09-28,"302, boulevard Stéphane Perrier",Verdier-sur-Cohen,27936,FR,27/12/2023,true,silver
+10318,Raymond,Lenoir,raymond.lenoir@outlook.com,+33 6 81 60 64 84,2004-10-04,"42, rue Alex Colas",Didier,74837,FR,2025-02-14,true,gold
+10910,Antoinette,Marty,antoinette.marty@gmail.com,06 73 50 47 63,1949-06-04,"29, rue de Schneider",Sainte JeanVille,31353,france ,2022-07-04,true,silver
+11028,Xiomara,Benavent,xiomara.benavent@orange.fr,+34 656 082 137,1967-03-24,Vial de Paloma Almagro 791,Castellón,47781,ES,2021-05-10,true,gold
+10345,Venceslás,Galán,venceslas.galan@outlook.com,+34692984257,1966-01-26,Plaza Magdalena Alegria 59 Puerta 4 ,Alicante,21736,ES,2025-06-16,true,silver
+10822,Patricia,Gimenez,patricia.gimenez@,06.22.97.12.52,11-05-1977,"14, rue Gérard",Mahe-les-Bains,59888,France,2022-07-07,false,platinum
+10256,Catherine,Salmon,catherine.salmon@proton.me,06 15 45 22 67,1980-07-05,"3, avenue Besson",Pascal,79796,FR,15/04/2024,true,gold
+10223,Véronique,Merle,veronique.merle@,+33 6 36 11 03 71,01-02-1989,"22, avenue de Da Silva",Renaud,89590,FR,2025-01-26,true,platinum
+10573,Geneviève,Moreno,genevieve.moreno@gmx.de,06 17 07 58 77,1987-05-31,"15, avenue Grondin",Sainte Alexandrie-sur-Mer,19853,france ,13/06/2023,true,silver
+10250,Chantal,Rivière,chantal.riviere@proton.me,06.83.80.65.78,1962-09-20,chemin Jacob,Humbert-sur-Menard,31244,FR,2022-02-13,false,gold
+10643,Marcella,Schulz,marcella.schulz@gmx.de,+49659959465,1963-12-08,Hornigallee 475,Vilsbiburg,78325,DE,2024-05-13,false,bronze
+10050,Ludovic,Dubois,ludovic.dubois@gmx.de,+32626284987,1995-02-28,68675 Aurélie Circles,Louisville,68331,BE,12-19-2024,true,gold
+10268,Gérard,Baudry,gerard.baudry@hotmail.com,06 41 60 89 89,1988-06-30,"14, rue Adélaïde Pichon",Letellier,48504,FR,2023-09-03,true,silver
+10432,Camille,Rémy,camille.remy@yahoo.fr,06.16.22.49.99,1953-08-03,"866, avenue Normand",Giraudboeuf,59151,FR,2021-04-11,true,platinum
+11059,Olegario,Llano,olegario.llano@gmx.de,+34624633515,1977-05-22,Calle Nuria García 3,Albacete,50662,ES,05/07/2021,true,gold
+10370,Anouk,Pottier,anouk.pottier@web.de,06 45 06 15 93,1976-11-06,"22, rue de Samson",Klein,90960,FR,2025-07-17,true,silver 
+11027,Margot,Pons,margot.pons@orange.fr,06 85 52 45 78,04/04/1955,boulevard de Lejeune,Reynec,93433,FR,2024-09-04,true,gold
+10362,Bernardo,Torrents,bernardo.torrents@hotmail.com,+34 633 952 111,1970-05-14,Calle Régulo Mendoza 94,Pontevedra,21648,ES,2022-04-15,true,platinum
+10565,Anaïs,Fontaine,anais.fontaine@yahoo.fr,+32 686 771 333,1984-02-02,773 Eliane Stream,Baudouxburgh,40191,,29/01/2021,false,gold
+11120,Hanne-Lore,Dörschner,hanne-lore.dorschner@web.de,+49 697 514 743,1981-01-19,Karl-Ludwig-Putz-Gasse 66/97,Olpe,53516,DE,2021-11-18,false,gold
+10288,Olivie,Godard,olivie.godard@outlook.com,+33 6 17 52 50 07,2000-11-16,"251, boulevard Bodin",Baudry,11638,FR,2025-05-15,true,silver
+11129,Lucas,Ruiz,lucas.ruiz@free.fr,0033662394535,1973-02-05,"59, rue de Gaudin",Baron-sur-Mer,90780,FR,13/11/2023,false,bronze
+10555,Anaïs,Morvan,anais.morvan@free.fr,+33 6 96 36 32 12,1964-06-14,"90, rue de Denis",Saint Henriette,81247,FR,2022-11-06,false,platinum
+10371,Françoise,Lefèbvre,francoise.lefebvre@orange.fr,+32658771694,1947-12-06,2418 Eric Pines,Alainville,63275,BE,2022-12-29,true,silver
+10195,Jeanne,Lefèvre,jeanne.lefevre@yahoo.fr,+33 6 81 99 56 04,1968-01-16,"10, chemin Denis Imbert",Sainte CélinaVille,2156,FR,2022-12-26,true,silver
+10392,Nath,Henry,nath.henry@web.de,06 20 95 93 51,1952-05-15,"32, boulevard Thibault",Saint Brigitte,47406,fr,2023-02-16,true,platinum
+10150,Franck,Parent,franck.parent@free.fr,06 69 49 58 88,07/08/1960,"49, rue de Bousquet",Bonnin-la-Forêt,04734,France,2021-11-29,true,gold
+10234,André,Guyon,andre.guyon@outlook.com,+33 6 41 05 64 81,1957-08-04,"5, avenue Marcel Raymond",Lemonnier,66496,FR,2025-03-16,true,bronze
+10491,Constance,Mathieu,constance.mathieu@gmail.com,06.22.07.81.13,2000-07-09,"30, rue Le Goff",Colasdan,48642,FR,2024-01-06,true,gold
+10537,Sylvie,Sauvage,sylvie.sauvage@gmx.de,0033632010170,04-29-1952,"78, boulevard Grenier",Jacquot,86857,France,2023-10-16,false,gold
+10899,Alex,Texier,alex.texier@gmx.de,+33 6 32 44 91 34,1988-08-29,"911, avenue Luc Cousin",Marin-la-Forêt,20410,FR,18/06/2023,true,silver
+10885,Isaac,Charrier,isaac.charrier@free.fr,06.61.64.20.59,1995-01-23,"111, rue de Auger",Carre,78347,FR,2025-08-26,false,platinum
+10284,Joana,Pärtzelt,joana.partzelt@gmx.de,+49658428241,2005-02-16,Hartungring 2/8,Gardelegen,37343,DEU,2024-10-07,true,gold
+10219,Martha,Speer,martha.speer@proton.me,+49611684577,1987-09-22,Larissa-Köster-Straße 6,Weißwasser,23468,DE,2023/07/15,true,bronze
+11054,Lila,Godart,lila.godart@outlook.com,+32 687 805 721,1988-04-01,995 Sacha Roads,Maximhaven,61406,BE,2021-02-15,true,gold
+10873,Carmen,Heintze,carmen.heintze@web.de,,1989-01-08,Irmingard-Hartung-Platz 4,Beeskow,86272,DEU,2021-08-02,true,silver
+10038,Sofia,Denis,sofia.denis@yahoo.fr,+32 663 287 083,27/09/1958,589 Mireille Creek,Samuelfurt,80602,Belgium,2025-05-14,true,platinum
+10013,Olivia,Gillet,olivia.gillet@web.de,+32622782489,1956-03-01,06067 Alfred Manors,New Adrienshire,45283,BE,2025-04-18,true,silver
+10651,Brigitte,Petitjean,brigitte.petitjean@@free.fr,+33 6 77 74 96 90,1946-05-21,rue Zacharie De Oliveira,Didier,12254,France,12-13-2023,true,platinum
+10053,Antonia,Koch II,antonia.kochii@gmx.de,+49637770143,2000-04-28,Kuhlstraße 77,Erkelenz,28907,Allemagne,2024-02-12,true,gold
+10385,Emilie,Mignon,emilie.mignon@hotmail.com,+32673037183,1999-07-29,60700 Luc Walks,Annechester,11326,Belgique,2023-02-28,true,gold
+10962,Margot,Becker,margot.becker@yahoo.fr,+49608632181,1950-12-23,Hubertine-Martin-Gasse 11/52,Mühldorf am Inn,13409,DE,01-02-2023,true,platinum
+10764,Marc,Lemonnier,marc.lemonnier@orange.fr,06.45.14.75.41,1983-02-06,"48, rue Rousset",Coulon-sur-Noël,97665,FR,07-03-2024,true,silver
+10939,Janna,Pölitz,janna.politz@yahoo.fr,+49 670 493 862,2004-01-10,Alexandros-Lange-Straße 343,Bad Freienwalde,08554,DE,2021-12-20,true,gold
+10040,Gustave,Thomas,,+32643487347,1950-06-26,9506 Ismail Mills,Martinland,98241,BE,2023-07-11,false,silver
+10259,Jacinta,Peral,jacinta.peral@free.fr,+34 604 331 541,07/05/1978,Pasadizo de Glauco Mendizábal 37 Piso 7 ,Zaragoza,46358,ES,2023/07/04,true,platinum
+10581,Loretta,Jacobi Jäckel,loretta.jacobijackel@outlook.com,+49688147617,2003-12-26,Reinhild-Kraushaar-Straße 0,Marktheidenfeld,64311,DE,10-12-2023,true,gold
+11035,Tom,Duquesne,tom.duquesne@yahoo.fr,+32 692 372 450,2000-03-04,3652 Sophie Ports,North Karine,53292,BE,2025-01-26,true,gold
+10980,Ursel,Benthin,ursel.benthin@web.de,+49607704605,1899-01-01,Casparstraße 971,Haldensleben,14521,DEU,2025-01-03,true,platinum
+10324,Laure,Laine,laure.laine@web.de,06.01.33.61.38,1961-10-09,"6, avenue Geneviève Berger",Ribeiro,45373,FR,2023-12-29,true,platinum
+11078,Gilbert,Bonnet,gilbert.bonnet@outlook.com,0033681323570,2003-10-10,"261, rue de Vaillant",Sainte Claude,1276,fr,2022-08-21,true,silver
+11042,Charles,Prévost,charles.prevost@web.de,+33 6 66 03 92 05,1899-01-01,"7, rue de Moreau",Lenoir,52167,FR,2021-03-18,false,bronze
+10435,Alice,Dos Santos,alice.dossantos@orange.fr,06 95 48 99 52,1972-04-13,"18, chemin Christiane Devaux",Barreboeuf,82916,FR,2023-05-25,false,platinum
+11051,Hanni,Oestrovsky,hanni.oestrovsky@proton.me,+49645465535,1993-04-16,Frithjof-Franke-Weg 20,Eilenburg,88293,DE,2025-03-10,true,silver
+10605,Alice,Maréchal,alice.marechal@web.de,+33 6 10 17 49 07,1984-07-19,"802, rue Luc Descamps",Renault-sur-Mer,6091,FR,2022-12-27,true,silver
+10497,Martine,Pauwels,martine.pauwels@gmail.com,+32600780686,1973-03-11,5400 Dumont Shoal,North Cédricport,30157,BE,2023-05-06,true,bronze
+10661,Julie,Wéry,julie.wery@yahoo.fr,+32663715974,05-22-1958,8860 Dylan Orchard Suite 531,Thierrymouth,83037,BE,2023-12-31,true,silver
+10683,Damian,Weihmann,damian.weihmann@outlook.com,+49621298338,2007-11-20,Wilhelm-Nohlmans-Weg 7,Dinkelsbühl,18146,DE,2022-02-23,true,platinum
+10824,Benjamin,Vincent,benjamin.vincent@hotmail.com,06 31 17 03 03,1986-06-30,"85, rue Traore",Saint Hugues,36314,FR,2024-09-12,false,silver
+10301,Jeannine,Fontaine,jeannine.fontaine@proton.me,+33 6 59 02 77 16,1973-12-30,rue Maréchal,Rey-sur-Mer,86820,FR,15/05/2025,true,Platinium
+11232,Guy,Rémy, guy.remy@hotmail.com,06.13.75.35.82,29/10/1992,"61, rue Rémy Lacroix",Jacquot,30455,FR,2025-01-24,true,platinum
+10843,Aimée,Poulain,aimee.poulain@yahoo.fr,+33 6 49 42 96 59,1956-11-29,rue de Dos Santos,Dupuis,71821,FR,2022-06-20,true,gold
+10879,Solange,Philippart,solange.philippart@orange.fr,+32641384596,1997-05-05,8902 Jean-Claude Junction Apt. 384,North Bruno,76808,BEL,2025-06-26,false,gold
+10081,Harald,Nette,harald.nette@outlook.com,+49610470952,1947-07-30,Gießstraße 81/76,Wertingen,75116,Allemagne,2024-07-10,false,gold
+11019,François,Millet,francois.millet@web.de,+33 6 25 12 07 34,1978-05-29,"31, avenue de Bouchet",Saint Charlesnec,24942,FR,07/11/2021,false,gold
+10644,Élisabeth,Petit,,06.33.79.33.75,1989-03-14,"70, boulevard Nicolas Robert",Besson-sur-Mer,62873,FR,2024-08-01,false,silver
+10766,Juanito,Gallego,juanito.gallego@free.fr,+34676769523,1966-06-30,Vial de Angelina Ochoa 446,La Coruña,44241,ES,2022/10/16,true,platinum
+11222,Solange,Philippart,solange.philippart@orange.fr,+32641384596,1997-05-05,8902 Jean-Claude Junction Apt. 384,North Bruno,76808,BEL,2025-09-04,false,gold
+10630,Manon,Tanguy,manon.tanguy@orange.fr,+33 6 87 28 39 99,1956-11-12,"88, avenue de Chevalier",Bonneau-la-Forêt,97446,FR,2024/03/11,true,silver
+10838,Gilles,Legros,gilles.legros@web.de,+32645569644,1993-04-20,377 Maureen Pine Apt. 716,New Mathieu,05757,BE,2021-12-25,true,gold
+10017,Herta,Stadelmann,herta.stadelmann@yahoo.fr,+49665133387,1981-03-27,Barkholzstraße 22/89,Fürstenwalde,04974,DE,2021-05-05,true,gold
+11008,Justine,Thomas,,+32 628 197 931,1949-07-06,192 Michel Knolls Suite 243,Antoniostad,27279,Belgium,26/12/2023,false,gold
+11124,Susanne,Marion,susanne.marion@free.fr,+33 6 51 65 17 68,2003/06/09,"73, boulevard Collin",Ollivier,73987,FR,2023-01-02,false,platinum
+10681,Agnès,Sauvage,agnes.sauvage@proton.me,+33 6 40 35 53 38,1974-01-23,"5, rue de Paul",Hernandez,50100,FR,2024-08-20,true,silver
+10173,Suzanne,Dumont,suzanne.dumont@proton.me,06 03 31 19 07,1980-12-02,"71, avenue Michelle Roux",Brunel,75675,FR,2024-06-13,true,GOLD
+10194,Caroline,Bazin,caroline.bazin@orange.fr,06 54 12 12 67,2004-02-03,"355, rue Charlotte Pichon",Paris,72758,,2023-06-30,true,platinum
+10120,Bernadette,Alexandre,,+32675060685,1973-05-01,7861 Dubois Path,Hubertbury,90181,Belgique,2025-07-31,true,gold
+10647,Lucie,Pineau,lucie.pineau@orange.fr,+33 6 02 61 53 47,14/10/1984,"63, rue Girard",Simon-les-Bains,34817,FR,2021-07-27,false,silver
+10481,Alain,Hubert,alain.hubert@yahoo.fr,+33 6 84 78 70 05,1961-10-08,"76, avenue Philippe Carpentier",Hernandeznec,39829,FR,2025-06-12,true,bronze
+10313,Mélissa,Lecomte,melissa.lecomte@outlook.com,+32 685 158 799,1969-03-23,407 Noël Mission,East Marie-Christine,10958,BE,2023-10-29,true,platinum
+10572,Gerolf,Hentschel,gerolf.hentschel@gmx.de,+49628703203,25/11/1955,Jochem-Vollbrecht-Gasse 713,Donaueschingen,98523,Germany,2025-04-14,false,gold
+10727,Georges,Payet,georges.payet@web.de,06.22.26.94.05,2006-05-18,"8, avenue Émilie Thomas",Teixeira-sur-Gomez,01737,FR,2024-12-31,true,platinum
+10735,Alexandrie,Gillet,alexandrie.gillet@gmail.com,+33 6 26 50 16 73,1997-07-19,"5, rue Gérard Lemonnier",Boulanger,97264,FR,2022-12-18,true,silver
+10366,Sylvie,Maillet,sylvie.maillet@hotmail.com,+33 6 79 55 27 63,1990-05-07,"3, rue Olivier Schneider",Saint Alix-les-Bains,8141,france ,06/07/2022,false,gold
+10589,Suzanne,Leduc,suzanne.leduc@yahoo.fr,06 66 79 98 40,1995-08-12,"316, avenue Pauline Rey",Sainte Joséphinenec,48458,FRA,2024-07-15,false,platinum
+10329,Julian,Wilkin,julian.wilkin@gmail.com,+32682100996,2001-10-14,5433 Valentin Plain,South Sylvie,16308,BE,2024-02-08,true,gold
+10590,Pierre,Roche,pierre.roche@gmail.com,0033606958146,1946-03-19,boulevard de Lemaire,Robertnec,95908,FR,2023-12-18,true,platinum
+11087,  ISABELLE ,Nguyen,isabelle.nguyen@outlook.com,06 68 62 70 36,13/03/1978,"99, rue Lelièvre",Marion,5570,FR,2024-09-12,true,gold
+10092,Wilhelm,Schönland,wilhelm.schonland@web.de,+49 670 076 617,1967-05-15,Rebekka-Römer-Gasse 2340,Regen,80588,Allemagne,2022-09-10,false,bronze
+10043,Judith,Ferrera,judith.ferrera@proton.me,+34689373467,1983-12-22,Cañada de Cecilia Palacios 32 Puerta 1 ,Tarragona,10712,Spain,2024-01-08,false,platinum
+10698,Dominik,Sorgatz,dominik.sorgatz@free.fr,+49 635 669 055,1979-10-07,Karzstraße 9/1,Halberstadt,57883,DE,2022-10-08,true,platinum
+10376,Patricia,Fouquet,patricia.fouquet@free.fr,0033657784872,1973-09-04,rue de Léger,Sainte Rémy,27535,FR,29/10/2025,true,silver
+10680,Paulette,Couturier,paulette.couturier@hotmail.com,+33 6 63 03 97 52,1972/12/30,"99, avenue Gosselin",Vallet-la-Forêt,92431,FRA,2021-11-07,true,bronze
+10066,Patrick,Ollivier,patrick.ollivier@gmx.de,+33 6 68 07 15 45,1984-05-19,"49, avenue de Costa",Berger-les-Bains,97319,FR,2022/08/14,false,bronze
+11091,  THÉOPHILE ,Humbert,theophile.humbert@web.de,06 22 61 89 62,1966-07-28,rue Adrien Riou,Jacquot,14565,FR,2021-11-24,true,platinum
+10886,Antoine,Leduc,antoine.leduc@free.fr,+32 649 025 042,1956-09-09,7604 Aurore Lake Suite 466,Hendrickxstad,15131,BE,2023-08-22,true,bronze
+10823,Damaris,Gutknecht,damaris.gutknecht@web.de,+49639774573,1955-12-08,Kuschallee 830,Büsingen am Hochrhein,33124,DE,2023-12-17,false,bronze
+10887,Olivie,Tanguy,olivie.tanguy@free.fr,+33 6 89 53 69 02,1946-02-21,"375, rue Jules Monnier",Lamy-sur-Mer,92201,FR,2023-11-13,true,bronze
+10909,Charles,Leroy,charles.leroy@hotmail.com,06.60.85.45.66,26/01/1983,"19, chemin de Gillet",Sainte Adélaïdeboeuf,17957,FR,2025-10-09,false,platinum
+10707,Élodie,Pottier,,+33 6 24 37 72 94,1996-04-11,"326, boulevard de Barbier",Mercier,18416,FR,2022-10-10,true,bronze
+10800,Raymond,Aubry,raymond.aubry@proton.me,+33 6 00 25 89 55,1957-01-29,"862, rue Gimenez",CarpentierBourg,09603,FR,2021-03-08,true,platinum
+10279,Karl-Heinrich,Jopich,karl-heinrich.jopich@orange.fr,+49 668 007 229,1957/07/06,Tlustekweg 1/1,Northeim,78383,DE,2024-08-27,true,gold
+10418,Noël,Humbert,noel.humbert@outlook.com,+33 6 92 51 88 12,1976-11-13,"11, boulevard Pasquier",Albert,08245,FR,2024-09-05,true,bronze
+11158,Aurélie,Boulay,aurelie.boulay@yahoo.fr,,1961-03-19,"57, rue Mallet",Clerc,11161,FR,2024-02-21,true,bronze
+10128,Roland,Pages,roland.pages@gmail.com,+33 6 54 15 66 76,1964-09-05,"82, avenue de Barre",Courtois,75693,FR,2025-11-09,true,platinum
+10352,Michelle,Briand,michelle.briand@proton.me,,1995-08-01,"79, boulevard de Jacquot",DevauxVille,10559,france ,2025/02/15,false,bronze
+10183,Capucine,Peltier,,06 77 72 52 28,1972-08-01,"93, chemin Perret",Sainte Margaretdan,77552,FR,2022-06-12,true,bronze
+11116,Anne,Lebon,anne.lebon@gmx.de,+33 6 94 17 63 42,1997-08-24,boulevard Patricia Gérard,Dumas-sur-Mer,97193,FR,2023-08-06,true,platinum
+10868,Marcelle,Chartier,marcelle.chartier@gmail.com,+33 6 38 96 08 70,2002-02-09,"20, avenue Daniel Joseph",Blin,53283,FR,2021-02-23,false,silver
+10350,Jadwiga,Lachmann,jadwiga.lachmann@free.fr,+49651269448,1961-02-12,Rustring 12-12,Sondershausen,06261,Allemagne,2023/04/18,false,gold
+10903,Johann,Noack,,+49661853800,1948-02-19,Brunhilde-Müller-Ring 44,Mallersdorf,57712,DE,2021-03-20,true,platinum
+11040,Thibault,Cordier,thibault.cordier@gmx.de,+33 6 99 69 86 09,1988-08-15,"10, avenue Eugène Julien",Pasquier,08729,fr,23/02/2024,true,bronze
+10242,Aurore,Gaudin,aurore.gaudin@gmail.com,06 23 44 56 55,2003-03-31,rue de Bailly,Renard,08951,FR,10/06/2023,true,bronze
+11096,Ismet,Kusch,ismet.kusch@orange.fr,+49676504715,1953-02-15,Baumweg 740,Uelzen,21818,DE,2022-06-23,true,bronze
+10774,Alexia,François,alexia.francois@outlook.com,+32 636 903 628,2008-09-16,99559 Hubert Rue,Lake Louisefort,48261,BE,2025-03-02,true,platinum
+10865,Valentine,Hernandez,valentine.hernandez@,+33 6 00 56 43 50,1998-06-13,"13, rue Charles",Riou,38605,France,2024-08-30,true,gold
+10179,Rodolfo,Zabaleta,rodolfo.zabaleta@hotmail.com,+34698373540,1967-05-07,Ronda de Gustavo Trillo 581 Apt. 17 ,La Rioja,46261,ES,06/07/2025,true,bronze
+11180,Jean,Guiot,jean.guiot@proton.me,+32670931706,1971-10-20,10405 Delcourt Orchard,East Noémieville,50509,BE,2024-05-14,false,platinum
+10715,Michèle,Delahaye,michele.delahaye@web.de,+33 6 09 99 74 19,1969-06-06,"42, rue Lejeune",Sainte Antoinette,49603,France,04-06-2022,false,platinum
+10684,Marcel,Gomes,marcel.gomes@hotmail.com,0033662934497,28/03/1947,"388, rue Jacques",Meyer,88942,FRA,2022-05-17,true,gold
+10949,Samuel,Charlier,samuel.charlier@hotmail.com,+32681664969,1988-02-28,848 Toussaint Shores Apt. 997,Janssenston,93980,,2025-04-12,true,silver
+10693,Paulette,Dufour,paulette.dufour@hotmail.com,06.64.02.70.11,1976-03-02,"938, rue Guérin",Diallo,25599,France,2025-03-13,false,platinum
+10159,Maria-Luise,Seip,maria-luise.seip@orange.fr,+49640193802,1947-06-30,Miroslaw-Gumprich-Allee 165,Ansbach,78684,DE,10-20-2022,true,bronze
+10127,Joséphine,Grégoire,josephine.gregoire@hotmail.com,+33 6 30 54 86 87,1992-11-19,avenue Zacharie Guillou,Bernard,18984,FR,2021-03-31,true,silver
+10677,Teresa,Oger,teresa.oger@yahoo.fr,+32 689 241 956,01-08-1979,263 Lefebvre Ville Apt. 374,East Cédricstad,72560,BE,2024-12-30,true,silver
+10483,Lucie,Germain,lucie.germain@gmail.com,+33 6 20 20 41 79,2000-02-22,"33, rue de Boyer",Antoine-sur-Peltier,33771,FR,2022-05-13,true,bronze
+10891,Zoé,Hebert,zoe.hebert@outlook.com,+33 6 36 92 94 45,1960-02-06,"81, chemin de Colin",Sainte Margot,52397,FR,2024-01-07,true,platinum
+10936,Hortense,Perez,hortense.perez@gmx.de,0033681050922,1952-11-07,"79, avenue Christiane Guyon",Bertin,31628,FR,2025-03-16,true,bronze
+10482,Isabelle,Henry,isabelle.henry@hotmail.com,06.87.82.93.10,1946-05-02,"599, rue Christine Andre",Baron,84963,FR,2025-07-11,false,bronze
+10255,Saturnino,Dávila,saturnino.davila@free.fr,+34 625 002 921,1970-03-18,Calle de Jordana Sanabria 794,Palencia,12073,ES,2025-01-08,false,bronze
+10930,Christelle,Normand,,+33 6 51 02 87 67,1961-05-22,"67, rue Madeleine Seguin",Saint Marie,35903,FR,2021-01-01,true,bronze
+10358,  THÉOPHILE ,Bertrand,theophile.bertrand@free.fr,06 84 89 47 69,1996-11-29,"3, rue de Blondel",Courtois,15123,FR,2021-08-28,true,gold
+10122,Sylvie,Samson,sylvie.samson@hotmail.com,+33 6 28 98 61 43,11/07/1980,"25, boulevard Valérie Martin",Pintonec,58190,fr,2025-09-07,true,silver
+10018,Rémy,Letellier,remy.letellier@yahoo.fr,+33 6 81 08 01 32,1982-09-12,"92, rue Olivie Rousseau",Saint Lorraine-les-Bains,74508,fr,2023-06-27,false,silver
+10679,Sophie,Arnaud,sophie.arnaud@gmail.com,+33 6 09 14 36 39,1980-07-08,"88, chemin Emmanuelle Germain",Pasquier,64445,FR,2022-04-22,true,gold
+10837,Lorraine,Barthelemy,lorraine.barthelemy@gmail.com,,1990-03-20,"7, chemin de Laporte",Sainte Aurélie,01981,fr,16/05/2022,true,platinum
+10500,Hildegunde,Baum,hildegunde.baum@gmail.com,+49 616 580 464,1983-04-15,Guteallee 26,Forst,02010,DE,2025-10-29,true,silver
+10449,Gilbert,Schmitt,gilbert.schmitt@orange,+33 6 38 17 92 17,1991-10-15,"602, rue de Riou",Duval-sur-Mahe,89686,FR,2022-11-12,false,platinum
+10776,Guillaume,Clerc,guillaume.clerc@orange.fr,06 81 13 90 43,1996-08-23,"369, boulevard Audrey Courtois",Jacobboeuf,8032,FR,2021-11-30,true,bronze
+10160,Nicolas,Paulus,nicolas.paulus@proton.me,+32672400499,10-21-1946,381 Sylvia Corner Suite 437,Port Anaëlle,61266,Belgium,2025-06-02,false,gold
+10269,Christiane,Benoit,christiane.benoit@gmx.de,+33 6 23 32 06 16,07/08/1958,"22, boulevard de Dupuis",Girard,68377,FR,2021-12-21,true,silver
+11099,María Carmen,Abellán,mariacarmen.abellan@free.fr,+34681021312,1959-08-31,Ronda de Iker Castell 8,Cádiz,05603,ES,2025-10-31,true,silver
+11123,Marianne,Leduc,marianne.leduc@gmail.com,+32627112218,1981-08-31,278 Didier Walk Suite 357,Deprezfort,62202,,2025-01-20,true,silver
+10401,Victor,Michaud,victor.michaud@hotmail.com,+33 6 50 48 88 99,1982-10-25,"5, avenue de Chauveau",Boyer,97293,FRA,2022-03-16,true,platinum
+10804,Esteban,Demir,esteban.demir@free.fr,+32 633 438 364,1966-11-16,17482 Benoît Brook,Raymondview,97157,BE,2022/01/18,false,bronze
+10947,Michèle,Jacob,michele.jacob@free.fr,06.12.54.27.82,1990-07-03,"2, rue de Roux",Huet,94711,FR,2022-11-21,false,platinum
+10646,Paulette,Raymond,paulette.raymond@gmail.com,+33 6 34 23 42 58,1996-09-30,"446, rue Dufour",Masson,87378,FR,2022-02-12,true,bronze
+11128,Alain,Picard,alain.picard@yahoo.fr,0033658263280,1966-06-16,"3, avenue de Martel",Sainte Lucas-les-Bains,52500,FR,2024-04-06,true,gold
+11191,Alphonse,Thierry,ALPHONSE.THIERRY@OUTLOOK.COM,+33 6 33 92 20 71,1963-08-01,"5, rue de Rey",ÉtienneVille,90466,France,2025-12-11,true,platinum
+10813,Charlotte,Maurice,charlotte.maurice@orange.fr,06.85.60.12.56,1948-10-02,"3, rue de Le Gall",Sainte Juliette-les-Bains,89764,FR,2024-05-21,false,silver
+10193,William,Huet,william.huet@orange.fr,+33 6 31 14 26 26,1952-05-06,"321, avenue de Barthelemy",Samson-sur-Delorme,32302,FR,06-23-2025,true,bronze
+10514,Adrien,Benoit,adrien.benoit@proton.me,+32675998056,1996-05-30,50102 Patrice Streets Apt. 994,East Benjaminbury,99411,BE,03/02/2022,false,gold
+10123,Bernard,Roche,bernard.roche@gmx.de,06.17.98.08.93,1978-07-13,"40, boulevard Gilles Hervé",Rocherdan,79874,FR,2021-05-09,false,platinum
+10484,Maxi,Benavent,maxi.benavent@yahoo.fr,+34 679 931 365,1966-01-01,Pasaje Herberto Llorente 482,Guipúzcoa,48108,ES,2021-08-22,true,Gold
+10499,Nath,Simon,nath.simon@orange.fr,+33 6 79 90 77 26,1983-01-08,"7, chemin de Pires",FerrandVille,21226,FR,2021-11-28,false,platinum
+10989,Sébastien,Pages,sebastien.pages@orange.fr,+33 6 88 10 79 83,1957-12-23,"639, avenue de Payet",Ramos,44548,FR,08/02/2024,true,silver
+10762,Roland,Lecoq,roland.lecoq@proton.me,+33 6 54 36 17 21,1967-10-31,"7, rue de Germain",DelahayeBourg,73230,fr,2021-10-29,false,gold
+10835,Dionisio,Mora,dionisio.mora@yahoo.fr,+34657758474,1986-09-02,Vial de Lucas Alberto 8,La Rioja,01398,ES,16/09/2022,true,gold
+10454,Antoine,Perret,antoine.perret@gmx.de,+33 6 81 72 46 19,2005-03-30,"20, rue Laurent Lejeune",Mace-la-Forêt,21721,FR,2022-10-29,true,platinum
+10533,Laurence,Delannoy,laurence.delannoy@orange.fr,0033673864631,1964-03-05,"98, chemin de Lacombe",Sainte Gabrielledan,44788,France,08/11/2024,false,gold
+11081,Felicidad,Alegria,felicidad.alegria@gmail.com,+34681079649,2004-12-08,Rambla de Paca Coca 4 Piso 5 ,Las Palmas,07969,ES,2024-02-29,true,silver
+10118,Margot,Bruneau,margot.bruneau@orange.fr,0033668862392,1982-11-10,"19, avenue Paul",Lopes-les-Bains,03883,fr,2025-05-13,true,platinum
+10051,Antoinette,Laroche,antoinette.laroche@hotmail.com,+33 6 14 73 79 96,2000-04-21,"7, avenue Louis",Jacques,31373,FRA,29/08/2025,false,gold
+10391,Diane,Bazin,diane.bazin@free.fr,+33 6 74 98 21 82,1973-11-28,"7, rue de Martel",Saint AliceBourg,02812,FR,2025-02-08,false,gold
+10919,Stéphanie,Garnier,stephanie.garnier@yahoo.fr,0033645211823,1986-12-01,"68, avenue Maréchal",Ferrand,38616,France,2024/08/09,false,silver
+10792,Felipe,Osorio,felipe.osorio@web.de,+34693199255,30/04/1984,Calle de Paca Navarrete 4 Puerta 7 ,Guipúzcoa,09247,ES,2025-05-23,false,silver
+10297,Jérôme,Piérard,jerôme.pierard@gmx.de,+32618114374,1997-09-28,552 Gaëlle Island Suite 571,Rosaport,43718,BE,2021-11-02,true,bronze
+10339,Amélie,Prévost,amelie.prevost@free.fr,06.77.00.51.84,08-05-1968,"55, rue Fernandez",Perret,12105,FR,2023-03-06,false,silver
+10653,Célina,Grenier,celina.grenier@free.fr,,1995-09-24,"5, rue Émilie Lelièvre",Olivier,7971,FRA,2022-04-17,false,gold
+10071,Nurettin,Wirth,nurettin.wirth@gmx.de,+49627875588,1966-01-04,Margrit-Kühnert-Allee 6387,Augsburg,88853,DE,2025-11-08,false,silver
+10701,Charles,Jacquet,charles.jacquet@gmx.de,06.16.49.32.89,1958-07-07,"8, rue de Mercier",Peltier-la-Forêt,89732,France,2024-09-10,true,bronze
+11167,Véronique,Martins,veronique.martins@free.fr,06 35 86 44 96,1960-10-03,"34, rue de Moulin",Schmitt-sur-Mer,11536,FR,2022-09-20,true,silver
+10320,Émilie,Camus,emilie.camus@free.fr,06 32 81 82 68,1957/06/19,rue de Sanchez,Saint Antoinette,7908,FRA,2023-12-13,true,gold
+10426,Hermann-Josef,Gierschner,hermann-josef.gierschner@yahoo.fr,+49698266570,10/06/1968,Jutta-Beer-Platz 749,Oschatz,48449,DE,2022-01-04,true,silver
+11011,Bozena,Scheibe,bozena.scheibe@hotmail.com,+49695923234,2001-05-16,Ariane-Jähn-Platz 7-4,Hohenstein-Ernstthal,50767,DE,2025-04-26,true,bronze
+10926,Dominique,Dupont,dominique.dupont@gmail.com,06 33 18 75 10,08-03-2006,rue Bouvier,Léger-sur-Andre,62901,,10-01-2022,true,silver
+10655,Kike,Pedrero,kike.pedrero@hotmail.com,+34 611 508 353,1961-08-16,Paseo de Joaquín Hernando 2 Apt. 74 ,Baleares,34078,ES,2021/07/21,false,gold
+10846,Nicolas,Duez,nicolas.duez@gmail.com,+32661294398,1984-12-27,19666 Masset Track Suite 305,New Laurence,81580,BE,20/04/2025,true,gold
+10604,William,Georges,william.georges@outlook.com,+33 6 08 94 34 68,2004-03-14,rue Alexandrie Chevalier,Morel-sur-Ramos,55190,france ,2021-02-17,true,gold
+11065,Aránzazu,Paredes,aranzazu.paredes@gmail.com,+34607918158,1953-07-15,Paseo de Leticia Bertrán 286,Cuenca,36380,ES,2023-01-04,true,platinum
+10889,Anouk,Marie,anouk.marie@hotmail.com,+33 6 94 35 35 37,1993-11-02,"9, avenue Ledoux",Fischer,40226,FR,2025-09-09,true,silver
+10455,Margaud,Carre,margaud.carre@gmail.com,+33 6 32 90 22 78,1964-08-09,"387, chemin Bernard",Fernandez-la-Forêt,13150,FR,2021-07-05,true,platinum
+11050,Candela,Tejera,candela.tejera@gmx.de,+34 676 889 362,1962-05-03,Paseo de Jacinto Quintanilla 695,Jaén,18128,ES,2025-09-13,true,platinum
+10884,Gérard,Marion,gerard.marion@free.fr,+33 6 09 35 11 87,1958-10-23,"20, chemin Delorme",Benard,25289,,2024-01-12,true,silver
+10626,Matteo,Blondiau,matteo.blondiau@outlook.com,+32 609 700 268,1998-09-22,64991 Michiels Manor,East Jean-Lucchester,56177,BE,2024-08-16,true,platinum
+10988,Anthony,Henk,anthony.henk@free.fr,+49679083350,1947-03-07,Stefanie-Kitzmann-Platz 8585,Güstrow,33886,DE,2023-10-19,true,gold
+10847,Susanne,Maillet,susanne.maillet@proton.me,+33 6 60 78 70 10,2005-06-05,"2, rue Sébastien Garnier",Saint RobertBourg,09292,fr,2021-09-15,true,bronze
+10544,Vincent,Rémy,vincent.remy@proton.me,+33 6 86 40 79 05,1968-08-07,"178, chemin Cohen",Clerc,27870,FR,09/03/2024,false,gold
+10289,Élise,Gérard,elise.gerard@yahoo.fr,+33 6 96 66 67 60,1956-03-27,rue de Wagner,Camus-sur-Robin,66552,,2021-09-23,true,gold
+10115,Quentin,Delvigne,quentin.delvigne@gmx.de,+32 632 214 188,27/11/1983,817 Laurent Place Apt. 130,Armandberg,95821,BE,2022-01-29,true,bronze
+11052,Catherine,Maillard,catherine.maillard@,+33 6 89 21 87 85,1961-05-13,"69, rue Imbert",Sainte Aimé,41449,FR,2025-06-18,true,silver
+11220,Josef,Cichorius,JOSEF.CICHORIUS@ORANGE.FR,+49693327279,1976-10-03,Schuchhardtplatz 99,Staßfurt,69060,DE,2025-01-14,true,platinum
+10511,James,Joly,james.joly@outlook.com,+32 652 088 547,01-15-1953,571 Descamps Passage Suite 081,Lake Andréehaven,04526,BE,2023-07-28,true,silver
+10360,Liliana,Robles,liliana.robles@proton.me,+34 688 043 416,1981-02-20,Avenida Esteban Olivares 560 Piso 3 ,Girona,08332,es,2022-12-25,false,bronze
+11231,Alexandria,Pineau,alexandria.pineau@orange.fr,06.79.62.75.70,2004-08-21,"763, chemin Vallet",Munoznec,24814,FR,2025-01-10,false,platinum
+10139,Pierre,Martineau,pierre.martineau@outlook.com,+33 6 35 84 14 38,1946-06-18,"821, boulevard Théophile Riou",Blot-la-Forêt,59394,FR,2022-10-23,true,gold
+10314,Lara,Flantz,lara.flantz@web.de,+49 660 810 620,1971-12-12,Renato-Weller-Platz 8610,Ebersberg,55759,DE,2022-08-09,true,gold
+10369,Julien,Gomes,julien.gomes@gmail.com,06.12.03.47.17,1998-11-30,"8, rue Jacob",Bodindan,79154,FR,2023-03-27,false,gold
+10992,Victoire,Maillet,victoire.maillet@yahoo.fr,06 71 71 73 18,1986-12-23,"49, rue Margot Guillet",Giraud,46915,FR,2022-02-07,true,platinum
+10634,Willy,Gilles,willy.gilles@hotmail.com,+32 661 332 541,1964-03-23,31467 Hermans Prairie,New Chloéfurt,77053,BE,2024-11-13,true,bronze
+10617,Georges,Rocher,georges.rocher@gmail.com,+33 6 62 60 85 64,1978-07-08,rue Gillet,Roussel-sur-Germain,40805,FR,11-28-2022,true,silver
+10609,Suzanne,Blanchet,suzanne.blanchet@gmx.de,0033688137702,2006-02-21,"77, avenue de Pires",Boulay,68932,FR,2021-09-22,false,bronze
+10349,Émilie,Arnaud,emilie.arnaud@web.de,,1988-10-25,"83, rue Thérèse Lejeune",Joly-la-Forêt,70127,FR,2023-04-17,true,silver
+10880,Jeannine,Barbe,jeannine.barbe@orange.fr,+33 6 90 14 95 42,1993-12-22,"20, rue Lemonnier",Lagarde,43276,france ,2025-05-22,true,platinum
+10769,Trinidad,Riquelme,trinidad.riquelme@outlook.com,+34 672 863 330,1988/10/21,Ronda Jeremías Perales 24 Piso 1 ,Salamanca,35141,ES,2022-08-27,true,silver
+10737,Aurélie,Raynaud,aurelie.raynaud@gmx.de,+33 6 72 25 60 53,1999-04-13,"852, avenue de Teixeira",Bourdon,33638,FR,2024-09-06,false,bronze
+10145,Gilles,Robin,gilles.robin@outlook.com,06 87 74 70 16,2003-03-06,"33, chemin de Laporte",Maillard-les-Bains,41865,FR,2023-10-18,true,silver
+10453,François,Legrand,francois.legrand@free.fr,06 96 69 58 32,1967-05-28,"9, chemin Valentin",Guillet-sur-Fischer,48264,France,2022-03-03,true,platinum
+10067,Miroslaw,Weihmann,miroslaw.weihmann@web.de,+49 660 385 977,15/03/1987,Helena-Ring-Gasse 2/5,Eggenfelden,72803,DE,05/08/2023,true,gold
+10627,Emilia,Vigil,emilia.vigil@web.de,+34618071569,1951-12-09,Camino Graciana Castillo 2 Piso 4 ,Toledo,35689,ES,06-16-2021,true,bronze
+11101,Jérôme,Maillot,jerôme.maillot@outlook.com,+33 6 12 11 06 33,1999-04-07,"3, rue Alphonse Labbé",Gillet,1754,FR,02-13-2022,true,platinum
+11043,Conrad,Jockel,conrad.jockel@orange.fr,+49 655 347 057,27/07/2006,Pergandeplatz 2620,Ribnitz-Damgarten,14586,DE,2023-01-05,true,gold
+10389,Marie,Payet,marie.payet@outlook.com,06.81.27.35.85,2001-06-12,"6, rue Alix Chartier",Roux,38262,France,2024-12-07,false,silver
+10730,Alcides,Garay,alcides.garay@gmail.com,+34682778816,1957-07-07,Cañada de Glauco Bosch 14,Lugo,48634,ES,2023-05-19,true,bronze
+10636,Francis,Dubois,francis.dubois@gmx.de,+32617911006,1960/08/26,60673 Maria Street,Stéphaniebury,67626,BE,2025-04-14,true,bronze
+10144,Laurent,Legendre,laurent.legendre@hotmail.com,06.10.46.96.32,1961-08-29,"11, avenue Arthur Delorme",Foucher,97194,FR,2021-10-16,true,gold
+10400,Audrey,Boutin,,0033660049082,1971-03-19,"224, rue Danielle Martins",Regnier,81649,FR,07-06-2023,false,bronze
+11067,Clémence,Étienne,clemence.etienne@free.fr,,1978-06-16,"5, boulevard Caroline Gomes",Sainte Léon,06838,FR,02-24-2024,true,bronze
+10785,Stéphane,Gallet,stephane.gallet@proton.me,+33 6 74 09 03 80,1985-03-15,boulevard Garnier,Fleury,36596,FR,2023/11/03,true,gold
+10505,Véronique,Duval,veronique.duval@yahoo.fr,0033624127238,1978-02-06,"2, rue Julie Bourgeois",Barbe,79220,FR,2021-08-12,true,gold
+11023,Marine,Lecomte,marine.lecomte@hotmail.com,+33 6 38 22 31 16,1974-07-24,"751, rue Lemaître",Charpentier-sur-Fournier,2369,France,2021-09-15,true,bronze
+10789,Aline,Salmon,aline.salmon@free.fr,+32667303064,1970-12-28,248 Gilbert Shoal,Liviahaven,30558,BE,2025-06-06,true,bronze
+10271,Éléonore,Jean,eleonore.jean@outlook.com,0033699911914,1986-01-22,"27, rue de Thomas",Barbiernec,07202,France,10-31-2021,false,platinum
+10548,Marc,Leconte,marc.leconte@orange.fr,06 85 36 64 98,1985-07-12,"41, avenue de Jourdan",Saint Andrédan,27985,FR,2023/06/06,true,silver
+10625,David,Olivier,david.olivier@free.fr,+32 647 435 537,1961-11-21,3361 Céline Mews Apt. 590,Laurentmouth,24320,BE,2024-07-24,false,bronze
+10689,Adèle,Gay,adele.gay@gmail.com,06.69.23.64.58,1972-02-10,"106, boulevard Augustin Julien",Moreno-les-Bains,16990,FR,2021-09-12,true,gold
+10682,Macario,Fuertes,macario.fuertes@hotmail.com,+34668527017,1946-04-14,Cañada de Amanda Costa 575 Piso 2 ,Vizcaya,06716,Spain,2024-05-30,true,bronze
+10539,Jose Antonio,Fabregat,,+34600616756,1998-02-27,Via de Eulalia Rius 4,Baleares,34355,ES,2024-01-25,true,bronze
+10114,Gérard,Bigot,gerard.bigot@free.fr,+33 6 28 16 85 05,1989-04-04,"887, boulevard Fournier",Guyonboeuf,89512,FR,2025-07-24,true,gold
+10304,Théophile,Paris,theophile.paris@free.fr,06 08 38 66 31,1949-09-16,"88, chemin Weiss",Hardyboeuf,75852,France,2022-07-24,true,platinum
+10558,Sophie,Bury,sophie.bury@yahoo.fr,+32 637 606 441,1950-02-11,1933 Julie Trafficway,South Pierre,49717,BE,01-01-2024,true,gold
+11225,Véronique,Bouchet, veronique.bouchet@orange.fr,+33 6 97 79 45 23,1983-09-21,"384, chemin de De Sousa",Maury-sur-Muller,74940,,2026-07-23,true,gold
+10657,Toño,Jódar,tono.jodar@gmail.com,+34682633373,1946-08-31,Alameda Rebeca Ripoll 77,Soria,27729,ES,2023-08-25,true,platinum
+11126,Hélène,Sauvage,helene.sauvage@hotmail.com,+33 6 00 33 22 85,1986-02-16,"9, rue Lagarde",Camus-sur-Michel,38195,FR,2023-09-08,true,platinum
+10783,Susanne,Cousin,susanne.cousin@free.fr,06 11 27 47 47,1964-02-02,"59, avenue Delorme",Baudry,05811,FR,2022-12-25,true,bronze
+10375,  GENEVIÈVE ,Bernier,genevieve.bernier@outlook.com,06 64 33 47 22,1994-07-17,"2, boulevard Valentine Poulain",BoulayVille,63662,FR,2021/06/22,true,bronze
+10091,Geza,Säuberlich,geza.sauberlich@web.de,+49617758917,1977-09-29,Wulfplatz 2,Diepholz,82828,DE,2021/08/21,true,bronze
+10534,Isabelle,Masse,isabelle.masse@gmx.de,+33 6 16 78 11 26,2005-04-04,"146, rue de Laurent",RodriguesVille,90527,FR,2024-10-08,true,bronze
+11218,karl-heinrich,JOPICH,karl-heinrich.jopich@orange.fr,+49 668 007 229,1957/07/06,Tlustekweg 1/1,Northeim,78383,DE,2025-02-20,true,gold
+11004,Aimé,Moulin,aime.moulin@free.fr,0033684884021,1998-06-18,"521, avenue Agnès Lombard",Fernandes,60449,FR,2024/03/18,true,gold
+10650,Mamen,Ángel,mamen.angel@gmx.de,+34617912868,30/09/1953,Cañada de Joel Mendez 74,Álava,27506,ES,2022-03-05,true,platinum
+11160,André,Rolland,andre.rolland@yahoo.fr,0033668812282,1999-03-24,"18, rue de Torres",Raynaud,42450,FR,2021-12-20,true,platinum
+10970,Meike,Schleich,meike.schleich@web.de,+49 613 854 457,1988/06/26,Trubinstraße 16/68,Tecklenburg,60556,DE,2022-12-09,true,silver
+10044,Selim,Klemt,selim.klemt@gmx.de,+49 698 069 901,1991-01-29,Aleksander-Neureuther-Weg 144,Lüdenscheid,32122,DE,09-19-2021,true,platinum
+10585,María,Abella,maria.abella@yahoo.fr,+34680061027,1960-05-07,Callejón Albino Abad 976 Apt. 00 ,Zaragoza,19844,Espagne,06-08-2023,false,platinum
+11063,Bryan,Vandamme,bryan.vandamme@yahoo.fr,+32629821739,1999-01-24,5291 Servais Brooks,New Louis,74864,BE,2022-12-16,true,gold
+11062,Nathalie,Paris,nathalie.paris@outlook.com,0033628270908,1957-12-15,"994, rue Aurélie Clerc",Sainte Aurore,86123,FR,06-22-2023,true,gold
+10119,Claudio,Aragón,claudio.aragon@web.de,+34681412478,2008-09-04,Vial de Nuria Vazquez 22,Albacete,06587,ES,2021-07-30,false,bronze
+10864,Socorro,Bermejo,socorro.bermejo@outlook.com,+34618938984,1976-10-10,C. Azeneth Morante 320 Apt. 81 ,Alicante,29742,ES,2022-08-13,true,bronze
+11170,Luce,Renaud,luce.renaud@yahoo.fr,0033616860134,12-30-1962,avenue Alexandria Brun,Besnardnec,97671,france ,2022-06-02,false,gold
+10543,Matthieu,Gonzalez,matthieu.gonzalez@hotmail.com,+33 6 34 91 14 15,1978-09-01,"98, rue Adèle Louis",Dupré,97674,FR,2022-05-23,true,gold
+10584,Véronique,Bouchet,veronique.bouchet@orange.fr,+33 6 97 79 45 23,1983-09-21,"384, chemin de De Sousa",Maury-sur-Muller,74940,,2022-10-05,true,gold
+11029,Benjamin,Leconte,benjamin.leconte@free.fr,+33 6 76 81 82 68,2001-12-10,"3, rue de Masse",Guilbert,94384,fr,2022-09-21,true,silver
+10095,André,Wesack,andre.wesack@free.fr,+49654527111,1996-10-14,Mentzelstr. 98-53,Melsungen,75989,DE,2023-05-25,true,gold
+10100,Alain,Blondel,alain.blondel@web.de,06.66.75.25.45,08-06-2005,"97, avenue Imbert",PonsVille,11347,FR,2022-03-17,true,bronze
+10448,Bernadette,Riou,bernadette.riou@gmail.com,06 60 16 62 99,2006-05-23,"495, boulevard de Roger",Le Gall-la-Forêt,83424,FR,2021/08/05,true,platinum
+10726,Margaux,Gérard,margaux.gerard@gmail.com,06 56 25 88 96,1956-01-31,"7, chemin Nathalie Lecoq",Hervé-les-Bains,19283,FR,2021-12-16,true,gold
+11156,Marine,Lucas,marine.lucas@proton.me,0033611457683,1966-10-15,"27, rue Julie Mary",Weber-sur-Mer,81879,fr,05-18-2021,true,bronze
+11196,John,Henck,JOHN.HENCK@HOTMAIL.COM,+49657824347,12-21-1994,Fechnerweg 7,Oranienburg,16462,DE,2026-03-16,true,platinum
+10670,Anouk,Clerc,anouk.clerc@gmx.de,06.71.18.37.27,1966-02-27,"1, rue David",Gautier,13635,FR,2023-09-20,true,silver
+10135,Gaspard,Collart,gaspard.collart@free.fr,+32 651 884 422,2001-10-11,908 Staquet Burg Apt. 817,West Hugo,89443,BE,2024-09-29,true,silver
+10687,Isabelle,Menard,isabelle.menard@gmx.de,+33 6 68 97 15 27,1960-07-19,"49, rue de Ramos",Guillet,38194,FR,08-04-2022,true,bronze
+10913,Margaux,Briand,margaux.briand@outlook.com,06.56.38.30.00,1981-08-28,avenue de Pruvost,Sainte Alexandria,53373,France,2023-02-05,true,bronze
+10210,Ruperta,Lumbreras,ruperta.lumbreras@orange.fr,,1951-08-25,Acceso Rosaura Batalla 20,Segovia,38100,ES,2024-06-12,true,silver
+10641,Emmanuelle,Hebert,emmanuelle.hebert@web.de,0033622749545,1954-05-20,"797, boulevard de Ruiz",Leduc,89652,FR,08/05/2025,true,silver
+11178,Maurizio,Remacle,maurizio.remacle@gmx.de,+32 685 507 896,1978-07-16,41012 Dorian Rest Suite 284,Christiaensview,31280,BE,2023-06-14,true,silver
+10719,Brigitte,Chauvin,brigitte.chauvin@gmail.com,06 40 84 87 29,2001-08-02,"56, rue de Blot",Blancharddan,97446,fr,2022-05-24,false,gold
+10419,Matías,Torrens,matias.torrens@proton.me,+34647423122,2007-04-08,Callejón de Eusebia Barranco 47,Málaga,40668,ES,2023-04-23,true,gold
+11074,Stéphanie,Gomez,,+33 6 46 48 44 94,2005-04-24,"81, rue de Clément",Saint Alexandria,97486,FR,2021/12/09,true,platinum
+10621,Maxim,Beckers,maxim.beckers@gmail.com,+32689138249,1977-05-06,8766 Michel Harbor,Lake Andréeland,30289,BEL,2022-07-06,true,silver
+10908,Christelle,Guilbert,christelle.guilbert@free.fr,06 15 62 77 96,1999-09-11,"77, chemin de Gosselin",Lebrun,64157,FR,2024-09-14,true,gold
+10311,Olivie,Voisin,olivie.voisin@free.fr,06 66 93 46 54,2003-06-25,"46, chemin de Diallo",Gillet,89718,FR,2023-10-30,true,silver
+10361,Célina,Grondin,celina.grondin@outlook.com,06.55.39.42.37,1996-02-17,"16, boulevard de Philippe",Allainnec,80288,FR,2023-09-03,true,silver
+10752,François,Dijoux,francois.dijoux@hotmail.com,+33 6 48 12 30 83,1994-02-20,chemin de Riou,Lebrun,95419,FR,2022-08-30,true,silver
+10305,Marthe,Delattre,marthe.delattre@gmx.de,06 51 70 16 60,1971-08-04,"473, rue Susan Barthelemy",Sainte Arnaude,38485,FR,2023/07/05,true,bronze
+10945,Sylvie,Da Costa,sylvie.dacosta@web.de,+33 6 41 83 43 74,1964-01-05,"43, rue Astrid Arnaud",RodriguesVille,63491,FR,2024-02-04,true,silver
+10294,Inès,Legrand,ines.legrand@yahoo.fr,06 47 23 04 61,1948-09-21,rue de Muller,David-la-Forêt,44817,FR,2024-01-26,false,silver
+10840,Ortrun,Rosemann,ortrun.rosemann@outlook.com,+49674140703,1984-06-16,Traute-Matthäi-Weg 640,Eisleben,99344,DE,14/09/2022,true,bronze
+10978,Thibaut,Maurice,thibaut.maurice@gmx.de,06.39.73.27.81,04/02/1997,"24, rue Garcia",Marie,3574,FR,2023-07-30,false,silver
+10045,Lucas,Torres,lucas.torres@orange.fr,+33 6 53 75 56 46,1985-10-29,"20, avenue de Baron",Saint Xavier,33617,FR,2023-02-16,true,platinum
+11198,Antoinette,Berthelot,ANTOINETTE.BERTHELOT@GMAIL.COM,06 97 62 63 74,2002-04-10,"911, avenue Maillet",Sainte Sylvienec,90600,FR,2026-08-24,true,gold
+10602,Victor,Cordier,victor.cordier@outlook.com,+32 667 389 975,1946-03-15,885 Stéphanie Field Apt. 693,Katiaville,26029,BE,2024-12-05,true,platinum
+10084,Célina,Vidal,celina.vidal@yahoo.fr,+33 6 54 96 51 37,1949-01-14,"65, chemin Odette De Oliveira",Faure,48435,FR,2023-07-21,true,gold
+10372,Magdalene,Zorbach,magdalene.zorbach@free.fr,+49699611253,1960-01-13,Christophweg 739,Naila,42075,DE,14/05/2023,true,gold
+10991,Maxime,Legrand,maxime.legrand@outlook.com,+32640333997,2006-05-04,461 Willems Unions Apt. 556,New Margotton,57839,Belgique,2023-12-07,true,bronze
+10645,  ANTOINETTE ,Guilbert,antoinette.guilbert@gmail.com,+33 6 01 50 81 24,1973-05-29,"46, rue Audrey Toussaint",Blondel,31267,FR,14/01/2023,true,gold
+10331,Isaura,Julián,isaura.julian@web.de,,1997-07-28,C. de Rosalina Valencia 81 Puerta 7 ,Barcelona,30772,ES,2023-08-03,false,gold
+10472,Marthe,Pottier,marthe.pottier@yahoo.fr,+33 6 17 53 44 30,1952-01-22,"55, avenue de Texier",Saint Capucine-sur-Mer,29237,FR,2023-12-12,true,bronze
+10492,Guy,Gomes,guy.gomes@free.fr,0033615313636,2000-03-14,chemin Louise Schmitt,Couturier,23897,FR,2022-04-17,true,platinum
+10450,Guy,Rémy,guy.remy@hotmail.com,06 94 56 25 57,29/10/1992,"61, rue Rémy Lacroix",Jacquot,30455,FR,22/10/2021,true,platinum
+10519,Visitación,Paredes,visitacion.paredes@outlook.com,+34647146273,1971-04-11,Callejón Julia Pellicer 3 Puerta 1 ,Almería,43601,ES,2022-06-22,false,platinum
+10697,Patrick,Legendre,patrick.legendre@web.de,,2004-04-02,"5, avenue Alphonse Rémy",Rousset,9795,france ,10/06/2025,false,gold
+10283,Reinhild,Steuer,reinhild.steuer@gmx.de,+49646660993,1986-02-09,Beerweg 76/45,Halberstadt,14365,DE,2022-08-29,true,silver
+10638,Noémi,Bonnin,noemi.bonnin@proton.me,06 99 07 67 69,1993-02-07,"2, avenue Lévy",Saint Pénélope,26270,FR,2022-04-23,false,bronze
+10229,Tristan,Henry,tristan.henry@yahoo.fr,06 05 52 69 65,1950-11-30,"79, avenue Marty",Dupontboeuf,84402,FR,2023-12-18,true,platinum
+10154,Capucine,Hebert,capucine.hebert@free.fr,,2005-10-03,"68, avenue Baron",Rivière,46201,FR,21/12/2021,true,gold
+10981,Zoé,Toussaint,zoe.toussaint@yahoo.fr,+33 6 24 91 25 65,1999-12-08,avenue William Reynaud,SimonBourg,68295,FR,2021-08-01,true,platinum
+10782,Azeneth,Montes,azeneth.montes@outlook.com,+34 648 171 752,1968-02-07,Acceso Arsenio Cordero 32,Santa Cruz de Tenerife,31625,ES,2025-04-19,true,bronze
+10961,Margaret,Gauthier,margaret.gauthier@free.fr,+33 6 40 84 24 56,2001-10-10,"7, boulevard Franck Breton",Leroy,04391,FR,2024-10-14,false,gold
+10523,Frédérique,Dias,frederique.dias@free.fr,+33 6 89 52 02 84,1945-11-17,"948, avenue Leblanc",Vincent,12910,FRA,2021-07-16,false,platinum
+10374,Doris,Meyer,doris.meyer@yahoo.fr,,01-21-1995,Matthäistr. 12-80,Gera,64936,DE,2022-03-08,false,bronze
+10993,Luc,Barbier,luc.barbier@gmail.com,+33 6 61 73 99 70,1984-01-12,"44, boulevard Rousseau",Sainte Raymond,13912,FR,2024-04-06,false,gold
+10690,Hildegund,Noack,hildegund.noack@proton.me,+49 633 705 024,1966-06-17,Mosemannweg 64-77,Säckingen,72890,DE,19/05/2023,true,silver
+10274,Margaux,Janssen,margaux.janssen@hotmail.com,+32647546913,2004-05-12,98711 Motte Ville Suite 172,Lake Tom,41658,BE,2021/10/03,false,platinum
+10055,Roger,Marty,roger.marty@hotmail.com,0033618233749,1986-04-14,"20, rue Inès Aubry",Saint Jeannine,51795,France,2022-10-09,true,gold
+10938,Basile,Toussaint,basile.toussaint@outlook.com,+32 658 066 013,2005-08-07,79923 Dufrasne Crossroad Apt. 382,Lake Tonyview,52893,BE,2024-04-16,true,silver
+10941,Emmanuel,Tessier,emmanuel.tessier@gmail.com,06.20.35.71.34,1956-08-02,boulevard de Gay,Mailletdan,72220,FR,04-20-2025,true,silver
+11068,Xavier,Faure,xavier.faure@web.de,+33 6 50 80 04 63,2001-04-25,"41, rue Boulanger",Andre,04855,FR,2021/12/22,true,bronze
+11207,Thomas,Joly,THOMAS.JOLY@OUTLOOK.COM,06 03 17 31 09,1961-06-24,"599, rue de Delmas",Leclerc,82186,FR,2025-07-10,false,platinum
+10082,Giovanni,Geißler,giovanni.geißler@outlook.com,+49 628 588 424,1986-05-13,Försterstr. 200,Marienberg,02972,DE,2022-02-16,false,gold
+10714,René,Seguin,rene.seguin@outlook.com,+33 6 61 76 47 50,1981-08-05,"60, avenue Lucas",Texierdan,29710,France,29/08/2024,true,bronze
+11189,Reina,Manzano, reina.manzano@yahoo.fr,+34682307681,1945-11-29,Via de Carla Casals 82,Ourense,05472,Espagne,2026-01-23,true,bronze
+11032,Lupe,Carrera,lupe.carrera@orange.fr,+34664686775,1951-03-27,Paseo de Rafa Merino 48,Toledo,27675,ES,2021-04-11,false,bronze
+10399,Ghislaine,Claude,ghislaine.claude@free.fr,+32655665939,1994-03-13,759 Lefèvre Fork Apt. 747,South Brigitteberg,19166,Belgique,2024-02-01,false,gold
+10640,Lorraine,Marchand,lorraine.marchand@gmx.de,+33 6 97 23 20 02,1954-02-20,chemin de Germain,Bigot-la-Forêt,21129,FR,2025-01-24,false,gold
+10495,Alice,Thomas,alice.thomas@orange.fr,0033629298316,1948-03-31,"6, rue de Moreau",Saint Maurice,25848,fr,21/05/2024,false,silver
+10378,Sabine,Leclerc,sabine.leclerc@proton.me,06 24 00 82 54,1997-02-14,"949, chemin Fischer",Charpentier,08683,France,2022-06-17,true,platinum
+10576,Maurice,Blondel,maurice.blondel@yahoo.fr,0033677490509,1971-06-09,"308, rue Michel Garnier",Weiss-la-Forêt,44598,FR,2023-08-01,false,silver
+10798,Mathilde,Mathieu,mathilde.mathieu@gmail.com,+33 6 46 33 78 61,04-24-1951,"321, chemin Chantal Peltier",Sainte Robertnec,77233,FR,2024-09-29,false,bronze
+10111,Marcel,Aubry,marcel.aubry@free.fr,06 18 20 37 78,1987-06-24,"112, avenue Marie Valentin",KleinVille,20345,FR,2025-01-02,true,gold
+11084,Brigitte,Dubois,brigitte.dubois@outlook.com,+32 653 666 777,1966-07-19,859 Claes Prairie,West Norbertville,44592,BE,2025-09-17,false,gold
+10739,Antoinette,Lambert,antoinette.lambert@proton.me,06 62 11 02 25,1966-11-24,"40, chemin de Adam",Sainte Théophileboeuf,71925,FR,25/10/2023,true,silver
+10087,Christian,Adam,christian.adam@orange.fr,+32653773515,1953-10-27,74901 Bertrand Glen,Ponceletbury,68373,BE,2021-03-09,true,gold
+10300,Wilhelm,Gunpf,wilhelm.gunpf@gmx.de,+49 662 120 216,1950-02-09,Eva-Maria-Langern-Platz 1-7,Monschau,87355,DE,2025-06-27,false,platinum
+10338,Isabelle,Peltier,isabelle.peltier@outlook.com,+33 6 75 03 73 14,1969/10/24,"21, rue Alex Mendès",Rousset,97389,FR,16/02/2025,true,silver
+10496,Marine,Barre,marine.barre@gmx.de,0033606335693,1965-07-13,"242, chemin Charpentier",Petitjeanboeuf,14492,FR,2022-07-26,true,silver
+10247,Marc,Gosselin,marc.gosselin@orange.fr,+33 6 10 13 72 15,1981-11-30,boulevard Stéphane Clerc,Guillet,79754,FR,2025-07-23,false,bronze
+10772,Timothée,Mendès,timothee.mendes@free.fr,06 04 12 00 92,1969-12-26,"82, rue Berthelot",Alvesnec,48545,France,2023/06/29,true,platinum
+10137,Antoine,Lambert,,+33 6 46 78 66 91,22/04/1966,"36, boulevard Bouchet",Normand-sur-Arnaud,08400,FR,15/05/2021,false,bronze
+10882,Michaël,Mathy,michael.mathy@gmx.de,+32 644 472 322,1952-08-29,73259 Dubois Falls Suite 507,Gobletton,95832,BE,2022-01-04,true,bronze
+10421,Suzanne,Carlier,suzanne.carlier@proton.me,0033672233060,1990-01-06,"44, rue Dufour",Nicolas-sur-Meyer,94434,fr,2023-10-04,false,silver
+10901,Susann,Hartmann,susann.hartmann@web.de,+49674117674,1999-08-08,Ernestine-Bruder-Straße 85/23,Dinkelsbühl,95271,DE,2021-09-16,true,gold
+10089,Inès,Michel,ines.michel@web.de,0033693352904,2004-05-22,"23, rue de Henry",Pottier,73793,,2022-03-01,true,silver
+10614,Rémy,Leclerc,remy.leclerc@proton.me,06 80 74 12 09,1960-04-23,"22, rue Labbé",BonneauVille,31956,France,2022-11-26,true,gold
+10208,Alix,Lenoir,alix.lenoir@hotmail.com,+33 6 41 91 82 55,2004-09-24,"5, rue Maillard",Blanchet-les-Bains,91966,FR,2022-02-26,true,gold
+10975,Wera,Kruschwitz,wera.kruschwitz@yahoo.fr,+49696663093,1998-12-22,Else-Ditschlerin-Ring 18,Germersheim,00094,DE,2023-02-25,true,bronze
+10245,Adélaïde,Paul,adelaide.paul@hotmail.com,0033668044206,2002-04-02,"542, boulevard de Morin",Clerc-les-Bains,11356,FR,2022-12-30,true,silver
+10407,Jose,Giner,,+34637693898,1948-10-07,Vial de Chus Larrea 8,Ourense,28895,ES,2024-02-20,true,gold
+10522,Suzanne,Baudry,suzanne.baudry@orange.fr,+33 6 18 32 19 28,1974-02-06,"8, rue de Henry",PasquierVille,63557,fr,2023-12-21,false,gold
+10956,Charlotte,Bertin,charlotte.bertin@orange.fr,06 67 04 62 26,1956-03-04,rue Capucine Hamon,Valléedan,59546,FR,2022-09-30,true,platinum
+11108,Martin,Schneider,martin.schneider@gmx.de,0033667772266,1972-08-24,"94, rue Hamel",Sainte Capucineboeuf,48685,FR,2022-10-27,true,Gold
+10478,Renée,Benoit,renee.benoit@proton.me,06 18 30 67 19,1999-11-13,"74, rue de Valette",Sainte Gilles,82330,FR,2025-09-25,false,gold
+10720,Véronique,Imbert,veronique.imbert@web.de,0033610303243,1974-04-30,boulevard Grenier,Dufournec,92612,FR,2022/03/06,true,silver
+10760,Guy,Chauvet,guy.chauvet@gmx.de,+33 6 97 24 57 23,1962-02-16,"85, rue Christophe Ollivier",Sainte Christianedan,46501,FR,2025-04-05,true,gold
+10438,Salomón,Llopis,salomon.llopis@yahoo.fr,+34655699023,03-14-1999,Pasaje de Lucas Falcó 28,Santa Cruz de Tenerife,05624,ES,2024-11-05,false,platinum
+10379,Axelle,Louis,axelle.louis@gmx.de,+32606493085,1981-12-14,37828 Thomas Harbor,East Fabienne,85350,BEL,2022-09-06,true,platinum
+10099,Alex,Marques,alex.marques@orange.fr,+33 6 45 50 22 96,1947-09-05,"55, chemin Jeannine Boutin",Berthelot,41286,FR,2024-12-10,true,bronze
+11211,irmtrud,LACHMANN,irmtrud.lachmann@proton.me,+49654384807,1947-10-05,Nancy-Mentzel-Allee 849,Pfaffenhofen an der Ilm,93478,DE,2025-09-03,true,bronze
+10940,Madeleine,Raymond,madeleine.raymond@free.fr,0033657919711,1985-05-07,"12, boulevard Aurélie Brunel",Gérard,12573,FR,2021-08-30,true,bronze
+10580,Madeleine,Bouchet,madeleine.bouchet@proton.me,+33 6 59 26 61 08,1947-04-14,"922, boulevard Caron",Saint Raymond,06230,FR,2025-07-19,false,silver
+10445,Laetitia,Renaud,laetitia.renaud@gmail.com,+33 6 84 09 43 53,1996-09-04,"10, boulevard Fischer",Becker,43834,FR,2021-07-31,false,gold
+10402,Patrick,Fernandez,patrick.fernandez@outlook.com,+33 6 59 33 44 19,2004-02-14,"304, rue Neveu",Boutin,15564,FR,2022-06-27,true,bronze
+11077,Germán,Lago,german.lago@free.fr,+34690254257,1949-12-19,Rambla Elías Aller 3 Piso 0 ,Pontevedra,10274,ES,2021-03-31,true,bronze
+10546,Suzanne,Grégoire,suzanne.gregoire@yahoo.fr,06.83.44.04.96,1973-12-09,"95, rue Brun",JoubertVille,06403,FR,18/09/2025,true,bronze
+10520,Giuseppe,Bourguignon,giuseppe.bourguignon@yahoo.fr,+32659796471,1960-09-03,87561 Laurent Burg,North Marie-Paulemouth,72887,BE,2024-05-11,true,bronze
+10528,Arlette,Gilbert,arlette.gilbert@gmail.com,+32640119393,1974-09-07,99162 Cédric Throughway,North Elise,50755,BE,2021-05-16,false,bronze
+11173,Louis,Meyer,louis.meyer@gmail.com,+33 6 15 94 46 33,2003-08-03,"77, avenue Noémi Besson",Camus-la-Forêt,01113,FRA,2021-01-21,true,gold
+10443,Alessandro,De Backer,alessandro.debacker@gmx.de,+32607823578,1979-01-14,6915 Huet Springs Apt. 563,Myriamville,16442,Belgique,2023-11-03,false,silver
+11146,Barbara,Bodart,barbara.bodart@orange.fr,+32664381300,1973-08-18,480 Collet Isle,Schmitzside,25507,BE,2022-05-11,true,silver
+11179,Laurent,Briand,laurent.briand@yahoo.fr,+33 6 62 63 35 56,1956-04-25,"98, avenue de Coste",Peron,54358,FR,15/05/2024,true,gold
+10955,Jacques,Gomes,jacques.gomes@proton.me,+33 6 32 73 03 46,1992-04-17,"470, rue Rolland",Da Silva,62882,FR,2021-06-08,false,silver
+11007,Michelle,Blondel,michelle.blondel@proton.me,,2005-04-27,"72, avenue Thierry",Saint Hortense,11446,FR,07/03/2021,true,bronze
+10860,Timothée,Marion,timothee.marion@gmx.de,,1983-12-28,"72, avenue Alix Richard",Barre,08782,FR,2023-06-16,true,bronze
+10692,William,Payet,william.payet@orange.fr,06.86.94.61.19,1967-01-18,"9, chemin Émile Alexandre",Gay-les-Bains,60685,FR,23/10/2023,false,silver
+11176,Marthe,Boyer,marthe.boyer@outlook.com,0033634103469,1986-11-17,"17, rue Marthe Chartier",Bertin,8024,FR,2021-12-22,false,platinum
+10175,Maurice,Gilbert,maurice.gilbert@free.fr,06 42 83 64 40,1999-02-11,"509, rue Maillard",Maillot,97389,FR,2022-05-01,true,silver
+10085,Line,De Smet,line.desmet@hotmail.com,+32617461200,02/07/1975,01115 Josiane Mountain,West Morgane,29488,BE,2024-08-19,false,bronze
+10030,Roger,Laroche,roger.laroche@gmail.com,+33 6 73 37 54 33,1976-06-13,"497, avenue Laurent Gauthier",Sainte Adriennenec,69235,FR,2025-10-25,true,platinum
+10671,Amada,Vidal,amada.vidal@yahoo.fr,+34641862104,1976-06-12,C. de Máximo Rivas 84 Piso 0 ,Asturias,05847,ES,2021-12-29,false,silver
+11186,Lucie,Lagarde,LUCIE.LAGARDE@GMAIL.COM,+33 6 03 10 51 83,1980-12-15,rue Gomes,RoyerBourg,87432,FR,2025-11-17,false,silver
+10736,Édith,Pasquier,edith.pasquier@gmx.de,+33 6 24 37 65 45,1978-12-03,"2, boulevard de Fernandez",Ramos-la-Forêt,89314,france ,2021-01-15,true,gold
+10182,Tabea,Mühle,tabea.muhle@gmail.com,+49689964235,1951-01-04,Häringplatz 29,Wolfratshausen,47187,DE,19/06/2022,true,silver
+10463,Théophile,Chevalier,theophile.chevalier@yahoo.fr,06 89 49 05 80,1970/09/28,"389, avenue Giraud",Lecomte,91135,FR,2024-11-01,true,platinum
+10757,Maryse,Godard,maryse.godard@gmx.de,+33 6 24 04 22 69,2002-01-08,"69, chemin Thérèse Philippe",Chevalierdan,80956,France,02/02/2025,true,bronze
+11113,Philippe,Hernandez,philippe.hernandez@free.fr,+33 6 25 97 10 75,1992-10-26,"39, boulevard de Bertin",Sainte Roland,97397,FR,2025-07-11,true,gold
+10616,Matthieu,Hamel,matthieu.hamel@web.de,06 04 33 97 18,1982-03-14,"18, chemin de Carlier",Albert,07638,FR,2022-01-04,false,bronze
+10088,Marguerite,Noël,marguerite.noel@orange.fr,+33 6 17 13 90 05,1981-05-26,"35, boulevard de Letellier",Saint ThierryBourg,27576,France,24/01/2022,true,silver
+10388,Paulette,Rousseau,paulette.rousseau@gmx.de,06 92 51 32 71,1948-10-06,"2, avenue Pineau",Sainte Luc,80902,FR,2024-11-10,false,bronze
+11024,Dorothée,Brunet,dorothee.brunet@orange.fr,,1953-04-15,"17, rue Pruvost",Rousseau-la-Forêt,39483,FR,2022-01-14,true,gold
+10451,Daniel,Marty,daniel.marty@gmx.de,+33 6 24 59 92 81,1962-01-14,avenue Navarro,Brunnec,14837,FR,2023/08/03,true,bronze
+11174,Georges,Valentin,georges.valentin@free.fr,+32 632 089 532,1986-04-04,924 Adam Drives Apt. 482,Arnaudville,59635,BE,2025-09-18,false,silver
+10102,Fred,Lindau,fred.lindau@yahoo.fr,+49661497840,1959-10-31,Heini-Staude-Ring 62,Greifswald,67513,Germany,2022-12-08,true,bronze
+10295,Anouk,Arnaud,anouk.arnaud@yahoo.fr,+33 6 91 41 17 39,25/04/1994,"75, avenue Alexandria Faure",Lucasboeuf,97392,FR,2023-11-14,false,Gold
+10425,Romain,Delfosse,romain.delfosse@orange.fr,+32 626 490 827,1953-06-23,6855 Guy Wells,Port Augustinshire,52565,BE,2023-08-03,false,bronze
+11212,aimée,POULAIN,aimee.poulain@yahoo.fr,+33 6 49 42 96 59,1956-11-29,rue de Dos Santos,Dupuis,71821,FR,2025-04-13,true,gold
+10325,Rebekka,Heinrich,rebekka.heinrich@yahoo.fr,+49620750110,1988-12-18,Dorle-Säuberlich-Platz 95,Melsungen,50431,DE,2025-03-10,false,bronze
+10703,Julien,Philippe,julien.philippe@gmail.com,0033656434712,1977-05-30,"1, boulevard Schneider",Camus,58674,FR,2021-11-25,true,platinum
+10221,Agnès,Mercier,agnes.mercier@outlook.com,0033675001701,2005-12-07,"806, avenue Besson",Letellier,3827,FR,2024-03-05,true,platinum
+10022,Honoré,Besson,honore.besson@@proton.me,+33 6 99 85 43 53,1993-11-28,"6, rue Frédéric Étienne",Dupuis,5303,France,2024-09-08,true,gold
+10615,Paulette,Allard,paulette.allard@yahoo.fr,06 81 39 89 09,2006-03-23,"57, rue Paulette Gros",Chauvin,61480,FR,2024-08-11,false,bronze
+10754,Sébastien,Baron,sebastien.baron@web.de,+33 6 26 94 50 05,1979-05-28,"5, rue Paris",Saint LaurenceBourg,97366,FR,2022-06-25,false,silver
+10686,Conrado,Egea,conrado.egea@gmx.de,+34 666 149 828,1968-12-29,Rambla de África Huertas 74 Puerta 6 ,Cáceres,17932,ES,2021/02/10,false,platinum
+10396,Éléonore,Richard,eleonore.richard@proton.me,+33 6 50 94 80 14,2008-01-17,"965, rue de Ledoux",PiresBourg,40235,FR,2025-08-11,true,bronze
+10549,Clarisse,Degueldre,clarisse.degueldre@web.de,+32 629 737 489,1991-01-12,37903 Thirion Isle Suite 651,Zéliemouth,06846,BE,2025-11-02,false,bronze
+10004,Javi,Pellicer,javi.pellicer@gmx.de,+34616184959,1977/09/15,Calle Che Cerro 48,Segovia,25600,Espagne,2024-01-04,true,bronze
+10377,Adèle,Fernandez,adele.fernandez@gmx.de,+33 6 96 88 45 78,1973-07-13,"69, boulevard de Lefort",Gaillard-les-Bains,16894,FR,07-16-2024,true,platinum
+11117,Monique,Bouvet,monique.bouvet@gmail.com,0033659782457,1959-02-03,"677, chemin Roche",Piresnec,29628,FR,2022-11-02,true,silver
+10503,Hansjürgen,Dowerg,hansjurgen.dowerg@hotmail.com,+49654864015,02-01-1990,Lissy-Wernecke-Allee 7455,Artern,01471,DEU,2022-10-19,false,bronze
+11229,Suzanne,Dumont, suzanne.dumont@proton.me,06.59.08.41.94,1980-12-02,"71, avenue Michelle Roux",Brunel,75675,FR,2026-04-23,true,GOLD
+10803,Anne,Petitjean,anne.petitjean@proton.me,+33 6 92 09 81 96,1995-01-26,"70, avenue de Rivière",Regnier-sur-Pelletier,97618,france ,24/01/2021,true,silver
+10531,Anna-Marie,Wirth,anna-marie.wirth@yahoo.fr,+49 656 638 361,1970-12-08,Christiane-Hövel-Platz 1-9,Hagenow,57089,DEU,06/01/2022,false,bronze
+11072,Romuald,Paquet,romuald.paquet@proton.me,+32694346066,1996-10-11,84062 Martine Union Apt. 409,West Giuseppeshire,10844,BE,2024-10-25,true,platinum
+10165,Josef,Cichorius,josef.cichorius@orange.fr,+49693327279,1976-10-03,Schuchhardtplatz 99,Staßfurt,69060,DE,2023-01-23,true,platinum
+10830,Françoise,Rolland,francoise.rolland@yahoo.fr,+33 6 03 13 10 09,1951-04-26,"577, avenue Guyon",Hoarau,66600,france ,10-27-2024,true,Platinium
+10547,Hilmar,Ortmann,hilmar.ortmann@yahoo.fr,+49654198763,1985-05-14,Dehmelstraße 2-7,Kitzingen,11781,DE,2024-04-27,true,gold
+10900,Élodie,Le Goff,elodie.legoff@gmail.com,0033683070534,1996-11-12,avenue Lemaire,Lebretonboeuf,69659,France,2024-01-11,true,platinum
+11169,Conny,Schomber,conny.schomber@hotmail.com,+49 652 753 674,1982-03-09,Arnulf-Mans-Straße 1350,Dinkelsbühl,23227,DE,2024-05-09,false,gold
+10420,Émile,Blin,emile.blinhotmail.com,06.33.05.17.28,1951-11-22,"1, rue Noël Klein",Gomes,18752,france ,05-06-2024,false,gold
+10525,Zacharie,Monnier,zacharie.monnier@yahoo.fr,0033620754527,1998-02-25,"11, avenue Joly",Gautier-la-Forêt,37660,FR,2021-08-27,true,gold
+11202,Sophie,Alves,SOPHIE.ALVES@GMAIL.COM,+33 6 12 79 61 14,1990-01-27,"2, chemin Brun",Bertrand-sur-Thibault,68708,FR,2025-04-11,true,bronze
+10280,Guillaume,Martel,guillaume.martel@orange.fr,+33 6 46 65 74 37,1966-04-04,"83, chemin Thibaut Guillon",Dubois-sur-Bertin,31106,FR,2024-12-30,true,platinum
+10987,Christophe,Royer,christophe.royer@proton.me,06 15 34 33 24,2002-02-13,boulevard Madeleine Perrot,Rochernec,4474,FR,2021-01-30,true,bronze
+10717,Paul,Launay,paul.launay@web.de,+33 6 13 12 92 08,1971-05-18,"75, boulevard de Valentin",HardyVille,06722,FR,01-01-2025,false,bronze
+10878,Josep,Doménech,josep.domenech@web.de,+34 669 984 267,2031-03-23,Rambla de Begoña Olmo 7,Almería,25704,ES,08-08-2023,true,silver
+10575,Victoire,Traore,victoire.traore@yahoo.fr,06 71 50 41 65,1962-06-17,"66, rue de Blondel",Mallet,69683,FR,2022/05/20,true,gold
+10710,Norman,Nohlmans,norman.nohlmans@free.fr,+49666184438,1952-08-05,Zorbachgasse 53/35,Bad Kreuznach,58485,Allemagne,01/04/2025,true,gold
+10931,Simone,Leconte,simone.leconte@proton.me,0033667548581,12-20-1960,"91, avenue Chevallier",Sainte Pierre,70493,france ,2023-02-12,true,silver
+10844,Élodie,Noël,,+33 6 44 14 97 82,1986-10-05,"63, chemin Constance Bazin",BaronVille,94870,FR,2022-02-13,false,bronze
+10355,Margaret,Jourdan,margaret.jourdan@web.de,+33 6 39 20 53 02,1971-01-17,"1, chemin Louis",Letellier-sur-Mer,97152,France,2023-11-23,false,platinum
+10809,Franck,Lombard,franck.lombard@outlook.com,06.51.30.52.31,1989-04-07,"33, rue Laurent",Dupuis-sur-Camus,62186,france ,03-19-2022,true,gold
+10526,Juliette,Pierre,juliette.pierre@orange.fr,+33 6 13 22 34 23,1957-09-07,"25, rue Luce Maillet",Denis-sur-Leleu,50320,FR,28/02/2021,true,platinum
+10310,Odette,Urbain,odette.urbain@gmail.com,+32608697829,1953-04-05,96714 Demoulin Hill Suite 780,East Marie,34020,BEL,2023-12-23,true,bronze
+10820,Darío,Vilanova,dario.vilanova@yahoo.fr,+34659103002,1977-05-12,Via de Iker Ariza 72,Girona,37780,ES,09-23-2025,false,platinum
+11021,Christelle,Benoit,christelle.benoit@gmail.com,0033631611776,1973-12-23,"99, avenue de Aubry",Didier-sur-Bousquet,47793,FR,2022-12-16,true,platinum
+10072,Amandine,Liénard,amandine.lienard@hotmail.com,+32 663 605 766,1979-11-25,32117 Bertrand Route Apt. 905,South Jean,09096,BE,2024-03-17,true,silver
+10550,Auguste,Fernandez,auguste.fernandez@free.fr,06 23 24 66 51,1950-06-26,"419, avenue Amélie Lebreton",Lesageboeuf,22913,FR,08-06-2023,false,gold
+10935,Cécile,Lemonnier,cecile.lemonnier@orange.fr,0033676044090,1947-08-05,"37, avenue Bourgeois",Bouvier,07756,FR,07/08/2024,false,platinum
+10303,Philippine,Lefèvre,philippine.lefevre@proton.me,0033689002877,1954-09-12,"659, chemin Meunier",Louisnec,37339,FR,2021-11-01,true,platinum
+10863,Anouk,Riou,anouk.riou@gmx.de,+33 6 09 85 03 44,2003-06-24,"39, rue Weber",Lenoir,53279,FRA,2022-04-18,false,bronze
+10586,Alice,Payet,alice.payet@free.fr,06.64.12.20.31,1952-09-16,"22, avenue Bonneau",Morel-sur-Rossi,25635,FR,2024-11-15,true,silver
+10227,Colette,Tessier,colette.tessier@outlook.com,06.41.38.99.94,2004-02-07,avenue de Chevalier,Marion-les-Bains,66373,FR,2022-05-23,true,bronze
+11001,Elpidio,Sainz,elpidio.sainz@web.de,+34641132579,1958-08-03,Plaza de Néstor Lozano 6,Cuenca,50786,ES,2023-06-21,true,platinum
+10265,Noël,Doumont,noel.doumont@gmx.de,+32614677418,1976-01-03,842 Rousseau Flat,Thibaultfort,24915,BE,2025-09-25,false,platinum
+11095,Irmtrud,Lachmann,irmtrud.lachmann@proton.me,+49654384807,1947-10-05,Nancy-Mentzel-Allee 849,Pfaffenhofen an der Ilm,93478,DE,2021-12-13,true,bronze
+10431,Alix,Torres,alix.torres@web.de,0033630220502,1985-07-30,"141, rue Imbert",RodriguezBourg,82186,FR,2025-08-07,true,gold
+10814,Victoire,Maury,,06 25 10 50 53,1949-11-24,"293, avenue Marques",GermainBourg,14216,FR,2023-02-01,false,silver
+10706,Michel,Delattre,,+33 6 66 55 28 99,1961-01-04,"957, rue Guibert",Blin,20536,FR,2022-01-24,false,bronze
+10663,Alain,Dupont,alain.dupont@web.de,+33 6 25 66 21 28,1982-06-24,"225, rue Didier",Sainte PatriciaVille,88586,FR,23/01/2021,true,bronze
+10108,  ZACHARIE ,Gonzalez,zacharie.gonzalez@gmx.de,+33 6 99 55 27 17,2006-09-12,"2, avenue David Verdier",Saint Henri,32982,FR,26/10/2024,false,gold
+10674,Juan Luis,Benet,juanluis.benet@yahoo.fr,+34612206815,06/06/1948,Calle Sarita Agustí 4,León,42340,Espagne,2022-03-28,true,silver
+10143,Margaux,Delaunay,margaux.delaunay@outlook.com,+33 6 55 62 58 81,03-01-1963,"8, rue Julie Benard",Bousquet,3594,FR,2022-10-03,false,bronze
+10215,Nilda,Pazos,nilda.pazos@gmx.de,+34636134074,1952-11-07,Alameda Iván Martin 25,Toledo,05913,ES,2024-01-24,true,platinum
+10278,Alexandre,Gallet,alexandre.gallet@orange.fr,0033614060293,1967-02-09,"72, boulevard Victor Fernandez",LarocheBourg,37681,FR,2025/03/14,true,silver
+10097,René,Bouillon,rene.bouillon@orange.fr,+32619832731,1976-04-30,9977 David Locks Apt. 512,Anneborough,39938,BE,12-22-2022,true,gold
+10326,Claude,Faure,claude.faure@hotmail.com,06 66 76 65 06,1987-01-21,avenue Gillet,Courtoisdan,83877,FR,2022-06-14,true,bronze
+10673,Alexandre,Guillaume,alexandre.guillaume@proton.me,+33 6 33 53 31 06,1987-03-08,"6, avenue de Tessier",Sainte Éléonore,11579,FR,04-21-2025,true,gold
+10364,Gabriel,Charles,gabriel.charles@outlook.com,0033686780856,1988-02-15,"79, avenue de Coste",Sainte Adriennedan,62640,FR,2021-04-21,true,platinum
+10637,Graciana,Baquero,graciana.baquero@gmail.com,+34670496110,1961-09-21,Cañada de Xiomara Reguera 74 Apt. 13 ,Cantabria,24577,ES,07-02-2025,false,platinum
+10236,Michèle,Lacombe,michele.lacombe@web.de,,2004-04-16,"431, rue Teixeira",Sainte Françoise,81278,FR,2021-01-06,true,platinum
+10363,Maryse,Benoit,maryse.benoit@web.de,,1958-11-01,"9, chemin Germain",Albert,97118,FR,2021-03-28,true,gold
+11194,Dora,Campo,dora.campo@hotmail.com,+34 654 025 472,1974-08-24,Rambla Fidela Collado 94,Ávila,11091,ES,2025-04-01,true,gold
+10848,Marthe,Caron,marthe.caron@yahoo.fr,06.49.75.01.98,02-20-1977,"5, boulevard Gilles Reynaud",De Oliveira,26633,fr,11/08/2025,true,silver
+10777,Maurice,Lemoine,maurice.lemoine@yahoo.fr,0033690970051,18/08/1972,"58, boulevard Hortense Poulain",Saint Hélène,01691,france ,2024-03-13,true,gold
+10196,Catherine,Masse,catherine.masse@outlook.com,+33 6 62 24 44 72,08/12/1986,"820, chemin Delannoy",Saint Augustin-sur-Mer,41719,FR,11-04-2024,false,gold
+10744,Marc,Verdier,marc.verdier@orange.fr,+33 6 45 63 50 20,1989-01-20,"60, boulevard Zoé Gaillard",Seguin-sur-Perrier,45167,FR,15/01/2023,true,gold
+10654,Vasco,Uribe,vasco.uribe@free.fr,+34 660 273 415,2002/04/19,Paseo Juan Antonio Madrigal 9,Ávila,47684,ES,2022/07/14,false,bronze
+10141,Hector,Avilés,hector.aviles@gmail.com,+34609439690,1964-06-20,Glorieta Luciana Acuña 690,Melilla,30243,es,2021-06-16,true,gold
+10323,Michelle,Paris,michelle.paris@web.de,+33 6 58 87 70 43,1979/08/15,"22, boulevard Gérard",Olivier,36117,France,2025-08-11,true,bronze
+11060,Jean,Courtois,jean.courtois@gmail.com,+33 6 05 12 08 00,1958-01-28,"292, rue de Vallet",Saint Raymond-sur-Mer,94679,FR,15/02/2024,false,bronze
+10974,Antoinette,Gauthier,antoinette.gauthier@proton.me,06 74 72 26 40,1975-02-22,"24, rue de Noël",Colin-les-Bains,92682,fr,2023-10-11,false,platinum
+10005,Leszek,Römer,leszek.romer@orange.fr,+49631647525,1947-07-17,Carmela-Bonbach-Weg 6786,Rothenburg ob der Tauber,19935,DE,2021-06-13,true,GOLD
+10612,Denis,Lenoir,denis.lenoir@web.de,0033610679497,19/07/2004,"59, rue Didier",Huet,8382,FR,2022/12/16,false,platinum
+10685,Manuel,Andrade,manuel.andrade@gmx.de,+34 656 627 768,08-03-1954,Urbanización Jesusa Real 339,Salamanca,48648,ES,2021-06-13,false,silver
+10990,Polina,Hande,polina.hande@hotmail.com,+49 672 094 841,1990/09/08,Sontaggasse 8-6,Parchim,00281,DEU,2022-04-13,true,bronze
+10839,Mateo,Leon,mateo.leon@yahoo.fr,+34679541072,1989-11-05,Acceso de Blas Tamayo 75 Piso 8 ,Almería,32732,ES,2023-06-07,true,gold
+10815,Marianne,Bruneau,marianne.bruneau@proton.me,0033693831849,1980-04-05,"3, rue Georges Paris",Boulay,41956,FR,2022/08/04,true,bronze
+10921,Margaud,Bernier,margaud.bernier@proton.me,,2004/12/20,"169, rue de Marchal",Caron-sur-Mer,34753,FR,2021-01-12,true,platinum
+11118,Cesar,Sans,cesar.sans@hotmail.com,+34691403884,1959-01-27,Acceso de Cecilio Bustos 65 Piso 5 ,Teruel,38689,Espagne,2024-05-08,false,platinum
+10897,Colette,Grondin,colette.grondin@gmx.de,,1985-06-16,rue de Mercier,PotierVille,18130,FR,2022-11-30,false,silver
+11012,Catalina,Linares,catalina.linares@web.de,+34615533342,1951-03-07,Plaza Charo Martín 44,Tarragona,24996,ES,2022-12-15,false,silver
+10258,Valentine,Toussaint,valentine.toussaint@hotmail.com,+32 691 725 135,24/01/1984,034 Alexia Ramp,East Romainville,62233,Belgique,2024-08-02,true,bronze
+10409,Agustín,Torrent,agustin.torrent@outlook.com,+34 697 927 033,2003-11-05,Plaza Julie Vall 85,Salamanca,23152,ES,2022-12-18,true,bronze
+10521,Anita,Alemany,anita.alemany@outlook.com,+34602572520,1974-10-17,Vial de Josep Pardo 98,Ávila,04446,ES,2024-04-06,false,gold
+10155,Claude,De Sousa,claude.desousa@hotmail.com,+33 6 43 75 75 84,1951-08-24,"600, rue Moreno",Muller,27757,FR,2022-09-02,true,platinum
+10327,Dunja,Heß,dunja.heß@yahoo.fr,+49 690 158 144,1949-05-28,Kargeplatz 3,Bad Kissingen,19953,DE,2025-03-29,false,platinum
+10485,Guillaume,Mace,guillaume.mace@web.de,+33 6 53 09 25 11,1947/06/22,"76, rue de Guillon",Aubert-sur-Le Goff,63402,,2021-10-09,false,silver
+11085,Léon,Nicolas,leon.nicolas@proton.me,+33 6 83 33 39 39,1952-05-03,rue de Baudry,Diaz,76830,fr,09-30-2021,false,platinum
+10836,Éric,Durand,eric.durand@free.fr,0033697148026,05/02/1976,"19, avenue Pénélope Dos Santos",Gonzalezboeuf,39265,France,2023/11/27,true,silver
+10132,Nuria,Dueñas,nuria.duenas@free.fr,+34669092755,1946-11-02,Pasaje de Dionisio Blanco 49 Piso 7 ,Jaén,12652,ES,2023-01-12,true,silver
+10964,Nath,Colas,nath.colas@yahoo.fr,0033681546602,1954-01-06,"15, rue de Lévy",Weber-sur-Morin,07920,,2023-02-22,false,bronze
+10238,Martial,Servais,martial.servais@yahoo.fr,+32644518705,1994-04-30,31030 Pirotte Station,Foucartside,72968,Belgique,08-11-2023,true,gold
+11185,James,Joly,james.joly@outlook.com,+32 652 088 547,01-15-1953,571 Descamps Passage Suite 081,Lake Andréehaven,04526,BE,2025-05-30,true,silver
+10850,Inès,Le Goff,ines.legoff@outlook.com,06.18.13.31.70,1987-03-08,"888, chemin Hélène Payet",Picard,97651,FR,2024-05-21,false,platinum
+10103,Marine,Berger,marine.berger@orange.fr,+33 6 24 45 10 76,1965-02-28,"785, boulevard de Rémy",Boutin,74477,FR,2022-03-09,false,silver
+10235,Claudine,Bourgeois,claudine.bourgeois@web.de,0033607925241,1953-08-06,"61, chemin de Lacombe",Sainte Théophile-les-Bains,10562,FR,2023-01-08,true,bronze
+10582,Juliana,Matas,juliana.matas@web.de,+34649081081,1978-06-02,Pasaje de Victor Grande 285,Ourense,47696,ES,2023-05-26,false,bronze
+10458,Corina,Jacobi Jäckel,corina.jacobijackel@proton.me,+49666832723,1953-02-22,Tamara-Henk-Allee 271,Stollberg,35972,DE,2023-04-12,false,platinum
+11213,Myriam,Lacroix, myriam.lacroix@gmail.com,+32636849951,2007-02-10,3876 Greco Crest Apt. 891,Port Mehmetport,91554,BE,2026-06-02,true,bronze
+11018,Inès,Moreno,ines.moreno@outlook.com,+33 6 70 09 34 59,1990-11-22,"535, boulevard Margot Joly",Dijoux-sur-Mer,80781,FR,2021-10-15,true,platinum
+10983,Véronique,Michaud,veronique.michaud@gmail.com,+33 6 22 84 03 59,1949-01-28,"86, boulevard de Godard",CharpentierVille,02205,France,2025-04-09,false,gold
+10101,Hugo,François,hugo.francois@outlook.com,+32690147679,1951-09-25,7996 Geneviève Trail,Charlesside,18548,,19/11/2021,false,silver
+11064,Philippe,Jacob,philippe.jacob@web.de,+32667181535,1971-07-03,8075 Raphaël Station Suite 480,South Alain,09698,BE,2025-08-31,false,silver
+10459,Sabine,Chauvin,sabine.chauvin@outlook.com,+33 6 01 02 76 21,1975-07-16,boulevard de Chevallier,Lemaître,84371,FR,2021-10-03,false,Platinium
+11048,Christine,Maillard,christine.maillard@proton.me,+33 6 61 49 91 53,1983-07-15,"99, rue Isaac Rousset",ThibaultBourg,87489,FR,2021-09-30,true,silver
+11122,Audrey,Torres,audrey.torres@proton.me,06 56 25 90 45,1993-04-14,"15, rue de Joly",Rémy,97298,FR,2024-08-16,true,bronze
+10825,Simone,Leroy,simone.leroy@free.fr,+33 6 98 85 47 28,2031-08-01,"69, rue Océane Labbé",Rolland,15172,France,2022-03-04,true,silver
+10187,Melisa,Caro,melisa.caro@yahoo.fr,+34667933410,1990-07-27,Callejón de Nilda Varela 74 Apt. 53 ,Zamora,41930,ES,2023-02-04,false,platinum
+10394,Thomas,Joly,thomas.joly@outlook.com,06 03 17 31 09,1961-06-24,"599, rue de Delmas",Leclerc,82186,FR,2022-01-01,false,platinum
+10016,  MARCEL ,Duhamel,marcel.duhamel@gmx.de,+33 6 76 31 16 56,2001-01-30,"86, chemin Joly",Vallet,8956,France,13/05/2022,true,bronze
+10068,Aimé,Hamel,aime.hamel@orange.fr,+33 6 71 09 32 48,2000-01-29,"92, rue Frédérique Menard",Sainte Grégoiredan,14897,FR,2023-06-17,false,bronze
+11016,Lorraine,Guillou,lorraine.guillou@yahoo.fr,0033600666155,1968-03-14,"8, boulevard Nathalie Thomas",Maillot-sur-Mer,07874,,2023-07-25,true,platinum
+10285,Zdravko,Lindau,zdravko.lindau@web.de,+49 625 135 346,1969-01-09,Selim-Birnbaum-Allee 2,Meppen,92603,DE,2025-04-12,false,gold
+10664,Charles,Hamon,charles.hamon@hotmail.com,06 34 67 29 94,06-24-1986,avenue Rey,Pascal,89649,FR,2021/09/24,true,platinum
+11070,Ignatz,Hering,ignatz.hering@yahoo.fr,+49637399006,1951/12/18,Jähnstraße 8/2,Säckingen,02925,DE,2025-01-02,true,bronze
+11015,Alphonse,Leroy,,06.79.55.63.31,2001-12-17,"74, rue de Foucher",Sainte Raymond,69706,FR,2021-09-04,false,platinum
+10493,Bertrand,Thomas,bertrand.thomas@gmail.com,06 23 97 26 52,1974-05-08,"227, boulevard Gay",Antoinenec,26879,FR,2023-06-12,true,gold
+11181,roger,MARTY,roger.marty@hotmail.com,0033618233749,1986-04-14,"20, rue Inès Aubry",Saint Jeannine,51795,France,2025-02-07,true,gold
+10203,Margaud,Marques,margaud.marques@proton.me,06.56.10.14.38,2001-01-30,"32, boulevard Gaillard",Bertrandnec,79234,FR,2025-03-22,true,silver
+10412,Henriette,Guichard,henriette.guichard@gmail.com,06 39 40 70 16,1953-05-23,"18, rue Chantal Carre",Millet,86153,FR,08-05-2022,true,gold
+10509,Théodore,Aubry,theodore.aubry@outlook.com,+33 6 22 31 05 92,13/02/1975,"5, chemin Aurélie Rousset",Saint ClaudeVille,13932,FRA,15/09/2025,false,silver
+11183,Anna,Seco,anna.seco@yahoo.fr,+34 650 163 159,2006-03-28,Acceso Anabel Camacho 7,Segovia,17377,Spain,2025-11-07,true,platinum
+10147,Ciro,Valverde,ciro.valverde@free.fr,+34660983584,1991-06-30,Alameda Begoña Plana 530,Ávila,47214,es,2021-04-03,true,platinum
+11197,Rodolfo,Zabaleta,RODOLFO.ZABALETA@HOTMAIL.COM,+34698373540,1967-05-07,Ronda de Gustavo Trillo 581 Apt. 17 ,La Rioja,46261,ES,2025-08-19,true,bronze
+10058,Louis,André,louis.andre@gmx.de,+32 616 719 022,1965-08-19,78421 Massart Circles Suite 728,Lefèbvreburgh,46970,BE,2021-08-22,false,bronze
+10138,Jean,Roger,,06.28.92.26.80,1950-11-05,"37, avenue Diaz",Jacques,48734,FR,2022-12-07,true,silver
+11144,Célina,Vallée,celina.vallee@web.de,0033623571558,1974-12-08,"37, chemin Zoé Renard",Moreau,11661,FR,2024-09-23,true,platinum
+10937,Jérôme,Torres,jerôme.torres@yahoo.fr,06.70.51.84.39,1983-03-25,"71, rue Anaïs Hoareau",Hubert-sur-Lefebvre,41918,FR,25/04/2021,false,gold
+10342,Amélie,Merle,amelie.merle@yahoo.fr,06 36 51 77 73,1951-03-17,"326, chemin Hernandez",Teixeira,71348,fr,2024/09/15,true,platinum
+10896,Suzanne,Weiss,suzanne.weiss@gmail.com,06.95.76.57.28,2005-04-17,"967, rue Pauline De Sousa",Saint Philippedan,45587,FR,2024-04-30,false,bronze
+10834,Dylan,Delvaux,dylan.delvaux@gmail.com,+32637100943,1964-07-03,2667 Lemmens Drive,New Léo,40850,BE,2023-09-28,true,silver
+10594,Anthony,Leduc,anthony.leduc@free.fr,+32652280156,1968-09-10,0491 Simon Pike Apt. 630,Deprezhaven,75772,BEL,2022-06-19,true,bronze
+11082,Canan,Klotz,canan.klotz@orange.fr,+49677278532,1995-03-12,Sigfried-Killer-Weg 5637,Germersheim,58656,DE,08/12/2022,true,silver
+10093,Céline,Martin,celine.martin@free.fr,+32621249985,24/05/1999,25604 André Mill Apt. 695,Leclercqfurt,17832,BE,2024-05-30,true,gold
+11188,Romuald,Paquet,ROMUALD.PAQUET@PROTON.ME,+32694346066,1996-10-11,84062 Martine Union Apt. 409,West Giuseppeshire,10844,BE,2025-11-11,true,platinum
+10902,Mehdi,Hartung,mehdi.hartung@yahoo.fr,+49613152854,1973-10-01,Lindnerstraße 5204,Eggenfelden,27827,DE,2022-12-26,true,bronze
+10130,Alexandria,Pineau,alexandria.pineau@orange.fr,06.79.62.75.70,2004-08-21,"763, chemin Vallet",Munoznec,24814,FR,09-20-2022,false,platinum
+11034,Robert,Leclerc,robert.leclerc@outlook.com,0033666933513,1961-04-28,"91, chemin de Maréchal",Lambert-sur-Marin,90959,FR,2024-08-16,false,silver
+11159,Auguste,Gomez,auguste.gomezorange.fr,+33 6 80 42 53 73,2004-01-17,"52, rue Dorothée Legros",Hamel,76554,FR,2024-04-14,false,platinum
+10552,Margot,Lemaire,margot.lemaire@proton.me,06 03 24 20 44,1979-07-26,"1, rue de Pelletier",Gautier-la-Forêt,82837,France,15/05/2023,true,bronze
+11143,Jerónimo,Llamas,jeronimo.llamas@outlook.com,+34636161880,1988-02-06,Rambla Bonifacio Valenzuela 281 Apt. 14 ,Ceuta,25879,ES,2025-07-30,true,bronze
+10923,Madeleine,Renard,madeleine.renard@proton.me,+33 6 28 72 86 60,1962-01-10,"31, rue Moulin",Barthelemy,76341,FR,2023-10-12,false,gold
+10028,Alphonse,Pruvost,alphonse.pruvost@gmail.com,0033650533158,1980-10-07,rue Rolland,Saint VincentBourg,75325,FR,24/09/2022,false,silver
+10551,María Carmen,Raya,mariacarmen.raya@outlook.com,+34693631230,1946-12-07,Urbanización de Bautista Mosquera 78,Salamanca,21728,ES,2022-06-10,false,platinum
+10763,Sophie,Hernandez,sophie.hernandez@free.fr,+33 6 51 09 22 68,1979-06-08,"49, rue de Leduc",Françoisboeuf,51704,fr,2021-08-31,true,platinum
+11133,Régine,Pirard,regine.pirard@gmx.de,+32 694 319 100,2003-04-03,858 Gosset Shores,Segersport,48598,,2024-02-23,true,gold
+10841,Hortense,Guillaume,hortense.guillaume@orange.fr,06.65.00.42.54,1995-06-30,"9, chemin de Roux",Sainte Aiméedan,11735,FR,2021-01-11,true,silver
+10607,Adrienne,Laroche,adrienne.laroche@proton.me,+33 6 61 10 62 73,1970-10-06,"2, boulevard Jacquet",Guillonboeuf,75305,FR,2025-08-24,false,platinum
+10168,Édouard,Lebrun,edouard.lebrun@web.de,06 07 28 67 90,1984-03-11,"698, boulevard Éléonore Cousin",Bodinnec,09229,FR,2023-07-02,true,gold
+11003,Raymonde,Laurent,raymonde.laurent@yahoo.fr,+32621562294,1994-05-01,166 Xavier Circles,Khalidville,12648,BE,2023-08-25,true,bronze
+10253,Olivier,Fabre,olivier.fabre@free.fr,0033659059929,1982-08-15,"89, boulevard Alain Nicolas",Lucas-la-Forêt,07151,FR,2025-07-10,false,gold
+10832,Peer,Schüler,peer.schuler@yahoo.fr,+49689743251,1979-05-01,Pohlstr. 1,Forchheim,12590,DE,2022-01-15,false,platinum
+10167,Paz,Palacios,paz.palacios@web.de,+34 698 225 871,1950-07-02,Cuesta Rafael Pinedo 543,Salamanca,20387,ES,19/02/2022,true,platinum
+10649,Liliane,Bertrand,liliane.bertrand@hotmail.com,+32699384253,1963-08-23,824 Martine Rapid,Duboisburgh,06800,BE,2021-04-05,false,silver
+10252,Yoann,Michaux,yoann.michaux@yahoo.fr,+32 634 803 965,1977-09-17,567 Lukas Common,Devauxborough,08875,BE,2022-05-23,true,silver
+10781,Élodie,Delorme,elodie.delorme@proton.me,06 63 39 91 29,1965-07-22,"8, boulevard Charlotte Baudry",De Oliveira,07451,FR,2021-03-23,false,bronze
+11069,Milagros,Rodríguez,milagros.rodriguez@proton.me,+34688285031,1985-04-22,Pasaje de Benito Marti 78 Apt. 71 ,Madrid,09810,ES,21/02/2025,true,silver
+10292,Roswita,Trub,roswita.trub@outlook.com,+49660332309,1997-04-22,Beckmannring 6-6,Eichstätt,11253,DE,2025-07-21,true,gold
+11057,Alphonse,Thierry,alphonse.thierry@outlook.com,+33 6 33 92 20 71,1963-08-01,"5, rue de Rey",ÉtienneVille,90466,France,2025-02-09,true,platinum
+10568,Gerold,Mende,gerold.mende@proton.me,+49669411800,1983-01-16,Meinrad-Misicher-Allee 5834,Wernigerode,27749,DE,2024-12-21,true,platinum
+10951,Gabrielle,Dupont,gabrielle.dupontgmail.com,0033623244123,1982-06-10,"85, rue Prévost",Lesage-les-Bains,33273,FR,2024-09-10,false,bronze
+10595,Honoré,Launay,honore.launay@gmx.de,06 55 08 42 89,02/12/1986,"69, chemin de Bazin",Faivre-sur-Mer,32367,FR,13/06/2022,true,bronze
+10415,Jonathan,Schmiedt,,+49 643 840 460,2002-08-07,Fabienne-Holsten-Allee 56/22,Sigmaringen,55032,DE,07-04-2024,false,silver
+10633,Eva,Blondiau,eva.blondiau@hotmail.com,+32646875063,1965-10-31,8136 Nathan Squares Suite 611,West Maëlle,52785,Belgium,2021-04-07,true,bronze
+11102,Marcelle,Masson,marcelle.masson@web.de,0033673792749,10/03/1967,"65, rue de Laine",Gay-sur-Mendès,26412,FR,2022-01-30,true,platinum
+10337,Philippine,Millet,philippine.milletweb.de,+33 6 65 80 39 28,1947-09-26,"63, avenue de Lesage",Bazin,34902,FR,2021-07-05,true,silver
+11163,Andrzej,Barth,andrzej.barth@outlook.com,+49698471690,1954-10-14,Lilian-Tschentscher-Ring 66/62,Kelheim,24528,Germany,2022-05-10,true,bronze
+10346,Marine,Bourgeois,marine.bourgeois@outlook.com,+33 6 03 88 62 91,1976-01-18,"47, avenue Roger Carlier",Noël,22507,,11/08/2021,true,bronze
+10232,Margaret,Navarro,margaret.navarro@proton.me,+33 6 14 63 03 16,1948-01-23,"75, rue de Texier",Potier,09341,FR,2024-04-16,true,bronze
+10827,Victor,Dumas,victor.dumas@yahoo.fr,06 13 07 24 07,1952-01-18,"23, boulevard Claire Vincent",Rodrigues-sur-Mer,94522,FR,2025-03-06,false,gold
+10712,Odalis,Castilla,odalis.castilla@hotmail.com,+34 605 912 662,1993-11-26,Callejón Adoración Villar 64 Piso 9 ,Guipúzcoa,48988,ES,2025/02/14,true,gold
+10883,Stéphanie,Delmas,stephanie.delmas@gmail.com,0033687950830,1978-03-21,rue Christophe Hernandez,Saint Sabine,08580,FRA,2022-01-13,false,gold
+10705,Sylvie,Martinez,sylvie.martinez@yahoo.fr,0033615931952,2005-05-08,"36, avenue Dijoux",Toussaint-sur-Torres,35330,FR,2021-08-17,false,bronze
+10818,Michel,Charles,michel.charles@orange.fr,+32660880501,1989-07-24,578 Victoria Centers Suite 779,Romainfurt,49204,BE,2021-09-26,false,gold
+10158,Alicja,Steinberg,alicja.steinberg@gmail.com,+49665712082,1987-07-08,Jaqueline-Pärtzelt-Weg 8873,Steinfurt,45040,DEU,2021-07-25,false,platinum
+10042,Alain,Martineau,alain.martineau@hotmail.com,0033666909670,1997-05-07,chemin Ferreira,Saint Richard-la-Forêt,38779,FR,02/09/2025,false,platinum
+10069,Margot,Laporte,margot.laporte@yahoo.fr,0033612748467,2008-02-09,"986, rue Noémi Ollivier",Poirier-sur-Mer,76424,FR,2023-08-04,true,platinum
+10572,Gerolf,Hentschel,gerolf.hentschel@gmx.de,+49628703203,25/11/1955,Jochem-Vollbrecht-Gasse 713,Donaueschingen,98523,Germany,2025-04-14,false,gold
+11041,Tristan,Poirier,tristan.poirier@yahoo.fr,06 35 99 66 05,1969-07-11,"49, boulevard Odette Bodin",Noël-la-Forêt,16153,FR,14/04/2025,false,platinum
+10172,Nathalie,Gauthier,nathalie.gauthier@web.de,+33 6 86 33 75 24,1965-07-24,"82, rue Clément",Sainte Étienneboeuf,40781,FR,2023-05-19,true,bronze
+10924,Hanno,Gunpf,hanno.gunpf@orange.fr,+49 659 592 248,1976-06-13,Elfi-Staude-Allee 1943,Ueckermünde,19742,DE,2023-12-07,true,gold
+11030,Leonor,Gómez,leonor.gomez@hotmail.com,+34 658 929 880,1986/07/07,Alameda de Maribel Borrás 8 Puerta 1 ,Alicante,09279,es,2025-02-11,false,silver
+11098,Léon,Lefort,leon.lefort@free.fr,0033654837441,1982-10-08,rue Philippe,Roger,97256,fr,2021-09-29,true,bronze
+10254,Nathalie,Poulain,nathalie.poulain@gmail.com,+33 6 03 93 08 70,1993-12-29,"9, chemin Lenoir",Legrand,46146,FR,2021-07-04,true,silver
+10198,Joséphine,Roux,josephine.roux@proton.me,+33 6 96 57 56 92,1995-08-04,rue Frédérique Potier,Jacquet-la-Forêt,82442,FR,2022-11-12,true,silver
+10729,Margaux,Ollivier,margaux.ollivier@free.fr,+33 6 11 13 12 90,1974/06/15,"903, boulevard Lorraine Pascal",Girard,56181,FR,2025-09-28,false,platinum
+10743,Juan Carlos,Cerdán,juancarlos.cerdan@proton.me,+34684335670,1979-08-19,Vial de Evangelina Ferrándiz 565 Apt. 48 ,Ourense,41708,ES,2023-04-15,true,bronze
+10178,Guy,Moreno,guy.moreno@hotmail.com,+33 6 17 51 83 04,1987-04-14,"2, boulevard de Fabre",Humbertdan,09245,FR,2022-11-08,true,bronze
+10732,Adèle,Da Silva,adele.dasilva@free.fr,+33 6 28 50 67 62,1955-01-11,"245, rue Delattre",Renard,05783,FRA,2025-09-16,true,gold
+10811,Marcel,Guibert,marcel.guibert@orange.fr,0033619942376,1987-11-29,"49, rue Guyon",Camus,58794,,2023-03-16,false,gold
+10036,Bautista,Nevado,bautista.nevado@outlook.com,+34614895134,2000-03-01,Pasadizo de Valeria Galiano 229,Madrid,16362,ES,2024-09-11,true,silver
+10876,Stéphanie,Vaillant,stephanie.vaillant@outlook.com,0033668040850,1984-07-07,"816, rue Payet",Sainte Adèle,67966,FRA,2024-09-13,false,gold
+10556,Jeannine,Carlier,jeannine.carlier@gmail.com,0033685158673,1979-09-17,"73, boulevard de Blanchard",Gonzalez,11412,France,2023-10-02,true,gold
+11093,Candelas,Martin,,+34 699 270 795,1985-03-06,Avenida Reinaldo Frutos 16 Piso 9 ,Jaén,29517,Spain,2023-06-23,true,gold
+10806,Bertrand,Lefort,bertrand.lefort@free.fr,0033636170617,2008-09-06,"851, rue Joseph Lenoir",Sainte Margaud,82192,fr,2025-09-13,true,silver
+10748,Édith,Hernandez,edith.hernandez@gmx.de,06.38.20.23.68,23/11/1956,rue Hebert,Laurentdan,47903,fr,2025-04-08,true,GOLD
+11107,Marine,Guillet,marine.guillet@gmx.de,+33 6 74 75 83 39,15/12/1990,"169, rue Renaud",Huetnec,7438,FR,2023-01-29,true,gold
+10244,Manuel,Hendrickx,manuel.hendrickx@hotmail.com,+32647411249,2031-01-02,610 Pierre Springs Apt. 645,Gaspardchester,38204,Belgium,2023-07-15,false,silver
+10307,Irmtraud,Wende,irmtraud.wende@free.fr,+49671130554,1954-04-26,Losekannallee 32-17,Ueckermünde,03177,DE,06/01/2025,false,bronze
+11112,  CONRADO ,Vélez,conrado.velez@proton.me,+34604254969,1988-05-26,Plaza Rufino Mir 34 Piso 3 ,Guipúzcoa,34594,ES,2023-10-02,true,gold
+10794,Margot,Pruvost,margot.pruvost@web.de,0033629635339,30/05/1994,"95, rue Mercier",Sainte Eugène,66445,FR,2025-05-05,false,gold
+10996,Claire,Poirier,claire.poirier@gmx.de,+33 6 82 31 33 48,2008-06-21,chemin de Fernandes,TexierBourg,97655,fr,12-03-2022,true,platinum
+10170,Rose-Marie,Lambotte,rose-marie.lambotte@gmx.de,+32 646 226 567,1990-01-30,00993 Dubois Curve,Loïcton,88371,BE,2021-03-06,false,platinum
+10048,François,Monnier,francois.monnier@gmail.com,06 96 63 19 31,1995-01-07,"33, avenue Laurent",Gallet,5876,fr,2022-10-01,false,bronze
+10888,Walter,Hubin,walter.hubin@hotmail.com,+32 689 868 180,1978-04-08,02918 Manon Ways Apt. 645,Dumontfurt,08335,Belgium,2024-03-03,true,platinum
+11083,Nicole,Gaspard,nicole.gaspard@proton.me,+32625064207,1974-06-23,21870 Marco Tunnel,Suzannefurt,66533,BE,2022-06-11,true,silver
+10579,Monique,Albert,monique.albert@outlook.com,+32615837767,1983-02-02,63363 Louis Crossing Suite 756,Williamside,10125,BE,2023-01-06,true,platinum
+10849,Capucine,Gallet,capucine.gallet@web.de,06 72 32 44 07,1986-06-26,rue Dijoux,Bouchet,37293,FR,2025-02-25,true,bronze
+11037,Cristian,Camps,cristian.camps@gmail.com,+34641769274,1954-12-11,Camino de Gerónimo Baños 93,Vizcaya,51044,ES,2023-02-21,true,bronze
+10559,Eugène,Philippe,eugene.philippe@outlook.com,0033656041776,1991-08-01,"23, boulevard Daniel Leclercq",Vallée,62438,FR,2023-06-18,false,platinum
+10046,Pénélope,Dumont,penelope.dumont@web.de,06 53 10 03 30,1986/01/03,"78, rue de Marie",Saint ÉmilieVille,33265,france ,2021-04-17,true,silver
+10174,Thierry,Benard,thierry.benard@gmail.com,+33 6 73 83 02 84,1952-05-24,"23, boulevard Alexandrie Noël",Baudry,64317,FR,04-04-2023,true,gold
+10023,Bertrand,Guillot,bertrand.guillot@yahoo.fr,+33 6 79 91 18 38,2001-03-08,"91, rue Delmas",Dias-les-Bains,11187,france ,2021-01-20,false,bronze
+10423,Camille,Rousseau,camille.rousseau@orange.fr,+33 6 12 48 93 27,1991-03-08,14 rue Paul Bert,Lyon,69003,FRA,2022-05-17,true,gold
+11203,Damian,Weihmann,damian.weihmann@outlook.com,+49621298338,2007-11-20,Wilhelm-Nohlmans-Weg 7,Dinkelsbühl,18146,DE,2025-02-14,true,platinum
+11114,Margitta,Trubin,margitta.trubin@free.fr,,1997-09-04,Anselm-Kobelt-Allee 86/40,Jessen,45672,DE,22/07/2024,true,silver
+10911,Zaira,Iñiguez,zaira.iniguez@yahoo.fr,+34695298006,1979-10-16,Urbanización de Evaristo Peláez 50 Piso 0 ,Lugo,36248,ES,2024-06-10,true,gold
+10003,Silvester,Bonbach,silvester.bonbach@free.fr,+49 623 511 615,1959-08-24,Zenta-Hartung-Gasse 346,Riesa,39099,DE,24/07/2022,true,gold
+11076,Nicolás,Ángel,nicolas.angel@outlook.com,+34613695727,1999-04-11,Glorieta Martín Chico 84 Apt. 51 ,La Rioja,15758,ES,2021-06-21,true,silver
+11150,Léon,Bazin,leon.bazin@web.de,0033613176539,03/10/2031,"12, boulevard Franck Millet",Guilbert,28198,FR,2021-07-08,true,gold
+10916,Fridolin,Margraf,fridolin.margraf@proton.me,+49694568044,1971-03-14,Harloffring 922,Waren,84256,Allemagne,2022-02-02,true,gold
+10518,Claude,Lelièvre,claude.lelievre@proton.me,06.87.04.94.78,1999-07-16,"63, rue Corinne Hubert",Weissnec,21176,FR,2022-08-16,true,bronze
+10001,Markus,Flantz,markus.flantz@,+49643321819,1986-02-25,Arne-Christoph-Straße 2-4,Querfurt,01815,DEU,2025-02-27,true,bronze
+10708,Frédérique,Rossi,frederique.rossi@orange.fr,+33 6 14 97 37 46,2005-08-19,"60, avenue Thibaut Pichon",Fernandes,16288,FR,2023-10-26,false,silver
+10024,Valeria,Pinilla,valeria.pinilla@free.fr,+34627849808,1962-07-27,Via de Odalys Barroso 79,Sevilla,48579,ES,2022-08-07,true,bronze
+10383,Timm,Wiek,timm.wiek@hotmail.com,,1999-06-05,Losekannring 97,Bad Kreuznach,27611,DE,2021-07-04,false,bronze
+10877,Eligia,Pellicer,eligia.pellicer@hotmail.com,+34605966018,1965-07-01,Glorieta de Quique Ayuso 433,Huelva,05353,ES,2025-03-31,true,gold
+10642,Élodie,Dumas,elodie.dumas@web.de,+33 6 80 65 33 31,1996-07-26,"34, rue Adrien Barbe",Barre,56415,FR,2025-08-05,true,platinum
+10639,Anastasie,Hardy,anastasie.hardy@free.fr,0033631109193,1994/01/24,"721, rue Paul Gallet",Pichon,11206,FR,2024-04-18,true,gold
+10272,Marcelle,Ollivier,,06 97 02 46 29,1975-12-13,"14, boulevard Grondin",RoussetVille,25874,FR,2024-03-17,true,platinum
+10501,Zoraida,Patiño,zoraida.patino@yahoo.fr,+34650850165,1948-11-21,Paseo de Paula Riera 42,Álava,06665,es,2024-06-24,true,gold
+10603,Maximiliano,Herrera,maximiliano.herrera@orange.fr,+34608562884,1951-08-11,Cañada Jonatan Riquelme 58 Piso 5 ,Madrid,18230,,2021-06-22,true,gold
+10211,Matthieu,Lebreton,matthieu.lebreton@proton.me,06 29 66 27 82,2001-08-08,boulevard Alix Huet,Faureboeuf,04524,FR,2024-05-06,false,gold
+10365,Christianne,Gobert,christianne.gobert@web.de,+32650036915,1984-10-06,92029 Claudine Lodge,South Iris,16545,BEL,08-01-2023,false,silver
+10312,Chantal,Joubert,chantal.joubert@web.de,06 85 83 33 94,1986-09-27,"277, avenue de Samson",Martins,39367,FR,2022-09-05,true,silver
+11161,Alex,Dijoux,alex.dijoux@yahoo.fr,06.23.65.34.60,02-18-1966,avenue Muller,Roux,56744,FRA,2024-03-05,true,gold
+10821,Emmanuel,Techer,emmanuel.techer@yahoo.fr,0033658004010,1997-12-09,"9, rue Lemaire",Gauthierboeuf,38456,fr,2022-01-27,true,gold
+10171,Dominique,Bègue,dominique.begue@web.de,06.51.28.68.23,1986-11-17,"86, avenue Maillot",Alexandrenec,97380,FR,2021-09-30,true,gold
+11210,Martin,Ledoux,MARTIN.LEDOUX@OUTLOOK.COM,+33 6 88 49 69 65,1967-01-28,chemin Josette Aubry,Sainte Élise,12489,fr,2026-06-25,true,platinum
+10176,Jose,Adler,jose.adler@proton.me,+49670568566,1967-12-26,Herrmannallee 44,Gelnhausen,18818,Allemagne,2024/02/13,false,silver
+10340,Caroline,Pascal,caroline.pascal@proton.me,+33 6 91 84 63 86,1980-10-26,chemin Lenoir,Sainte AliceVille,52205,FR,2023-01-19,false,platinum
+10662,Bernard,Martineau,bernard.martineau@gmx.de,06 23 16 43 34,1959-08-04,"15, chemin Mary",Sainte Sophie-sur-Mer,15341,,24/02/2021,true,platinum
+11149,Tilman,Mosemann,tilman.mosemann@proton.me,+49681699570,02-09-1967,Weitzelstraße 55,Spremberg,42810,DE,2025/03/22,false,bronze
+10464,Susan,Olivier,susan.olivier@free.fr,+33 6 54 42 09 49,1953-10-26,"33, chemin de Julien",Saint Amélienec,54180,france ,13/05/2023,true,platinum
+10430,Célina,Henry,celina.henry@gmx.de,06 39 77 67 19,1996-07-07,rue Dumont,Maréchal,18224,FR,03/05/2022,true,gold
+10441,Giuseppina,Renard,giuseppina.renard@web.de,+32 629 962 914,2005-08-13,56654 Claudine Stravenue,Etiennefort,54600,BE,2025-09-22,false,bronze
+10957,Nuria,Benet,nuria.benet@,+34616025298,1976-12-05,Cañada de Alma Viana 82,Castellón,37690,ES,2024-11-06,false,bronze
+10061,Aurore,Muller,aurore.muller@gmx.de,06.03.44.71.34,2005-08-25,"5, chemin de Martineau",Milletnec,42738,france ,2022-08-20,true,silver
+10904,Eligia,Rey,eligia.rey@hotmail.com,+34634727274,1957-01-04,Vial de Ovidio Cuesta 26,Santa Cruz de Tenerife,05317,ES,2024-10-11,true,bronze
+10749,Aurélie,Lefebvre,aurelie.lefebvre@gmx.de,+32616176880,2002-11-18,0889 Mertens Rue,East Laetitia,26535,BE,2024-07-13,false,silver
+10306,Quique,Tamarit,quique.tamarit@orange.fr,+34683755037,1980-12-23,Vial de Flor Larrea 8,Palencia,37798,ES,2023-11-08,true,platinum
+11131,Guy,Cohen,guy.cohen@orange.fr,0033639457039,1949-11-25,"859, avenue Hortense Fournier",Sainte Madeleinedan,51719,france ,2025-09-02,false,silver
+11140,André,Legrand,andre.legrand@free.fr,+33 6 88 25 56 29,1986-02-12,"75, avenue Morel",Sainte Gabriel,86867,FR,2025-01-27,false,gold
+10357,Adèle,Langlois,adele.langlois@orange.fr,+33 6 93 76 90 42,1967-06-26,"85, avenue Mace",JulienBourg,4637,FR,04-09-2022,true,bronze
+10750,Honoré,Aubert,honore.aubert@gmail.com,06.36.78.81.27,1967-04-19,"35, boulevard Labbé",Leclerc,61850,FRA,2025-06-15,false,platinum
+10397,Alfred,Coste,alfred.coste@hotmail.com,,1950-02-14,avenue Guillou,Techer,33320,FR,2023-12-25,false,bronze
+10121,Sylvie,Marin,sylvie.marin@free.fr,+33 6 52 20 47 27,02/12/2006,"25, chemin Bouchet",Hervénec,60456,fr,2021-07-22,true,bronze
+10587,Eugenia,Ayuso,eugenia.ayuso@hotmail.com,+34623683147,1977-07-31,C. Catalina Fuertes 57 Piso 8 ,Madrid,22965,ES,13/09/2023,false,bronze
+10759,Jesusa,Robledo,jesusa.robledo@gmail.com,+34631429001,2005-07-23,Avenida de Emperatriz Galiano 1,Barcelona,34550,ES,2021-09-28,false,bronze
+10090,Joséphine,Mathieu,josephine.mathieu@outlook.com,+33 6 02 05 39 50,1996-01-12,boulevard Aurélie Peltier,Muller,72901,FR,2021-08-14,true,silver
+10554,Thibaut,Seguin,,06 19 81 89 84,1951-04-27,"80, boulevard Vasseur",Letellier,97266,FR,29/04/2022,true,silver
+10807,Harro,Hermighausen,harro.hermighausen@proton.me,+49 672 240 299,1957-11-26,Holger-Kruschwitz-Weg 9/6,Ochsenfurt,67818,DE,2022/10/05,true,gold
+11089,Alexandrie,Petit,alexandrie.petit@web.de,0033601110005,26/06/1978,"4, boulevard de Vincent",Barre-sur-Mer,84794,FR,14/02/2025,false,gold
+10831,Victor,Gay,victor.gay@proton.me,+33 6 61 34 73 23,1982-05-18,"7, rue Lelièvre",Fontainenec,75252,FR,2023-03-14,false,gold
+10718,Dorothée,Nicolas,dorothee.nicolas@hotmail.com,+33 6 21 84 01 18,1974-04-27,"186, avenue de Blondel",Saint Stéphane,06998,FR,29/08/2024,true,silver
+11136,Sophie,Chevalier,sophie.chevalier@gmail.com,+32620113798,1971-10-12,4203 Jonathan Extension Apt. 109,West Fatima,76728,Belgium,03/09/2023,true,platinum
+10131,Alice,Dupré,alice.dupre@gmail.com,+33 6 65 82 02 97,1995-10-16,"3, boulevard de Rémy",Sainte Eugènedan,83255,FR,2021-06-03,true,silver
+11141,Humberto,Rios,humberto.rios@outlook.com,+34 678 656 194,1990-07-18,Calle Amelia Ordóñez 93,Ciudad,48453,ES,2025-07-26,false,gold
+10620,Sylvie,Roussel,sylvie.roussel@web.de,06 14 05 78 61,1991-04-13,"33, rue de Reynaud",Saint Astrid,3143,FR,02-28-2023,false,silver
+10225,Agathe,Valette,agathe.valette@orange.fr,06 62 21 89 09,1948-11-18,"6, avenue Noémi Besnard",Maillot-les-Bains,8771,FR,08/10/2021,false,gold
+11208,Capucine,Gallet,CAPUCINE.GALLET@WEB.DE,06 72 32 44 07,1986-06-26,rue Dijoux,Bouchet,37293,FR,2025-01-31,true,bronze
+10716,Matthieu,Bernier,matthieu.bernier@outlook.com,06.51.82.60.68,1988-03-01,"3, boulevard Claudine Lagarde",Albert,25875,FR,2021-07-23,true,platinum
+10112,Nicolas,Hervé,nicolas.herve@orange.fr,06 65 90 51 51,1990-05-29,"4, boulevard Margaud Philippe",Noël-sur-Mer,89980,FR,2023-03-05,false,gold
+11148,Bernard,Joseph,bernard.joseph@proton.me,+33 6 97 99 07 07,1946-03-01,"45, rue Durand",LeroyVille,97358,fr,2024-06-22,true,gold
+10564,Albert,Leclercq,albert.leclercq@gmx.de,+32642069694,1956/12/10,210 Victor Roads Suite 689,Rosefort,39054,BE,2022-02-11,false,silver
+10628,Noémi,Daniel,noemi.daniel@free.fr,06.70.30.45.31,1962-03-27,"15, rue Adèle Potier",Philippe-sur-Verdier,46673,France,2022-01-31,true,gold
+10631,Alessandro,Bruder,alessandro.bruder@outlook.com,+49693843089,1975-02-01,Weihmannstraße 3673,Berlin,65941,DE,2022-06-16,true,platinum
+10359,Fabienne,Lardinois,fabienne.lardinois@gmx.de,+32 679 071 416,1955-12-16,749 Collin Circles,Léaview,86125,Belgium,2024-10-27,true,silver
+10161,Sophie,Gomez,sophie.gomez@@web.de,+33 6 72 87 43 15,1982-12-20,"3, avenue de Laine",Saint Christelledan,03278,FR,10/12/2023,false,gold
+10793,Manon,Maillard,manon.maillard@free.fr,+33 6 64 80 72 79,1966-12-21,boulevard Anaïs Pinto,Peron,34921,FR,2021-08-21,true,silver
+10267,Théophile,Pires,,+33 6 86 93 80 68,1964-01-29,"85, boulevard Stéphanie Mace",Hervé,26806,FR,2025-07-14,true,platinum
+11017,Renaud,Gérard,renaud.gerard@orange.fr,+32 616 704 502,1899-01-01,16377 Godfroid Loaf Apt. 087,North Patricialand,06168,BE,2022-04-15,true,bronze
+10927,Anouk,Marchal,anouk.marchal@web.de,+33 6 50 34 46 94,1988-03-08,"23, boulevard de Mathieu",Chartier-la-Forêt,12506,FR,08/04/2022,false,gold
+10775,Marguerite,Marchand,marguerite.marchand@proton.me,+33 6 62 05 63 41,1954-04-30,avenue Descamps,DufourBourg,10763,FR,2025-08-22,false,gold
+11058,Roger,Teixeira,roger.teixeira@proton.me,+33 6 66 72 52 14,2002-11-08,"4, avenue de Masson",Colas,90720,FR,2025-07-07,true,platinum
+11086,Danielle,Boucher,danielle.boucher@orange.fr,+33 6 62 71 87 49,1968-04-04,"42, rue Lopez",Langlois,61842,FR,2022-03-14,true,silver
+10553,  FLORENCE ,Pochet,florence.pochet@gmx.de,+32 600 159 416,1995-06-12,2778 Lefebvre Drive,West Tomburgh,39904,BE,2025-05-22,true,bronze
+10006,Stefania,Metz,stefania.metz@yahoo.fr,+49628327648,1958-05-25,Karzweg 24-29,Eckernförde,43231,Allemagne,01/06/2024,false,bronze
+10995,Hendrik,Stey,hendrik.stey@yahoo.fr,+49627058772,10/04/1981,Jo-Weimer-Straße 3/7,Altentreptow,65523,DE,2025-03-30,false,gold
+11230,  CÉLINE ,Gautier,celine.gautier@proton.me,0033690413797,1954-05-28,"865, avenue Sylvie Gilles",Dufour-sur-Ribeiro,01505,FR,2025-12-03,true,silver
+11033,Laure,Allard,laure.allard@web.de,+33 6 43 99 10 62,19/03/1982,"97, rue Delmas",ArnaudVille,07683,FR,30/09/2024,true,silver
+11139,Ruth,Revilla,ruth.revilla@proton.me,+34673045195,1948-09-06,Cañada Margarita Torrens 92 Apt. 15 ,La Coruña,21305,Spain,2024-02-19,false,silver
+10286,Matthieu,Vasseur,matthieu.vasseur@orange.fr,0033617099917,2006-03-08,"956, boulevard Suzanne Chartier",Ledoux,61256,FR,2023-08-08,true,bronze
+11009,Louise,Delannoy,louise.delannoy@outlook.com,0033651295786,1996-03-18,"58, chemin de Barre",Sainte Éléonore,66402,FR,2024-08-25,false,gold
+10164,  FRANCK ,Sauvage,franck.sauvage@gmail.com,06 53 01 74 26,1977-08-11,"147, avenue Maréchal",TorresBourg,78144,FR,2022-06-20,true,gold
+11228,Aimé,Moulin,aime.moulin@free.fr,0033684884021,1998-06-18,"521, avenue Agnès Lombard",Fernandes,60449,FR,2025-06-09,true,gold
+10693,Paulette,Dufour,paulette.dufour@hotmail.com,06.64.02.70.11,1976-03-02,"938, rue Guérin",Diallo,25599,France,2025-03-13,false,platinum
+11233,camille,ROUSSEAU,camille.rousseau@orange.fr,+33 6 12 48 93 27,1991-03-08,14 rue Paul Bert,Lyon,69003,FRA,2025-06-20,true,gold
+10912,Cindy,Toussaint,cindy.toussaint@web.de,+32608358328,1948-03-23,352 Klein Extensions Apt. 846,North Sofiaberg,16449,BE,2021-05-10,true,silver
+10386,Anne-Sophie,Peeters,anne-sophie.peeters@outlook.com,+32608814743,14/07/1995,11350 Pire Ferry,Catherineville,88606,BE,2024-07-12,true,silver
+10287,Eva María,Campoy,,+34 646 022 356,1961-06-17,Acceso de Curro Montenegro 8,Segovia,25426,ES,2023-12-22,false,silver
+10260,Victor,Raymond,victor.raymond@proton.me,06.67.65.86.17,1965-12-08,"69, boulevard de Rossi",Neveu-la-Forêt,50731,FR,07/12/2021,true,silver
+10188,Arnaude,Charpentier,arnaude.charpentier@gmail.com,0033602176591,1953-02-15,"275, rue Patrick Nguyen",Maréchal-sur-Hardy,03432,France,2024-07-28,true,silver
+10470,Liesbeth,Hiller,liesbeth.hiller@web.de,+49601856945,1963-07-14,Heringplatz 0,Perleberg,40085,DEU,10-30-2024,true,gold
+10805,Edgard,Dejardin,edgard.dejardin@gmail.com,+32691179112,1964-12-12,5453 Bastin Locks Suite 553,Tommyport,76735,BE,2024-07-31,true,bronze
+10190,Annekatrin,Hesse,annekatrin.hesse@proton.me,+49642939685,1967-12-28,Alena-Neureuther-Straße 2,Neustrelitz,29841,DE,2021-06-07,true,silver
+11090,Luc,Riou,luc.riou@outlook.com,+33 6 41 59 59 77,2003-02-08,"87, chemin de Delorme",Daniel-sur-Chauvet,97618,FR,2022-03-13,true,gold
+10204,Aimée,Labbé,aimee.labbe@proton.me,+33 6 98 25 07 14,1991-03-16,"93, chemin Lelièvre",Tessier,56725,FR,2023-08-07,true,bronze
+10598,Christine,Colin,christine.colin@proton.me,+33 6 03 75 48 21,1969-03-11,"69, avenue de Guyon",Delmas,71595,France,2025-04-25,true,platinum
+10299,Adélaïde,Meyer,adelaide.meyer@gmx.de,0033641552166,1963-03-27,avenue Bonneau,Saint Lucas,92883,FR,2024-06-27,false,platinum
+10819,Sophie,Leleu,sophie.leleu@free.fr,06 18 57 90 64,1975-11-10,"88, rue Jérôme Bourdon",Saint Michelle,17311,FR,2023/03/31,false,platinum
+10012,Nicolas,Roussel,nicolas.roussel@gmx.de,+33 6 15 43 03 91,1969-10-26,"65, chemin Boutin",Saint Élisabeth-sur-Mer,2111,FR,02-09-2021,false,bronze
+11002,Salih,Wilms,salih.wilms@gmx.de,+49649960105,12-16-2006,Raik-Mentzel-Allee 54-65,Passau,76926,DE,2022-05-27,false,platinum
+10351,Patrick,Schmitz,,+32636887258,1987-05-14,53581 Christophe Lake,Thomasbury,44048,BE,2025-03-27,false,gold
+11172,Françoise,Petitjean,francoise.petitjean@free.fr,+33 6 00 14 18 84,1956-12-09,"74, boulevard de Leduc",Sainte Grégoiredan,48574,france ,2025-04-06,true,platinum
+11152,Alexandre,Maréchal,alexandre.marechal@proton.me,0033680491872,1987-01-27,"23, chemin de Delahaye",Tessier-sur-Bertrand,02498,FR,2025-06-30,false,silver
+10199,Monique,Descamps,monique.descamps@outlook.com,06.54.79.35.64,2006-08-18,"31, chemin Marcelle Rocher",DumontBourg,77994,France,2023-03-27,false,gold
+10410,Joseph,Da Silva,joseph.dasilva@gmail.com,06 92 40 51 47,1980-09-12,"63, avenue Fouquet",Dupuy,91858,FR,05-13-2022,false,silver
+11209,Wera,Kruschwitz,WERA.KRUSCHWITZ@YAHOO.FR,+49696663093,1998-12-22,Else-Ditschlerin-Ring 18,Germersheim,00094,DE,2026-02-16,true,bronze
+10222,Alfred,Hamon,alfred.hamon@proton.me,+33 6 24 24 15 41,1995-07-19,"6, rue Benard",Maillot-les-Bains,44346,,2022/02/19,true,silver
+11151,Lorraine,Aubert,lorraine.aubert@gmx.de,+33 6 96 10 29 08,23/03/1985,"4, rue Hamon",Giraud,69504,FR,2022-03-20,true,silver
+10778,Stanislaw,Hentschel,stanislaw.hentschel@@proton.me,+49 635 652 156,1976-04-25,Mario-Hesse-Ring 3-1,Diepholz,66937,DE,2023-10-22,true,bronze
+10845,Christophe,Guichard,christophe.guichard@gmx.de,0033658575676,1967-08-15,"8, boulevard de Potier",Kleindan,6389,FR,22/11/2024,false,bronze
+10893,Samira,Röhrdanz,samira.rohrdanz@outlook.com,+49 606 021 288,1992-07-31,Manuel-Wende-Gasse 8499,Nabburg,04870,DE,2025-11-16,false,gold
+10074,Jose Francisco,Albero,josefrancisco.albero@outlook.com,+34674596158,1998-05-05,Callejón Anastasio Roda 56 Puerta 6 ,Sevilla,20379,ES,2021-06-03,false,platinum
+10026,Audrey,Lecomte,audrey.lecomte@orange.fr,06 01 64 00 52,2004-05-23,"66, boulevard Catherine Mathieu",Jean,97198,FR,2025-09-29,false,silver
+10560,Miguel Ángel,Mateu,miguelangel.mateu@yahoo.fr,+34 624 815 698,1974/04/05,Plaza de Belén Arranz 994,Granada,11470,ES,2025-08-16,false,bronze
+10433,Otto,Biggen,otto.biggen@free.fr,+49614556168,1959-05-25,Caroline-Klapp-Ring 68,Lübben,73900,Germany,2021-03-15,false,silver
+10063,Marc,Perret,marc.perret@gmx.de,06 46 48 87 71,1995-05-17,"87, rue de Gros",Guyon-les-Bains,77770,FR,2024-11-11,false,gold
+10080,Michel,Herman,michel.herman@proton.me,+32 609 097 439,1981-06-05,15150 Tournay Ramp Apt. 672,West Estellemouth,70699,BE,2022-07-17,true,silver
+10508,Dora,Campo,dora.campo@hotmail.com,+34 654 025 472,1974-08-24,Rambla Fidela Collado 94,Ávila,11091,ES,2023-09-19,true,gold
+10276,Cécile,Clerc,cecile.clerc@hotmail.com,+33 6 03 07 05 34,02-05-1980,"44, chemin Goncalves",Jourdan-la-Forêt,63237,FR,11/09/2025,false,platinum
+10408,Epifanio,Guzmán,epifanio.guzman@free.fr,+34691166553,1968-10-19,Alameda Sabas Pagès 21 Piso 7 ,Pontevedra,48183,ES,2024-11-03,true,bronze
+10695,Marianne,Bruneau,marianne.bruneau@gmail.com,+33 6 23 46 79 12,1951-07-07,"45, chemin Jeannine Bègue",Sainte Jean,85523,FR,16/03/2025,true,platinum
+10189,Édouard,Delaunay,,+33 6 01 48 90 25,2000-09-17,"22, rue de Laporte",Leclercqboeuf,95447,FR,2022-07-10,true,silver
+10273,Jérôme,Delattre,jerôme.delattre@free.fr,+33 6 30 74 50 54,2001-06-14,"52, rue Léger",Marion-sur-Gautier,22137,FR,2024-11-15,false,bronze
+10098,Bernadette,Foucher,,0033636899809,13/03/1983,"5, rue Odette Barthelemy",Bourdon-sur-Laroche,41972,FR,2024/03/21,true,gold
+11204,Alfred,Lefort,ALFRED.LEFORT@PROTON.ME,06 42 23 25 36,1978-05-04,"16, chemin de Guillot",Delattre-sur-Lemoine,30835,fr,2025-06-14,true,gold
+10563,Nicole,Clerc,nicole.clerc@proton.me,06 26 69 30 08,06/05/1973,"87, chemin Philippine Schneider",CourtoisBourg,1405,FR,2023-01-23,true,silver
+10583,Anne,Joseph,anne.joseph@orange.fr,06.49.18.01.72,2006-12-07,"41, boulevard Charlotte Leduc",Vasseur,81119,FR,29/12/2022,false,bronze
+10424,Lázaro,Pujol,lazaro.pujol@gmail.com,+34688608680,1965-08-27,Paseo de Gervasio Martí 65,Soria,41901,ES,2022-05-19,false,platinum
+10765,Jeanne,Godard,jeanne.godard@proton.me,+33 6 71 19 64 21,1975-01-12,"74, boulevard Nicolas",Pires-sur-Gillet,71199,france ,2023-07-04,true,silver
+10857,Christelle,Charpentier,christelle.charpentier@free.fr,0033695996100,2006-12-15,"89, rue Nath Voisin",Saint Margaret,97183,France,2024-04-20,true,silver
+10942,Gottlieb,Tintzmann,gottlieb.tintzmann@outlook.com,+49606424295,1953-05-03,Erol-Klemm-Allee 1569,Bützow,99058,DE,2022-09-28,true,gold
+11105,Claude,Grégoire,claude.gregoire@free.fr,+33 6 38 04 42 10,2006-11-17,"8, boulevard de François",Grégoire,62314,FRA,2025-02-15,false,bronze
+11162,Cipriano,Galiano,cipriano.galiano@gmail.com,+34 656 793 279,01/11/1985,Ronda de Cayetano Agudo 28 Apt. 68 ,Girona,33230,ES,2022-01-30,true,platinum
+10599,Georges,Letellier,georges.letellier@hotmail.com,0033686326667,1960/05/06,"4, avenue de Maillot",BonneauVille,8140,FR,2021-11-07,true,gold
+10213,Maryse,Lelièvre,maryse.lelievre@gmx.de,+33 6 77 21 90 34,1974-02-17,rue Victoire Gérard,Petitjeannec,01181,FR,02/05/2023,true,gold
+10009,Gérard,Hoareau,gerard.hoareau@gmail.com,06 12 26 91 66,1950-11-01,"459, rue de Lambert",Leleu,37949,FR,2025-10-30,false,gold
+10593,Falko,Metz,falko.metz@outlook.com,+49632971674,1965-10-09,James-Löchel-Straße 70-99,Starnberg,54163,DE,2021-12-21,true,bronze
+10436,Amélie,Dupuy,amelie.dupuy@outlook.com,06.34.30.10.71,1957-03-13,"5, avenue Laporte",Gosselin,40711,FR,02/06/2024,true,platinum
+10107,Rebekka,Etzler,rebekka.etzler@outlook.com,+49612432921,1976-01-11,Ilonka-Losekann-Weg 6-7,Jüterbog,31672,DE,2022-04-29,true,platinum
+10853,Astrid,Mathieu,astrid.mathieu@gmx.de,+32646617662,04-11-1962,937 Henry Parks,Linahaven,53143,BE,2023/01/23,false,bronze
+10384,Stéphanie,Joubert,stephanie.joubert@outlook.com,06.46.18.72.34,1970-12-04,"64, chemin Emmanuelle Verdier",Moreno,54944,FR,2021-04-25,true,bronze
+10034,Marthe,Foucher,marthe.foucher@proton.me,06 64 82 36 62,2008-07-31,"42, rue Bertrand Delorme",Bonnetboeuf,71777,FR,2022-10-31,false,platinum
+10239,Hans-Josef,Henk,hans-josef.henk@hotmail.com,+49 659 738 320,1997-09-27,Heserallee 7066,Klötze,25815,DE,2023-08-09,true,silver
+10567,Valérie,Joly,valerie.joly@orange.fr,06 97 35 97 10,2002-01-08,"2, boulevard Lefort",Sainte Pauline,25369,FR,28/04/2022,false,platinum
+11137,Paulette,Lenoir,paulette.lenoir@outlook.com,+33 6 16 60 07 67,1953-07-04,chemin de Lejeune,Gaillard-la-Forêt,4189,FRA,2022-03-18,true,bronze
+10414,Cécile,Petit,cecile.petit@gmx.de,06.00.38.45.76,1969-02-10,"637, avenue de Leleu",Peron,37677,FR,2024-02-23,true,gold
+11100,Maricela,Francisco,maricela.francisco@yahoo.fr,+34 605 912 975,17/05/1962,Pasaje Nereida Morata 24,Navarra,45000,ES,01-20-2021,true,bronze
+11079,Alex,Maréchal,alex.marechal@orange.fr,06 22 85 01 16,1951-11-28,"890, avenue Stéphanie Gilbert",Legendre-sur-Roussel,97162,fr,2024-02-15,true,silver
+10296,Georges,Colin,georges.colin@proton.me,+33 6 20 87 37 53,02/06/2008,"10, avenue Margot Fouquet",Lamynec,50641,FR,2022-08-28,true,bronze
+10117,Mathieu,Massart,mathieu.massart@orange.fr,+32 673 834 735,1960-04-16,669 Yohan Knolls Suite 435,Leclercqburgh,67297,BE,2025-03-21,true,platinum
+11195,François,Dijoux, francois.dijoux@hotmail.com,+33 6 19 73 88 18,1994-02-20,chemin de Riou,Lebrun,95419,FR,2025-09-13,true,silver
+10557,Matthieu,Chauvet,matthieu.chauvet@free.fr,+33 6 40 90 03 48,1998-06-17,"808, boulevard de Legrand",Leconte,24217,FR,10/08/2025,true,gold
+10632,William,Brun,william.brun@proton.me,06 05 66 41 87,1986-03-24,"296, rue Le Goff",Bouvier,43531,FR,2024/08/05,true,bronze
+10162,Christopher,Schomber,christopher.schomber@gmail.com,+49654932966,1994-11-19,Helmtrud-Hornig-Gasse 52-82,Grimma,62016,DE,2025-02-17,true,platinum
+11201,christianne,GOBERT,christianne.gobert@web.de,+32650036915,1984-10-06,92029 Claudine Lodge,South Iris,16545,BEL,2025-01-19,false,silver
+10929,Franck,Roger,franck.roger@orange.fr,0033697320331,2031-05-13,"19, boulevard Alix Bonnin",Sainte Émilienec,35550,France,2025-07-12,true,silver
+10932,Justine,Honoré,justine.honore@orange.fr,+32 626 877 418,1964-10-28,0141 Erika Ridges Apt. 558,West Alain,61295,BE,27/12/2024,true,gold
+10169,Corinna,Trub,corinna.trub@proton.me,+49603910651,1952-02-13,Mentzelstr. 0,Neustadtner Waldnaab,10025,DE,2022-06-06,true,bronze
+11142,Helena,Hoffmann,helena.hoffmann@gmx.de,+49682058295,20/06/1954,Gunpfgasse 8/2,Hildesheim,57300,DE,24/03/2025,true,silver
+10110,Philippine,Barbe,philippine.barbe@web.de,+33 6 07 93 59 78,1969-10-31,"14, rue de Ledoux",Toussaint,56404,france ,10/06/2025,true,platinum
+11165,François,Denis,francois.denis@gmx.de,+32676989992,1951-08-26,21391 Lejeune Points,South Léonie,88093,BE,2023-11-14,true,platinum
+10124,Gérard,Leroy,gerard.leroy@free.fr,06 96 21 85 18,2007-03-07,"94, boulevard Cordier",Saint ZoéBourg,77918,FR,2022-05-08,true,bronze
+11055,Antoinette,Berthelot,antoinette.berthelot@gmail.com,06 97 62 63 74,2002-04-10,"911, avenue Maillet",Sainte Sylvienec,90600,FR,01/01/2025,true,gold
+11187,Gilles,Chauvet,gilles.chauvet@proton.me,06 13 67 15 77,1963-07-28,"3, rue de Delmas",Lemaître-les-Bains,32114,France,2025-08-03,false,bronze
+11111,Simone,Baron,simone.baron@outlook.com,+33 6 05 11 57 94,2004-03-31,rue Émilie Bourgeois,Pierre,13221,fr,2023/09/26,true,platinum
+10667,Éléonore,Meyer,eleonore.meyer@outlook.com,+33 6 91 60 32 48,1974-03-07,"90, rue Alfred Legendre",Diallo,33654,France,2024-12-01,true,silver
+10928,Colette,Robin,colette.robin@hotmail.com,+33 6 92 13 42 49,1960-11-13,"79, rue de Briand",Meunier,16891,fr,2021/06/08,true,platinum
+10476,Louis,Paris,,06 91 74 10 11,1969-01-28,"1, chemin Camus",Cohen-sur-Schmitt,59617,FR,2022-03-24,false,platinum
+10077,Marthe,Lefebvre,marthe.lefebvre@yahoo.fr,06 69 37 92 37,1999-11-05,"60, avenue Dominique Humbert",Letellier-sur-Mer,97283,FR,02/06/2024,false,gold
+10780,David,Mertens,david.mertens@hotmail.com,+32 622 889 857,19/12/1988,671 Josette Lakes Suite 962,South Matteo,04349,BE,2022-03-18,false,gold
+10109,Suzanne,Thibault,suzanne.thibault@free.fr,+33 6 14 77 00 54,2005-08-31,avenue de Seguin,Maurice-sur-Jean,11354,,2023-11-06,true,platinum
+10106,Mathilde,Joubert,mathilde.joubert@proton.me,06 53 52 18 18,1953-11-04,"82, rue Baudry",Lelièvre,06155,FR,2022-09-28,false,gold
+10494,Alexandre,Thys,alexandre.thys@hotmail.com,+32620904217,2006-09-08,630 Renard Lights,Lake Lounabury,27967,BE,2022-11-19,true,gold
+10869,Christine,Moreno,christine.moreno@proton.me,+33 6 21 71 95 53,1973-05-05,"61, boulevard de Durand",Goncalves,33743,FR,2024-01-31,true,silver
+10659,Michèle,Menard,michele.menard@outlook.com,06.07.55.36.66,1970-02-10,"4, rue Dorothée Chartier",Reynaud,56353,FR,2022-09-18,true,gold
+10180,Zeki,Heuser,zeki.heuser@gmx.de,+49693638546,1969-03-08,Mohauptallee 48,Borna,37484,DE,12/05/2022,true,gold
+10933,Valentine,Boulay,valentine.boulay@free.fr,+33 6 75 63 98 36,1960-09-14,"75, chemin Faure",Georgesnec,26980,FRA,2025-10-18,true,bronze
+10972,Michèle,Meyer,,06.63.31.94.22,2004-07-02,"814, rue Suzanne Martel",Gérard,67744,FR,2021-07-18,true,platinum
+10062,Marthe,Collet,marthe.collet@web.de,06.24.21.02.49,1980-10-18,"52, boulevard Victoire Martin",Renault,24530,FR,2022-04-06,true,gold
+10185,Pierre,Charpentier,pierre.charpentier@gmx.de,06 70 08 86 00,1966-07-17,"32, boulevard Maryse Rolland",Vaillantboeuf,9806,fr,09-12-2024,false,gold
+10971,Sylvana,Kitzmann,sylvana.kitzmann@outlook.com,+49 659 660 487,1986-09-02,Marten-Löwer-Platz 3,Lüdinghausen,60518,DE,02/07/2024,false,silver
+11115,Selma,Schottin,selma.schottin@hotmail.com,+49637970581,1995-03-17,Rouven-Benthin-Weg 563,Konstanz,24149,DE,2025-07-24,true,gold
+10467,Jessica,Castillo,jessica.castillo@hotmail.com,+34 628 051 292,2001-03-06,C. Victorino Méndez 269 Piso 7 ,Barcelona,02817,ES,2023-09-21,false,platinum
+10134,Domingo,Camps,domingo.camps@gmx.de,+34694731217,1985-05-11,Pasaje Aroa Botella 79 Piso 7 ,Almería,39059,ES,2022-03-16,true,platinum
+10858,Françoise,Ferreira,francoise.ferreira@yahoo.fr,0033675331266,1965-04-12,"25, rue Julie Clerc",Guillon,51732,FR,2023-10-20,true,gold
+10768,Raymund,Wulff,raymund.wulff@hotmail.com,+49603058721,1958-03-13,auch Schlauchinweg 2,Rothenburg ob der Tauber,49544,DEU,2023-01-11,false,gold
+11000,Nicolas,Lambert,nicolas.lambert@orange.fr,+32 633 445 056,1953-08-13,665 Véronique Shoals Apt. 631,Port Cécileborough,24811,BE,2021-02-09,false,silver
+10216,Emilia,Oliveras,emilia.oliveras@yahoo.fr,+34633959629,2002-11-23,Callejón Teodora Porras 26,Murcia,29479,es,2025-05-08,true,silver
+10489,Simone,Rémy,simone.remy@web.de,+33 6 95 88 37 34,1969-04-14,"8, boulevard Blin",Guérin-sur-Georges,74401,FR,2021-07-15,true,silver
+11013,Jeremy,Lejeune,jeremy.lejeune@hotmail.com,+32 650 271 607,23/09/1979,821 Calogero Union,Christelleville,74523,BE,05-01-2025,true,silver
+11056,Valérie,Brunel,valerie.brunel@web.de,06 28 95 09 05,1968-06-03,"2, chemin Léon Hebert",Saint Noémi,22959,france ,2023/04/14,true,bronze
+10151,Manon,Lejeune,manon.lejeune@gmail.com,+33 6 51 69 40 97,1953-03-21,"21, boulevard Dufour",De Sousaboeuf,06138,fr,2023-01-25,true,silver
+10925,Bernadette,Briand,bernadette.briand@orange.fr,+33 6 73 52 28 70,1986-08-17,"12, chemin Margaux Dias",Weiss,05306,FR,2023-08-25,true,silver
+11075,  CHEMA ,Alemán,chema.aleman@hotmail.com,+34687328077,1965/08/09,Pasadizo Nerea Alberto 99 Puerta 0 ,Ávila,26913,ES,2021-06-27,true,bronze
+11182,jocelyne,LOUIS,jocelyne.louis@yahoo.fr,+32691043006,08-09-1984,30371 Dumont Fork Apt. 264,Sandrinestad,61246,Belgium,2025-04-22,true,platinum
+10852,Michèle,Regnier,michele.regnier@gmail.com,+33 6 23 28 83 77,1963-11-03,"42, rue Prévost",Marchand-sur-Besnard,22959,FR,14/01/2022,true,bronze
+11215,Capucine,Girard,CAPUCINE.GIRARD@PROTON.ME,+33 6 73 65 27 17,1954-01-24,avenue Vincent,Sainte Anaïs-les-Bains,60791,FR,2025-03-05,true,silver
+10029,Céline,Bruno,celine.bruno@hotmail.com,,1978-04-06,90048 Joëlle Street,North Moniquefurt,76496,BE,2025-11-06,true,bronze
+11177,Josette,Pineau,josette.pineau@yahoo.fr,+33 6 16 77 26 96,2005-05-11,"192, rue Weiss",ChauvinBourg,19360,FR,2025-10-02,false,silver
+11190,gabrielle,COUSIN,gabrielle.cousin@yahoo.fr,+33 6 75 46 92 63,1980-01-23,"68, avenue Robert Joseph",RenardBourg,62294,FR,2025-04-24,true,platinum
+10079,Richard,Nguyen,richard.nguyen@proton.me,0033671369594,1976-06-19,"82, boulevard Joubert",Sainte Jeanne,49444,FR,2025-10-14,false,bronze
+11127,Julien,Philippe,julien.philippe@orange.fr,+33 6 06 81 03 90,01/04/1950,"94, avenue Boyer",Paul,49390,France,2023-10-06,true,platinum
+10447,Édith,Marchal,edith.marchal@orange.fr,06 49 32 14 95,2006-05-21,"29, chemin Tristan Dufour",Foucher,47821,,2021-10-17,true,silver
+10163,Otto,Jüttner,otto.juttner@,+49 675 304 637,03-16-1978,Metin-Kranz-Gasse 44-48,Bremen,30435,DEU,2021-10-15,false,gold
+10261,Christelle,Durand,christelle.durand@yahoo.fr,+33 6 04 05 41 15,1969-01-28,"840, boulevard Hortense Dumas",Sainte Jean,86212,FR,2025/06/25,false,silver
+10353,Sophie,Alves,sophie.alves@gmail.com,+33 6 12 79 61 14,1990-01-27,"2, chemin Brun",Bertrand-sur-Thibault,68708,FR,06/07/2025,true,bronze
+11192,Emmanuelle,Bègue, emmanuelle.begue@gmx.de,06.64.95.25.49,04-23-2005,"37, chemin de Roy",Fouquet,43363,FR,2025-01-18,true,gold
+10728,Caren,Tröst,caren.trost@outlook.com,+49657844683,1959-07-14,Rosemannweg 7,Cloppenburg,42605,DE,2023-06-18,true,gold
+10512,Valerio,Malo,valerio.malo@gmx.de,+34617028140,1971-02-01,Cuesta de Tristán Nadal 53 Apt. 91 ,Navarra,05897,Spain,2022-11-25,true,platinum
+10475,Renée,Hardy,renee.hardy@gmail.com,,2001-04-08,"40, avenue Girard",Fischer,04277,FR,2022-06-13,false,bronze
+10610,Yves,Diallo,yves.diallo@proton.me,+33 6 15 94 08 21,1974-10-11,rue Raymond Mercier,Couturier-sur-Mer,58700,FR,2021-08-14,false,gold
+10513,Cécile,Maillard,cecile.maillard@free.fr,+33 6 93 98 34 30,1998-07-09,"22, rue Leroux",Sainte Jeannedan,88971,,04-23-2021,false,bronze
+10982,Jacques,Brunet,jacques.brunet@yahoo.fr,+33 6 17 73 45 47,1992-05-31,"8, rue de Renaud",Colas,56596,FR,07/11/2022,false,gold
+11119,Jo,Benthin,jo.benthin@gmail.com,+49643240061,1974-03-21,Steckelweg 50/11,Goslar,29397,DE,2022-09-03,true,platinum
+10060,Danielle,Ferreira,danielle.ferreira@gmail.com,,19/02/1970,"7, boulevard Tanguy",Marchal,73294,FRA,2024-06-02,true,bronze
+11134,  MICHAEL ,Weber,michael.weber@orange.fr,+32 669 210 533,1957-06-05,8877 Claudine Ville,Christianside,91221,BE,2023-07-01,true,gold
+10422,Nancy,Klingelhöfer,nancy.klingelhofer@hotmail.com,+49 631 279 757,07-11-1952,Hettnerstraße 69/62,Meißen,88914,Allemagne,2025/04/01,false,platinum
+11066,Eckehard,Säuberlich,eckehard.sauberlich@hotmail.com,+49652734666,1978-07-10,Heinz-Walter-Kroker-Weg 7,Schweinfurt,53796,DE,08-02-2022,false,bronze
+10756,Capucine,Girard,capucine.girard@proton.me,+33 6 73 65 27 17,1954-01-24,avenue Vincent,Sainte Anaïs-les-Bains,60791,FR,2021-11-15,true,silver
+10672,Eugène,David,eugene.david@gmail.com,+33 6 83 70 81 64,04/11/1981,"599, chemin Louis",Wagner-sur-Guérin,49773,FR,14/10/2024,true,bronze
+10699,Emilia,Abellán,emilia.abellan@proton.me,+34620918435,1958-09-16,Vial Pedro Sanmiguel 7 Piso 1 ,Asturias,46397,ES,2025-01-25,true,platinum
+10197,Mathilde,Navarro,mathilde.navarro@gmx.de,06 15 43 79 93,2008-04-20,"65, avenue Anouk Becker",Potier,67635,FR,2025-05-22,true,gold
+10322,Laure,Diaz,laure.diaz@free.fr,+33 6 39 93 05 61,1987-11-16,"10, boulevard de Bouchet",Saint Éléonore,78594,FR,02/07/2023,true,gold
+11153,Daniel,Carpentier,daniel.carpentier@free.fr,+33 6 12 13 77 30,1971-10-08,"9, rue de Deschamps",Sainte Louisenec,97386,FR,24/05/2023,true,silver
+11155,Adelgunde,Lübs,adelgunde.lubs@gmail.com,+49675608581,2007-02-17,Schottinstr. 4/2,Wolfratshausen,38505,Germany,17/06/2023,true,gold
+10264,Henri,Pasquier,henri.pasquier@free.fr,+33 6 61 49 73 10,1989-05-16,"30, rue de Guilbert",Dupré,52613,FRA,2021-01-08,true,gold
+10440,Adrienne,Giraud,adrienne.giraud@free.fr,+33 6 80 39 55 12,1956-12-18,"19, chemin de Duhamel",Blanchard-sur-Thibault,75425,FR,2024-02-12,true,gold
+10461,Alexandrie,Lemoine,alexandrie.lemoine@hotmail.com,06 84 68 95 00,1973/12/14,"53, rue de Fernandes",Saint Margueriteboeuf,33550,fr,2024-12-29,true,gold
+10875,Guillaume,Paul,guillaume.paul@proton.me,+33 6 10 49 67 06,1963-08-07,"22, rue Gaudin",Roche,97472,FR,2022-09-08,true,silver
+11157,Constance,Coste,constance.coste@yahoo.fr,+33 6 23 78 58 47,1990-04-06,rue de Ruiz,Gallet,02338,FR,2024-03-14,true,silver
+10336,  EMILIE ,Henry,emilie.henry@web.de,+32 688 725 639,1970-11-11,4220 Closset Parks,New Danielfurt,53369,BE,2022-06-18,false,silver
+10086,Océane,Gimenez,oceane.gimenez@web.de,06 67 58 69 26,1949-02-24,"1, rue Bourgeois",Saint Olivier,44329,FR,2021-10-05,false,platinum
+10761,Dorle,Gehringer,dorle.gehringer@yahoo.fr,+49601841862,1999-02-25,Steyplatz 315,Neu-Ulm,90559,DE,13/02/2021,true,bronze
+10429,Denise,Girard,denise.girard@outlook.com,0033623094077,07-13-1988,"7, boulevard Océane Dias",Gauthier,33939,fr,2021-08-29,true,bronze
+10592,Valentine,Mertens,valentine.mertens@gmx.de,+32646657293,1989-03-14,542 Renard Tunnel,South Jérôme,53663,BE,2021-09-26,true,bronze
+10205,Francisco,Roma,francisco.roma@outlook.com,+34645738757,1988-08-08,Glorieta Isidora Lamas 2,Lleida,03958,es,15/12/2022,true,platinum
+10486,Sarah,Heinz,sarah.heinz@web.de,+49 673 902 196,1991-08-23,Schuchhardtweg 17-18,Wertingen,25365,DE,2021-12-04,true,platinum
+11154,Anacleto,Morillo,anacleto.morillo@gmail.com,+34623597371,1988-07-30,Cuesta de Luciana Marcos 5,Asturias,39263,,2022-09-12,true,silver
+10791,Caroline,Weber,caroline.weber@orange.fr,+33 6 35 67 78 26,1988-08-12,boulevard Diaz,Lesage,67799,FR,2021-12-03,true,platinum
+10958,Camille,Fouquet,camille.fouquet@proton.me,+33 6 04 64 19 78,2000-06-25,chemin Arnaud,Bouvet,16457,FRA,2023-05-16,false,gold
+10973,Gilbert,Pottier,gilbert.pottier@free.fr,06 36 94 55 15,10-02-2002,"19, rue de Lambert",Nicolasnec,31635,FR,2025-03-19,true,platinum
+10538,Margot,Rousseau,margot.rousseau@yahoo.fr,06 18 77 34 77,2004-03-28,"18, chemin Renaud",Valette-sur-Pichon,49526,FR,2025-04-06,true,gold
+10704,  ANAÏS ,Vallet,anais.vallet@free.fr,06.99.15.66.86,1955-10-05,"44, chemin de Bonnet",Chevallier,44800,FR,2022-04-04,true,gold
+10027,Kristina,Hövel,kristina.hovel@web.de,+49 668 011 280,11-26-1949,Kühnertstr. 3/7,Vohenstrauß,36671,DE,2024-12-16,true,silver
+10808,Giuseppe,Bailly,giuseppe.bailly@gmx.de,+32 698 028 413,1989-09-16,99760 Goffinet Summit,New Jeanburgh,59981,BE,2024-06-11,true,bronze
+10356,Caroline,Besson,caroline.besson@proton.me,06.93.80.11.84,1970-07-06,"125, rue Théodore Legros",Saint Véronique-les-Bains,97396,FR,2023-04-11,true,gold
+11104,Patrick,Lambert,patrick.lambert@free.fr,06 32 69 49 68,12-11-1993,"62, rue Lombard",Marchand,75293,FR,29/03/2025,true,platinum
+11006,Éléonore,De Oliveira,eleonore.deoliveira@gmail.com,0033616667080,1995-06-19,"86, chemin de Martinez",RodriguesVille,18921,FR,2021-10-15,true,gold
+10241,Jurij,Kambs,jurij.kambs@yahoo.fr,+49638657191,2006-09-29,Jörg-Hering-Straße 8-7,Aschaffenburg,74952,DE,03-31-2021,true,platinum
+11171,Corinne,Bourdon,corinne.bourdon@proton.me,+33 6 40 67 91 76,1992-03-03,"7, rue Patricia Ribeiro",Tanguy-sur-Brunet,97229,fr,2022-02-12,true,silver
+10380,Denise,Potier,denise.potier@outlook.com,06.66.34.16.38,1997-03-24,"5, rue de Boutin",Menard,18868,France,2025-01-04,true,gold
+10799,Marine,Martineau,marine.martineau@gmx.de,+33 6 60 53 84 44,1994-05-16,"5, avenue Chevallier",Lopez,41363,FR,26/04/2023,false,silver
+10343,William,Andre,william.andre@gmail.com,+33 6 99 22 80 92,1956-05-27,"61, rue Michelle Toussaint",Valentin-sur-Mer,35531,FR,2021-09-19,false,silver
+10965,Luis Ángel,Caballero,luisangel.caballero@proton.me,+34 639 449 883,1970-12-31,Cañada Sebastian Jover 2,Salamanca,16251,ES,2021-08-27,true,gold
+10059,Emeline,Doumont,emeline.doumont@yahoo.fr,+32 669 993 867,1984-01-23,1048 Frédéric Roads Apt. 230,East Thibaut,78788,BE,2024-02-17,false,platinum
+10181,Michelle,Germain,michelle.germain@free.fr,+33 6 77 17 53 55,23/10/1994,rue Barbier,Girard-sur-Parent,72710,fr,11-17-2023,true,silver
+10240,David,Marchand,david.marchand@gmail.com,06 06 41 38 36,17/02/2007,"68, boulevard Riou",Vidal-sur-Lecoq,82175,fr,2022-11-18,true,silver
+10696,  ADÈLE ,Chauvet,adele.chauvet@yahoo.fr,+33 6 09 37 71 00,1997-08-18,"40, chemin Meyer",Saint NicoleVille,56738,France,12-02-2022,true,bronze
+11061,Anselma,Vega,anselma.vega@free.fr,+34 612 397 283,2001-05-16,Urbanización Reina Álvarez 72,Asturias,37786,Spain,2025-10-26,true,silver
+10403,  FABIENNE ,Ehlert,fabienne.ehlert@gmx.de,+49679194096,08-02-1946,Andrej-Bolzmann-Weg 33,Hagenow,58108,DE,2021-12-21,true,gold
+10536,Luc,Da Costa,luc.dacosta@orange.fr,+33 6 65 79 67 84,1993-02-17,"12, chemin de Martins",Davidboeuf,2857,FR,2025-03-29,false,bronze
+10530,Inès,Giraud,ines.giraud@hotmail.com,06 28 01 38 75,1991/11/22,"995, avenue Julie Jacquot",Paris,17206,FRA,2022-08-01,true,platinum
+10270,Isaac,Zurita,isaac.zurita@orange.fr,+34611686854,1988-01-26,Cuesta de Edelmiro Manuel 10,Málaga,26602,es,2022-10-17,true,platinum
+10817,Hugues,Durand,hugues.durand@gmx.de,+33 6 95 96 39 04,2001-04-15,rue Munoz,Jacquet-sur-Delattre,11106,france ,2021-12-17,true,bronze
+11193,Susana,Galan,susana.galan@outlook.com,+34672063459,1984-09-12,Pasadizo María Castro 84,Huelva,02776,ES,2025-10-11,true,silver
+10711,Rochus,Ullrich,rochus.ullrich@gmail.com,+49 647 292 774,1957-07-05,Bayram-Grein Groth-Straße 8,Schwandorf,89064,Germany,2025-10-07,true,silver
+11014,Amélie,Pages,amelie.pages@gmx.de,06 63 36 91 12,1991-02-28,"23, boulevard de Langlois",Leblanc-les-Bains,17632,France,2023-06-18,true,bronze
+10918,Noémi,Morin,noemi.morin@gmx.de,+33 6 65 81 73 90,1991-02-01,"24, boulevard de Ollivier",Lacroixboeuf,74197,FR,2025-01-30,true,platinum
+11045,Paul,Ledoux,paul.ledoux@orange.fr,+33 6 16 59 72 63,1980-10-25,"267, boulevard de Martins",Besson,97626,FR,27/07/2021,true,platinum
+10054,Cemil,Hänel,cemil.hanel@free.fr,+49688568557,10-14-2006,Carolina-Flantz-Weg 15,Freising,21590,DE,2023-08-28,false,silver
+10622,Azahara,Granados,azahara.granados@outlook.com,+34682386870,2008-08-03,Callejón Macario Aramburu 27,Badajoz,38002,ES,2023-02-04,false,gold
+10487,Matthieu,Torres,matthieu.torres@gmail.com,06 19 46 72 32,1979-07-21,"58, boulevard Arnaud",Pereira,97670,FR,2022-01-03,true,platinum
+10856,Pirmin,Carsten,pirmin.carsten@free.fr,+49 624 461 767,25/04/1990,Nermin-Scheuermann-Allee 2-2,Herzberg,00857,DE,2023-07-31,true,gold
+10517,Margaud,Petitjean,margaud.petitjean@proton.me,06.06.46.28.79,1961-07-13,"92, rue de Dubois",Bodin,44779,fr,2021-07-01,true,silver
+10740,Pauline,Robert,pauline.robert@free.fr,06.90.67.44.71,1953-01-15,"390, chemin Maillot",ReynaudVille,42449,FR,2023-05-30,true,silver
+10442,Virginie,Teixeira,virginie.teixeira@yahoo.fr,+33 6 35 74 38 42,1980-01-09,rue Rey,Vasseur-sur-Lefebvre,22602,France,2023-10-15,true,silver
+10542,Honoré,Breton,honore.breton@gmail.com,+33 6 55 90 56 16,06-22-1983,"97, rue Sabine Neveu",Laine,97490,,2021/09/20,false,platinum
+10998,Jacques,Lombard,jacques.lombard@web.de,+33 6 96 43 47 45,1953-04-22,"97, rue Honoré Jourdan",Daniel,26470,FR,2023-08-29,false,gold
+10224,Benjamin,Bourgeois,benjamin.bourgeois@free.fr,06.16.27.13.61,2001-09-03,"88, rue Odette Jourdan",Renault,9848,FR,01/08/2025,true,bronze
+10129,Wilma,Döhn,wilma.dohn@free.fr,+49684161692,1993-12-06,Steyallee 7/3,Viechtach,44024,DE,2025-06-21,false,bronze
+10619,Audrey,Lacroix,audrey.lacroix@yahoo.fr,+33 6 26 54 61 03,1972-04-09,"84, boulevard Payet",Torres-sur-Rolland,97157,FR,2022-10-18,true,silver
+10367,Alfredo,Ramis,alfredo.ramis@orange.fr,+34629293143,1978-01-19,Via Noemí Urrutia 45,Las Palmas,14660,ES,2023-07-13,false,silver
+10142,Mato,Cichorius,mato.cichorius@orange.fr,+49636471027,2007-06-25,Luzie-Heß-Gasse 8141,Höxter,02614,DE,09-17-2023,false,silver
+10709,Lucas,Espejo,lucas.espejo@hotmail.com,+34630276420,1994-12-15,Calle de Silvio Naranjo 9 Apt. 92 ,Santa Cruz de Tenerife,51652,es,2025-10-03,false,platinum
+10428,Catherine,Le Gall,catherine.legall@proton.me,+33 6 25 92 22 20,1975-01-23,"19, chemin Caron",Saint Agathenec,16192,FR,31/03/2021,false,platinum
+10488,Charlotte,Rodriguez,charlotte.rodriguez@,+33 6 09 27 91 45,1992-07-19,"25, chemin Hubert",De Oliveira,92927,fr,2024-06-04,true,silver
+10411,Valeska,Gehringer,valeska.gehringer@hotmail.com,+49688487920,1997-11-28,Meyerplatz 9/8,Saarlouis,15942,Germany,2022-02-22,true,bronze
+10943,Muriel,Willem,muriel.willem@outlook.com,+32647417595,1990-10-28,469 Pauwels Village Apt. 462,North Giuseppashire,68902,BE,28/08/2022,true,platinum
+10562,Thibault,Lemonnier,thibault.lemonnier@outlook.com,06 96 57 72 42,1982-09-03,"36, chemin Hoarau",Mendès,8954,FR,2025-10-01,false,gold
+10745,Julien,Valentin,julien.valentin@gmx.de,+33 6 91 62 47 55,25/03/1953,"50, rue Colette Gomez",Sauvage,97649,FR,2022/07/28,true,bronze
+10214,Frédéric,Diallo,frederic.diallo@gmx.de,06.78.81.91.48,08/01/1964,avenue Riou,Albert-sur-Andre,38224,FR,2024-03-04,false,bronze
+10347,Odalis,García,odalis.garcia@web.de,+34611729806,2004-08-03,Ronda Joel Abad 9 Puerta 3 ,Valladolid,22565,ES,2023-10-28,false,bronze
+10536,Luc,Da Costa,luc.dacosta@orange.fr,+33 6 65 79 67 84,1993-02-17,"12, chemin de Martins",Davidboeuf,2857,FR,2025-03-29,false,bronze
+10979,Sylvie,Durand,sylvie.durand@yahoo.fr,0033606876164,1989-09-20,avenue Delahaye,Delahaye,24979,france ,2021-01-15,true,bronze
+10724,Maryse,Lebreton,maryse.lebreton@yahoo.fr,0033654234016,1985-10-25,"38, boulevard Alex Bertrand",Daniel,11636,FR,2023/01/14,true,platinum
+10855,André,Lebon,andre.lebon@outlook.com,+33 6 88 35 86 81,2004-07-11,"12, boulevard de Guillou",Jourdan,97328,FR,2023/01/03,true,gold
+10881,Michel,Le Gall,michel.legall@gmail.com,0033678360914,1953-10-07,"2, avenue Boulay",Dupont-sur-Mer,17180,FR,2023-01-05,true,gold
+10070,Zoé,Diaz,zoe.diaz@proton.me,+33 6 98 21 46 58,1963-05-05,"84, chemin Huet",Daniel,97476,FR,2022-01-26,true,gold
+10969,Joséphine,Briand,josephine.briand@free.fr,+33 6 72 77 38 26,07-22-1951,"726, rue Blanchet",Barthelemy,54930,FR,2022-12-11,true,bronze
+10490,Horst,Rudolph,horst.rudolph@gmx.de,+49622005436,2001-11-26,Antonio-Bauer-Gasse 39,Diepholz,36991,Allemagne,2023-10-16,true,platinum
+10148,Mar,Montesinos,mar.montesinos@orange.fr,+34699121655,2007-08-10,Avenida de Carla Rivas 95,Santa Cruz de Tenerife,27403,Spain,2025-08-18,false,silver
+10212,Maurice,Leroy,maurice.leroy@free.fr,06.79.05.07.23,1965-12-12,"32, chemin Georges",Thierry,13959,FR,2025-09-21,true,platinum
+11073,Jeanne,Toussaint,jeanne.toussaint@gmail.com,+33 6 60 72 31 11,10-11-2004,rue Zacharie Vincent,Dijoux,32353,FR,07/07/2024,false,bronze
+10387,Louise,Laurent,louise.laurent@hotmail.com,+32 665 024 916,2002-03-15,00512 Masset Greens Apt. 209,South Adrienstad,35517,BE,2024-07-20,true,bronze
+10914,Henriette,Perrier,henriette.perrier@gmx.de,06.24.40.33.04,1966-03-08,"4, avenue Constance Salmon",Brun,13927,FR,03-28-2021,false,platinum
+10669,Tristan,Mace,tristan.mace@gmx.de,+33 6 17 65 63 60,1949-11-10,"88, rue de Raymond",Breton,68938,france ,2021-02-24,true,silver
+10457,Aníbal,Busquets,anibal.busquets@gmail.com,+34680085140,1975-09-15,Alameda de Vilma Camino 4 Piso 6 ,Badajoz,30068,ES,2023-01-27,true,platinum
+10011,Janine,Cornet,janine.cornet@outlook.com,+32614893252,1950-11-24,23012 Lila Lights Apt. 433,Rousseauview,59748,BE,2023-11-06,true,bronze
+10140,Cécile,Hernandez,cecile.hernandez@yahoo.fr,06.29.92.29.95,1958-06-03,"4, boulevard Agathe Bruneau",Bonnin,49973,FR,2023-10-27,true,bronze
+10257,Aimée,Faivre,aimee.faivre@outlook.com,+33 6 44 22 09 69,1954-12-16,"100, chemin Reynaud",Pineau-les-Bains,77621,france ,02-14-2023,true,gold
+10439,Julien,Servais,julien.servais@gmail.com,+32 627 278 576,1996/02/08,61506 Quentin Common,Michaëltown,52582,BE,2024-08-15,true,gold
+10427,Rachel,Paquet,rachel.paquet@yahoo.fr,+32652111751,1994-05-27,590 Cuvelier Stream Suite 400,Sergetown,59951,BE,2022-05-28,false,silver
+10460,Sandrine,Bodart,sandrine.bodart@proton.me,+32627868765,2001-08-28,7936 Xavier Islands Suite 958,Gaëtanton,78302,BE,2024-06-30,false,bronze
+10047,Victoire,Lemaître,,06.37.45.29.91,1982/07/27,"5, rue Agathe Lacroix",Martineau,19540,FR,01/03/2024,true,gold
+10308,Patrick,Adam,patrick.adam@outlook.com,0033626149331,1958-09-05,"91, rue de Roux",Hoareau,82180,FR,2023-10-06,false,silver
+10854,Julien,Leclerc,julien.leclerc@gmail.com,0033640970527,1981-04-22,"62, boulevard Isaac Joubert",Rivière,05781,FR,2024-04-03,false,gold
+11145,Julie,Roussel,julie.roussel@free.fr,06.61.37.23.08,01-13-1957,"22, rue de Labbé",Brunet,16647,France,2025-03-16,false,silver
+10569,Delphine,Collignon,delphine.collignon@gmail.com,+32 648 964 652,2002-12-19,22488 Yves Meadow Apt. 263,Lecomteshire,95960,BE,01-11-2021,true,bronze
+10191,Anna,Seco,anna.seco@yahoo.fr,+34 650 163 159,2006-03-28,Acceso Anabel Camacho 7,Segovia,17377,Spain,2023-10-23,true,platinum
+10462,Susan,Allard,susan.allard@gmx.de,0033612847818,1971-12-14,"906, boulevard Marianne Ollivier",Huet-sur-Ollivier,97185,FR,2024-11-15,true,silver
+10915,Laetitia,Ribeiro,laetitia.ribeiro@orange.fr,06 11 18 60 08,1968-10-04,"9, chemin Aubry",Sainte Henriette,55306,france ,2025-11-01,true,bronze
+10152,Birgitt,Lindau,birgitt.lindau@gmx.de,+49689623091,1988-02-10,Jonas-Binner-Platz 4448,Mellrichstadt,92083,Germany,16/12/2021,false,gold
+10413,Gabino,Carbonell,gabino.carbonell@gmail.com,+34663681579,1951-04-24,Avenida de Carla Anaya 23 Apt. 55 ,Teruel,04578,Espagne,2022-08-23,true,silver
+10541,Alexandria,Fournier,alexandria.fournier@outlook.com,06.06.47.96.95,1972-11-12,"59, chemin Turpin",Fournier,71370,fr,2023-11-04,false,gold
+10702,Margaud,Delmas,margaud.delmas@yahoo.fr,+33 6 87 27 17 83,1968-07-25,"73, rue de Gomes",GodardBourg,14119,FR,2022-09-10,true,bronze
+10404,Colette,Perrot,colette.perrot@proton.me,+33 6 13 90 60 48,1978-10-26,"52, rue de Pires",Sainte Susan,97643,FR,2023-05-04,true,silver
+10770,Timothée,Ribeiro,timothee.ribeiro@gmail.com,0033665019179,1981-10-18,"11, boulevard de Antoine",Cousin,86411,France,11-26-2024,true,silver
+10790,Thibaut,Ollivier,thibaut.ollivier@orange.fr,06.14.76.83.42,1992-11-16,"86, rue Éléonore Gay",Sainte Susanne,97178,France,2023-04-10,true,platinum
+11223,Corinne,Bourdon,CORINNE.BOURDON@PROTON.ME,+33 6 40 67 91 76,1992-03-03,"7, rue Patricia Ribeiro",Tanguy-sur-Brunet,97229,fr,2026-05-24,true,silver
+10341,Esteban,Varela,esteban.varela@gmail.com,+34627231843,1964-04-03,Glorieta de Eugenio Pérez 23,Alicante,03260,Espagne,2023-10-25,true,gold
+10177,Johanna,Seip,johanna.seip@gmx.de,+49634270866,1957-04-19,Curt-Schinke-Platz 34/14,Beilngries,76174,DE,2022-05-09,true,platinum
+10577,Marcel,Gérard,,+33 6 45 01 89 61,1957-08-23,"4, chemin Michelle Noël",Parentdan,46716,FR,2025-06-30,true,silver
+10166,Rosalinde,Trubin,rosalinde.trubin@hotmail.com,+49 639 187 851,08/03/2003,Mariele-Trubin-Weg 9-3,Torgau,57249,DE,2025/04/10,true,bronze
+10052,Adèle,Schneider,adele.schneider@hotmail.com,0033645494808,1997/07/25,rue de Alexandre,Lopes,29328,France,2022-12-28,true,silver
+10393,Adèle,Mace,adele.mace@gmx.de,+33 6 82 94 56 51,1959-04-17,"273, rue Chrétien",Sainte Adèlenec,95255,FR,2025-04-18,true,bronze
+11106,Amélie,Hamel,amelie.hamel@proton.me,06 70 15 95 91,2001-06-18,"88, chemin Mendès",Laine,97175,France,2021-06-13,true,gold
+10688,Jérôme,Coulon,jerôme.coulon@web.de,+33 6 57 66 65 67,1997-11-21,"5, boulevard Weber",Saint Pénélopeboeuf,88819,FR,04/02/2025,true,bronze
+11094,Olivier,Leduc,olivier.leduc@outlook.com,+33 6 46 21 35 41,1992-02-24,"73, rue Étienne",Saint Agathe,42926,FR,02/07/2024,false,bronze
+10723,Justine,Herman,justine.herman@proton.me,+32 609 314 181,1951-08-13,5306 Navez Lake Suite 108,Meurisseburgh,58884,BE,2023-02-16,false,bronze
+11184,matthieu,BERNIER,matthieu.bernier@outlook.com,06.51.82.60.68,1988-03-01,"3, boulevard Claudine Lagarde",Albert,25875,FR,2026-05-10,true,platinum
+10867,Antoine,Mahieu,antoine.mahieu@gmx.de,+32640107835,1975-08-22,716 Janssens Roads,New Pierrefort,08149,BE,23/09/2021,false,silver
+10516,Marcelle,Bouvier,marcelle.bouvier@proton.me,06 62 99 12 34,1946-08-25,"693, boulevard de Lagarde",Gauthier-sur-Lesage,86637,France,2025-02-01,true,gold
+10309,Margot,Texier,margot.texier@hotmail.com,06 51 60 91 77,1983-11-08,"437, chemin Alexandre Lecomte",Traore,10292,France,2025-01-07,true,silver
+10861,Adèle,Le Gall,adele.legall@outlook.com,06 56 98 15 28,06-15-2007,"86, rue Susan Petitjean",Chauveaunec,71189,france ,2021-01-11,true,platinum
+10075,Ruy,Carnero,ruy.carnero@gmail.com,+34613431611,1970-05-29,Rambla Marcelo Carnero 7,Cáceres,11890,ES,06-18-2024,true,gold
+10842,Hubert,Schmitz,hubert.schmitz@orange.fr,+32 636 914 307,1984-11-15,55142 Kevin Cliffs Suite 298,East Anthony,61916,Belgium,10-20-2021,true,platinum
+10608,Adélaïde,Baron,adelaide.baron@web.de,06.64.97.67.76,1960-02-16,"304, boulevard Franck Vaillant",Sainte ZacharieBourg,24565,,15/05/2025,true,silver
+10906,John,Henck,john.henck@hotmail.com,+49657824347,12-21-1994,Fechnerweg 7,Oranienburg,16462,DE,2024-07-30,true,platinum
+10381,William,Mendès,william.mendes@web.de,06 46 31 22 41,1966-02-28,"37, chemin de Techer",Malletdan,31879,FR,2025/07/15,true,platinum
+10033,Odette,Gomez,odette.gomez@proton.me,+33 6 88 35 61 59,1956-05-06,"30, rue Amélie Aubry",Renaultnec,62592,FR,01-04-2021,true,gold
+10468,Rémy,Jacob,remy.jacob@gmx.de,+33 6 23 95 04 10,1987-02-14,"3, avenue Guy Maurice",Bazin-sur-Lemonnier,73723,FR,2025-01-26,false,platinum
+10629,Leocadio,Cerro,leocadio.cerro@hotmail.com,+34675047930,1982-02-24,C. Agapito Amador 67,Ceuta,45992,,2022-04-25,true,platinum
+10652,Adán,Roma,adan.roma@proton.me,+34646692548,2008-09-28,Urbanización Carina Calzada 8,Cádiz,51692,ES,24/03/2022,true,gold
+10997,Maryse,Girard,maryse.girard@orange.fr,0033639252362,2004-03-31,"2, boulevard de Henry",DupontBourg,2032,FR,02/06/2024,true,silver
+10201,Hannelore,Mende,hannelore.mende@outlook.com,+49 643 426 617,1967-05-26,Melanie-Kabus-Gasse 25/46,Wittstock,42656,DE,2024-07-21,false,platinum
+10444,Reina,Manzano,reina.manzano@yahoo.fr,+34682307681,1945-11-29,Via de Carla Casals 82,Ourense,05472,Espagne,2025-08-11,true,bronze
+11044,Micaela,Roman,micaela.roman@outlook.com,+34688565271,05-26-1988,Avenida Jose Manuel Coll 492,Palencia,28855,Spain,2022-03-05,true,silver
+11217,Dunja,Heß,DUNJA.HESS@YAHOO.FR,+49 690 158 144,1949-05-28,Kargeplatz 3,Bad Kissingen,19953,DE,2026-04-03,false,platinum
+10471,Andrei,Lachmann,andrei.lachmann@proton.me,+49639385258,1976-11-03,Sandro-Gute-Weg 3-9,Belzig,32010,DE,08-03-2023,true,bronze
+10985,Silvana,Ladeck,silvana.ladeck@gmail.com,+49 639 429 045,1976-06-29,Gabi-Krause-Platz 57/88,Heiligenstadt,43184,DE,2025-10-09,true,platinum
+10540,Luce,Fischer,,06 27 62 46 71,1990-07-28,"493, avenue Joseph Normand",Saint JérômeBourg,47873,FR,2024-12-17,false,platinum
+11219,Priscila,Busquets,PRISCILA.BUSQUETS@FREE.FR,+34 647 871 255,1995-04-01,Cuesta de Carina Peñalver 408 Apt. 82 ,La Rioja,26370,Spain,2025-10-10,true,silver
+10741,Erica,Austermühle,erica.austermuhle@outlook.com,+49 641 436 371,1986-07-19,Wigbert-Bähr-Ring 6720,Wetzlar,00113,Allemagne,2022-05-26,true,silver
+11092,Sören,Beer,soren.beer@orange.fr,+49631271026,1960-05-17,Juri-Ring-Platz 37-63,Fürstenfeldbruck,05232,Germany,2024-11-14,false,silver
+10950,Benoît,Toussaint,benoît.toussaint@web.de,+32 692 250 142,1954-03-14,087 Ricardo Trace,New Anne-Marie,13293,BE,2022-02-11,false,platinum
+11025,Roland,Fabre,roland.fabre@outlook.com,06.06.03.20.20,1957-05-27,boulevard Lévêque,Saint Arnaudedan,94600,france ,2024-04-01,true,silver
+10126,Ximena,Checa,ximena.checa@free.fr,+34 605 852 772,01/01/1899,Cañada Pascual Morell 80 Apt. 09 ,Valladolid,23334,ES,2021-10-01,true,platinum
+10417,Sacha,Herman,sacha.herman@free.fr,+32682329832,1958-10-18,257 Emy Dale Apt. 514,Didierview,56220,BE,2023-07-09,true,silver
+10944,Reynaldo,Canals,reynaldo.canals@outlook.com,+34 696 289 365,1957-11-15,Vial de Beatriz Elorza 560 Apt. 32 ,Asturias,47256,ES,2021-03-17,true,gold
+10056,Sylvia,Gilson,sylvia.gilson@hotmail.com,+32635240824,1973-03-31,42400 Joël Expressway Apt. 920,North Samfurt,49386,BE,2022-08-30,true,gold
+10209,Klaus,Herrmann,klaus.herrmann@gmx.de,+49659696915,1998-03-24,Wendering 4,Badoberan,16691,DE,2023-12-17,false,silver
+10905,Christiane,Carpentier,christiane.carpentier@hotmail.com,+32661789320,1987-05-31,47551 Claudio Hills Apt. 000,Port Michel,06584,Belgique,2021-01-07,false,platinum
+10133,Guy,Lejeune,guy.lejeune@proton.me,0033643102786,2000-09-27,"75, rue de Boulanger",Gilletboeuf,20176,FR,2022-10-06,true,gold
+10734,Juliette,Peltier,juliette.peltier@orange.fr,06 80 79 70 50,1989-06-08,"67, rue Lecoq",Breton,76686,FR,2024-08-09,false,gold
+10076,Marie,Michaux,marie.michaux@gmail.com,+32604556238,1994-05-14,09919 Fabienne Lodge Apt. 130,North Boris,82419,BE,2022-10-27,true,silver
+10290,Pierre,Jacques,pierre.jacques@free.fr,+32683003354,2002-07-02,479 Melissa Port,Lauraburgh,15768,BE,2025-03-31,false,gold
+10960,  RICHARD ,Thibault,richard.thibault@gmx.de,+33 6 07 40 17 75,2001-12-30,"9, rue de Delattre",Saint Paulinedan,74317,FR,2023-06-10,true,gold
+10948,Charlotte,Monnier,charlotte.monnier@proton.me,06 67 34 59 57,2008-08-30,"1, boulevard Laure Weber",Delaunay,85921,FR,2025-02-05,false,bronze
+10866,Georges,Dupont,georges.dupont@gmail.com,+32671990516,1998-06-05,038 Massart Mission Apt. 675,Lake Benoitborough,47159,BE,2022/04/28,true,bronze
+10574,Augustin,Laroche,,06 42 28 49 93,1958-11-24,"10, chemin de Henry",Couturier-la-Forêt,46497,France,2022-02-22,true,silver
+10758,Hélène,Payet,helene.payet@gmx.de,+33 6 61 82 09 16,1951-09-22,chemin Marianne Weiss,Lelièvre-sur-Mer,89579,FR,2024-08-14,true,bronze
+10892,François,Delaunay,francois.delaunay@outlook.com,+33 6 73 27 02 16,1973-06-20,rue Delaunay,LemonnierBourg,84792,FR,25/03/2024,true,platinum
+11135,Hélène,Gauthier,helene.gauthier@proton.me,0033604014247,1970-08-31,"58, rue de Rocher",Teixeira,06345,FR,31/08/2024,true,Platinium
+10606,Arthur,Joseph,arthur.joseph@orange.fr,06 92 68 31 58,1978-01-13,"60, rue Barbier",Sainte Renéenec,89337,FR,2024-09-27,false,platinum
+10315,Slawomir,Döhn,slawomir.dohn@outlook.com,+49 642 043 805,1981-04-23,Tröststraße 732,Schweinfurt,49131,DE,2022-08-10,true,silver
+10039,Michelle,Bouvier,michelle.bouvier@gmx.de,06.88.95.79.86,1960-11-27,"67, rue Albert",Thibault-sur-Roussel,50234,FR,2024-09-29,true,platinum
+10786,Gilles,Chauvet,gilles.chauvet@proton.me,06 13 67 15 77,1963-07-28,"3, rue de Delmas",Lemaître-les-Bains,32114,France,2025-10-15,false,bronze
+10466,Arnaude,Gérard,arnaude.gerard@orange.fr,+33 6 40 19 29 27,1955-03-17,boulevard Valette,Sainte Éliseboeuf,75696,FR,07-18-2022,true,gold
+10330,Christelle,Dupuy,,+33 6 68 22 23 94,20/10/1948,"390, rue Marc Coste",Chrétien,10800,FR,2022-03-10,true,bronze
+10946,Stéphane,Charles,stephane.charles@gmx.de,06 55 96 90 51,1960-09-14,"171, rue Tristan Jacquot",Torres-sur-Mer,2467,FR,2024-04-16,true,silver
+10094,Valentine,Camus,valentine.camus@proton.me,06.18.36.73.65,1952-07-08,"36, boulevard de Gilles",Chauvet,46750,France,2021-07-23,false,platinum
+10771,Charles,Lemaître,charles.lemaître@yahoo.fr,06.10.96.22.72,2002-08-21,"551, rue Lesage",Carlier-sur-Toussaint,07100,,2022-05-17,true,gold
+11224,Hans D.,Wulf, hansd..wulf@gmail.com,+49663766046,05/03/1964,Gröttnergasse 2/4,Cuxhaven,53118,DE,2026-04-23,true,platinum
+11214,dylan,DELVAUX,dylan.delvaux@gmail.com,+32637100943,1964-07-03,2667 Lemmens Drive,New Léo,40850,BE,2025-03-01,true,silver
+10742,Christine,Meyer,christine.meyer@outlook.com,+33 6 12 60 43 26,1985-05-20,"90, boulevard Monique Potier",Berthelot,68443,FR,2022-04-15,true,bronze
+10700,Dorothée,Hamel,dorothee.hamel@hotmail.com,06 50 50 57 39,1962-03-01,"70, boulevard de Bertrand",Picard,8775,France,2021-01-07,true,bronze
+11080,Reinhardt,Steuer,reinhardt.steuer@free.fr,+49602130609,1967-04-07,Hakan-Geißler-Ring 3-1,Lemgo,64670,DE,2023-01-29,false,bronze
+11038,Geoffrey,Materne,geoffrey.materne@free.fr,+32 676 601 444,12-20-1961,773 Servais Inlet,South Stéphanefurt,16182,Belgique,2022-05-10,false,platinum
+11020,Markus,Schlosser,markus.schlosser@gmail.com,+49605070260,11-05-2001,Rosemannstraße 9/5,Osterode am Harz,53600,DE,05-24-2025,true,silver
+10763,Sophie,Hernandez,sophie.hernandez@free.fr,+33 6 51 09 22 68,1979-06-08,"49, rue de Leduc",Françoisboeuf,51704,fr,2021-08-31,true,platinum
+10480,Arno,Ebert,arno.ebert@orange.fr,+49661571732,1983-09-28,Segebahnplatz 18,Griesbach Rottal,40486,DE,2024-11-26,true,silver
+10275,Wilma,Stoll,wilma.stoll@free.fr,+49 608 214 862,1966-12-23,Cathrin-Bender-Allee 3/5,Vechta,71800,DE,2025-08-09,true,bronze
+10202,Pauline,Vallée,pauline.vallee@proton.me,+33 6 05 89 11 35,1957-12-19,rue Corinne Pires,RoussetVille,18258,FR,2024-01-19,true,bronze
+10675,Friedhold,Heintze,friedhold.heintze@web.de,+49661331552,21/04/1950,Grazyna-Rogge-Allee 4/8,Peine,75236,DE,21/03/2023,true,gold
+11010,Juliette,Caron,juliette.caron@proton.me,06 03 56 24 39,2031-09-08,"899, chemin de Delahaye",Diallo-sur-Mer,57759,FR,2021-02-08,false,platinum
+10920,Denise,De Sousa,,+33 6 78 93 07 46,1988-03-06,boulevard de Lemoine,Didier-sur-Benoit,70284,FR,2024-06-16,false,silver
+10157,Françoise,Guillaume,francoise.guillaume@web.de,+33 6 84 21 99 33,1982-10-24,"304, boulevard Deschamps",Masson,29436,FR,10/07/2022,true,silver
+11138,Nikola,Thanel,,+49 647 340 433,1958-12-07,Berta-Löffler-Platz 797,Celle,22993,DE,24/12/2024,true,bronze
+11226,william,BRUN,william.brun@proton.me,06 05 66 41 87,1986-03-24,"296, rue Le Goff",Bouvier,43531,FR,2025-04-18,true,bronze
+10658,Myriam,Krause,myriam.krause@gmx.de,+49 615 366 377,2007-04-09,Gerta-Atzler-Platz 54,Rosenheim,19528,Germany,2022-11-29,true,gold
+10691,  MARTHE ,Louis,marthe.louis@outlook.com,0033611669183,1955-07-10,"99, rue Lesage",Carlier,86849,FR,01-26-2021,true,platinum
+10506,Luc,Pelletier,luc.pelletier@web.de,+33 6 75 67 04 31,1990-03-09,avenue de Guillaume,Rémy-sur-Mer,37264,FR,09-28-2021,true,gold
+10968,Änne,Sauer,anne.sauer@hotmail.com,+49694979695,1962-10-13,Gaetano-Staude-Weg 16-72,Sankt Goar,11162,DE,2021-05-11,false,bronze
+10656,Phillip,Striebitz,phillip.striebitz@orange.fr,+49 692 840 445,1969-11-28,Geraldine-Jacobi Jäckel-Ring 27-66,Hansestadttralsund,62704,DEU,2022-01-26,false,platinum
+10251,Hugues,Millet,hugues.millet@outlook.com,+33 6 59 30 40 78,2004-09-11,"97, avenue Thibault Mahe",Saint Anaïs,92420,FR,2021-02-23,true,silver
+10870,Inès,Boyer,ines.boyer@gmail.com,+33 6 68 90 03 01,1955-01-28,"35, chemin Alves",Bousquetboeuf,59999,FR,2022-04-11,false,silver
+11036,Alphonse,Leblanc,alphonse.leblanc@gmx.de,0033674189721,1973-05-27,"56, rue Perrin",Roy-la-Forêt,53124,FR,04-21-2022,true,gold
+11216,Adèle,Le Gall,adele.legall@outlook.com,06 56 98 15 28,06-15-2007,"86, rue Susan Petitjean",Chauveaunec,71189,france ,2025-07-26,true,platinum
+10319,Emmanuelle,Bègue,emmanuelle.begue@gmx.de,06 20 25 90 94,04-23-2005,"37, chemin de Roy",Fouquet,43363,FR,2024-12-24,true,gold
+11175,Jacqueline,Guérin,jacqueline.guerin@gmail.com,06.19.94.71.13,1971-08-16,"723, chemin Danielle Lacombe",Bousquetboeuf,05227,FR,2021-11-25,true,silver
+10862,Guillaume,Coste,guillaume.coste@free.fr,+33 6 82 17 66 19,1983-07-17,"68, boulevard Boulay",BlancVille,2701,FR,20/06/2024,true,gold
+11022,Audrey,Besnard,audrey.besnard@gmail.com,06 77 42 58 59,1989-04-11,"92, avenue Mendès",DumontBourg,62849,France,2022-09-30,true,platinum
+10566,Harri,Jähn,harri.jahn@proton.me,+49663934362,1998-11-26,Eberthstr. 5,Parsberg,68826,DE,2021-09-24,true,bronze
+11166,Thomas,Lambert,thomas.lambert@web.de,+32691444498,03-17-1983,3148 Lecocq Crossroad Apt. 204,South Moniquemouth,08834,BE,2023-11-25,false,silver
+10035,Bertrand,Girard,,+33 6 43 69 95 77,1982-09-03,"90, rue Muller",Mercier-sur-Parent,64973,France,15/09/2022,true,platinum
+10668,Cédric,Callens,cedric.callens@proton.me,+32681511856,1984-12-10,429 Charlier Tunnel Apt. 708,New Lilymouth,54805,BE,2025-04-10,false,silver
+10007,Manon,Boutin,manon.boutin@gmail.com,06 56 41 39 53,1980-03-14,"30, avenue de Leblanc",Meyer,28559,FR,2025-07-07,false,platinum
+10192,Charles,Pierre,charles.pierre@free.fr,+32647735866,1986-07-14,0522 Cécile Underpass Suite 826,South Enzochester,32663,BE,2021-03-02,true,platinum
+10186,David,Chauvin,david.chauvin@proton.me,06 21 18 23 39,2000-02-29,rue Thomas Bruneau,Baudrynec,06546,FR,10/07/2025,false,gold
+10635,René,Texier,rene.texier@gmail.com,06.54.31.73.50,1986-06-25,"787, rue Simon",Petitjean,34555,FR,2024-04-28,true,silver
+10477,Christelle,Coste,christelle.coste@gmx.de,+33 6 00 64 25 69,1980-08-08,"5, avenue Girard",Masse,44267,france ,2021-11-01,true,platinum
+10676,  THIBAUT ,Garnier,thibaut.garnier@hotmail.com,+33 6 31 49 50 13,2005-05-19,rue de Rossi,Aubert-sur-Mer,66199,FR,2023-07-29,true,platinum
+10474,Anouk,Traore,anouk.traore@gmx.de,+33 6 17 46 54 21,1976-05-22,"9, rue Langlois",Antoine-les-Bains,66988,FR,14/09/2024,true,platinum
+10502,Franck,Guibert,franck.guibert@web.de,06 18 32 53 81,1998-07-18,avenue Alex Denis,Fleurydan,07806,FR,14/12/2024,true,silver
+10828,Juliette,De Sousa,juliette.desousa@web.de,+33 6 56 32 68 68,1957-02-01,"55, chemin Rodriguez",Saint Roger,47239,FR,2021-06-22,false,gold
+10596,Sergio,Vincent,sergio.vincent@gmx.de,+32671199180,1971-11-26,999 Fontaine Mountain,North Freddy,17800,BEL,06-25-2025,true,bronze
+10795,Édith,Duval,edith.duval@orange.fr,+33 6 17 76 65 58,1989-01-21,"44, rue Legendre",Saint Jeannine-sur-Mer,44324,FR,2023-10-26,false,bronze
+11164,Franz-Xaver,Rohleder,franz-xaver.rohleder@outlook.com,+49 605 464 754,26/09/1958,Traude-Hande-Straße 8-3,Scheinfeld,43001,DE,02/05/2025,true,gold
+10976,Benjamin,Perez,benjamin.perez@proton.me,+33 6 59 32 97 15,1972-02-04,"577, rue Marcel Gonzalez",Sainte MargotBourg,90404,FR,2021-02-16,true,platinum
+10773,Adelaida,Álvaro,adelaida.alvaro@gmx.de,+34 649 843 624,03/08/1955,Alameda Perla Castañeda 55 Puerta 2 ,Albacete,13195,ES,02-09-2024,true,platinum
+10146,Pierre,Leduc,pierre.leduc@gmail.com,+33 6 47 97 48 01,2006-10-25,"8, rue Faivre",Labbé,37864,France,2021-04-14,false,gold
+10755,Lucas,Allard,,+33 6 91 64 98 37,1967-12-10,"49, rue Langlois",Maillot-sur-Gimenez,40377,France,01-06-2024,false,silver
+10207,Thomas,Culot,thomas.culot@hotmail.com,+32662266093,1986-04-07,784 Gallo Trail,Angéliqueborough,87747,BEL,06-22-2025,false,platinum
+10302,Calogero,Bolander,calogero.bolander@gmail.com,+49689935889,1993-05-25,Schmiedtgasse 6/5,Ahaus,31955,DE,2024-12-13,true,silver
+11206,Christophe,Royer,CHRISTOPHE.ROYER@PROTON.ME,06 15 34 33 24,2002-02-13,boulevard Madeleine Perrot,Rochernec,4474,FR,2025-10-13,true,bronze
+10469,Andrée,Morel,andree.morel@web.de,,1970-10-21,"8, chemin Alphonse Marques",Langlois,42807,FR,04-24-2022,false,platinum
+10648,Antoine,Ledoux,antoine.ledoux@proton.me,+32 611 223 386,2007-02-16,406 Delporte River,Lake Patrick,71859,BE,2024-12-27,false,platinum
+10032,Laurent,Regnier,laurent.regnier@orange.fr,+33 6 19 65 56 98,1974-02-18,"23, boulevard Eugène Girard",GarciaBourg,54287,FRA,2021-03-20,true,Gold
+10153,Noémi,Grenier,noemi.grenier@proton.me,+33 6 36 89 70 28,2005-06-19,"26, boulevard Anouk Guyot",Sainte Martin,53701,,2024-11-15,false,platinum
+10871,Benoît,Charpentier,benoît.charpentier@free.fr,06 93 42 96 71,1964-03-30,"22, rue de Devaux",Gomes,81178,FRA,2022-12-18,true,gold
+10220,Danilo,Binner,danilo.binner@gmx.de,+49651863637,1951-04-07,Götz-Mude-Straße 54/54,Starnberg,79247,DE,24/07/2024,false,gold
+10618,Agnès,Raymond,agnes.raymond@outlook.com,+33 6 12 46 20 95,2000-03-01,"84, chemin de Poulain",Didier,23661,FR,2022-06-08,true,bronze
+10021,Pauline,Clerc,pauline.clerc@web.de,+33 6 21 91 36 19,1967/04/20,"50, rue de Guillou",Sainte Zoé-sur-Mer,37545,FRA,2021-06-14,true,bronze
+10049,Pepe,Uría,pepe.uria@gmail.com,+34 686 518 506,2004-02-11,Vial de Pelayo Álvaro 28,Huelva,34005,ES,2022-12-13,true,platinum
+10452,Clémence,Hoareau,,+33 6 48 76 96 39,1967-12-31,"832, rue Cousin",Sainte Raymond,48203,FR,2025-06-11,true,platinum
+11168,Anselma,Casanova,anselma.casanova@orange.fr,+34658853798,12-18-1964,Cuesta de Faustino Aller 99,Burgos,49938,ES,2022-01-25,true,gold
+11031,Marieluise,Plath,marieluise.plath@web.de,+49 652 129 328,1986-06-09,Atzlerweg 48,Ludwigslust,67509,DE,08/12/2021,true,platinum
+10600,Lena,Englebert,lena.englebert@gmx.de,+32608115562,1955/12/30,796 Gillet Spring Apt. 848,Cuvelierland,56081,BE,2021-10-26,false,bronze
+11110,  ALEX ,Laurent,alex.laurent@free.fr,+33 6 07 62 48 43,1957-03-07,"6, chemin Charrier",MorvanBourg,29371,FR,10/02/2022,true,platinum
+10591,Henny,Hartung,henny.hartung@free.fr,+49660243757,1987-02-08,Jolanda-Henk-Straße 4-4,Sondershausen,70249,DE,2023-07-08,true,gold
+10281,Marcelle,Alves,,+33 6 58 99 44 17,1989-07-07,chemin Hugues Lebon,Fischer-la-Forêt,08783,FR,2023-11-14,false,gold
+10455,Margaud,Carre,margaud.carre@gmail.com,+33 6 32 90 22 78,1964-08-09,"387, chemin Bernard",Fernandez-la-Forêt,13150,FR,2021-07-05,true,platinum
+11103,Christophe,Lemaire,christophe.lemaire@gmail.com,06.23.42.89.31,20/12/1954,"78, chemin de Prévost",Gilbert-sur-Bousquet,17913,FRA,2021-06-12,true,silver
+10231,Bernadette,Paris,bernadette.paris@,06 88 92 41 41,26/02/1986,"95, rue de Martinez",Raynaud,08176,france ,18/06/2021,true,silver
+10434,Julien,Paris,julien.paris@orange.fr,06 86 83 39 01,1963-07-02,"593, avenue Emmanuelle Voisin",Saint Roger,20135,FR,2022-11-06,true,bronze
+10578,Gérard,Berger,gerard.berger@proton.me,+32603266421,1976/01/18,59700 Séverine Road,West Carlosfurt,92677,BEL,2021-07-02,false,gold
+10321,Guillaume,Lombard,guillaume.lombard@hotmail.com,0033655543987,1960-06-13,boulevard Pineau,Lopez,90254,FR,2024-09-20,true,bronze
+10529,Jacqueline,Bodin,jacqueline.bodin@orange.fr,+33 6 55 28 93 89,1954-05-09,"9, boulevard Christine Grégoire",Jacquot,8827,FR,2024-04-02,true,bronze
+11071,  LOÏC ,Evrard,loic.evrard@gmail.com,+32652635602,1976-02-09,2852 Hendrick Plain,Port Noé,39886,BE,2022/05/08,true,gold
+10096,Cloe,Ruano,cloe.ruano@web.de,+34 698 851 656,10/10/1979,Camino de Victor Manuel Ramírez 21,Teruel,16185,es,2021-05-03,true,bronze
+10746,Kerstin,Caspar,kerstin.caspar@outlook.com,+49655989534,1998-02-15,Burghard-Austermühle-Allee 56,Wetzlar,87740,Germany,2022-11-10,false,bronze
+10405,Aurélie,Maillard,aurelie.maillard@hotmail.com,+33 6 06 79 98 13,1978-11-15,"8, boulevard Agnès Lefèvre",Duhamel-les-Bains,33829,FR,2021-11-10,false,silver
+10446,Jordán,Ferrando,jordan.ferrando@yahoo.fr,+34622410988,09/11/1952,Plaza de Aurora Olivé 91,Ourense,29704,ES,2022-07-13,true,gold
+10020,Audrey,Godard,audrey.godard@hotmail.com,06 98 05 00 97,1949-11-14,"148, rue de Normand",Hamel-la-Forêt,48710,FR,2021-04-30,true,silver
+10984,Lucas,Constant,lucas.constant@outlook.com,+32647742229,1976-07-31,49632 Thiry Inlet,Francisshire,39607,BE,2024-03-08,false,gold
+10010,Stéphan,Gallez,stephan.gallez@gmail.com,+32618451462,07/02/1964,058 Salmon Common,Annieton,18659,BE,2024-10-25,true,gold
+10149,Camille,Pascal,camille.pascal@web.de,06 80 00 25 78,1968-11-29,"617, chemin de Mary",Diazboeuf,50114,france ,2023-04-03,true,silver
+10796,  LUKA ,Lebrun,luka.lebrun@gmx.de,+32652892866,01/10/2005,3772 Jean-Pol Parkways Apt. 327,Gerardmouth,21965,BE,2023-05-28,true,platinum
+10298,Jonatan,Tapia,jonatan.tapia@gmail.com,+34 645 561 100,1961-06-18,Ronda de Reinaldo Arias 15 Apt. 38 ,Lugo,24932,ES,2025-10-12,true,silver
+10611,Margaret,Boutin,margaret.boutin@gmail.com,+33 6 22 96 04 43,1960-05-09,"580, chemin Morin",Mailletboeuf,40522,fr,2025-06-09,true,platinum
+10833,Christiane,Grenier,christiane.grenier@gmail.com,06 76 50 24 12,1997-08-11,"9, avenue Carpentier",Pelletier,9894,FR,2024-09-26,true,gold
+10237,Henriette,Tessier,henriette.tessier@hotmail.com,+33 6 54 19 51 80,1975-04-26,"2, avenue Michelle Fouquet",Lainenec,70232,FR,2023-05-03,true,bronze
+10113,Madeleine,Gérard,madeleine.gerard@outlook.com,06.19.25.46.29,2003-02-06,chemin Valentin,Hervé-sur-Navarro,19173,FR,2022-11-14,true,gold
+10660,Amélie,Bazin,amelie.bazin@gmail.com,0033602259999,2006-06-05,"9, rue de Fleury",Diaz-la-Forêt,41262,FR,2024-03-08,false,silver
+10184,Édith,Martineau,edith.martineau@yahoo.fr,+33 6 00 62 31 20,1965-04-20,"1, chemin Lecomte",Salmon,28504,FR,03/08/2025,false,gold
+10291,Caroline,Lefèvre,caroline.lefevre@gmail.com,+33 6 47 89 85 62,1974-06-08,"808, chemin de Ramos",Sainte Pierre,65525,,2022-09-03,false,gold
+10747,Vincent,Leclercq,vincent.leclercq@outlook.com,+32691093371,1964-12-07,856 Fabian Via,Evrardside,78377,BE,2024-07-13,true,gold
+10504,Lucas,Lemonnier,lucas.lemonnier@web.de,+33 6 84 79 51 37,26/01/1989,"9, boulevard Julie Bonnin",Humbert,02408,france ,21/10/2024,false,silver
+10243,Laëtitia,Schoonbroodt,laetitia.schoonbroodt@outlook.com,+32691212775,1966-03-13,620 Betty Pass Suite 535,Bastinside,12809,BE,2025-05-17,true,gold
+10895,  MARKUS ,Köhler,markus.kohler@free.fr,+49 667 647 229,1993-07-08,Henckallee 407,Ebermannstadt,61576,DE,2023-07-09,true,bronze
+10136,Claire,Allard,claire.allard@hotmail.com,06 23 70 58 95,1948-02-18,"23, rue Patricia Couturier",Sainte Jacques-la-Forêt,8548,FR,2025-06-11,true,silver
+10731,Laura,Linke,laura.linke@web.de,+49 653 890 972,1949-05-04,Winklerstraße 81,Duderstadt,71069,DE,2025-03-16,true,silver
+10907,Maryse,Gaillard,,+33 6 41 31 46 75,1976-10-31,"27, avenue de Delmas",Pottierdan,6251,FR,2023-09-13,false,bronze
+10797,Maren,Rudolph,maren.rudolph@yahoo.fr,+49 611 096 179,1986-01-25,Kranzplatz 7490,Waldmünchen,48758,DE,2021-06-29,true,platinum
+10041,Marcel,Guillou,marcel.guillou@free.fr,+33 6 12 23 62 31,1962-07-30,"34, boulevard Maryse Hernandez",Guibert-sur-Evrard,44170,FR,2024-01-12,false,platinum
+10967,Georges,Léger,georges.leger@proton.me,+33 6 06 24 47 95,1976-10-16,"225, boulevard Luc Camus",Chevallierdan,55853,FR,2022-03-01,true,bronze
+10816,Arnaude,Roy,arnaude.roy@proton.me,+33 6 65 53 30 77,1989/09/26,"19, rue Lefort",Mallet-sur-Merle,70268,,2024-10-29,false,platinum
+10532,Zacharie,Cousin,zacharie.cousin@web.de,+33 6 75 48 01 57,1974-05-26,"984, boulevard Louise Carpentier",Lacroix,18241,fr,2021-10-06,false,platinum
+10934,Zoé,Le Roux,zoe.leroux@free.fr,06 30 94 51 54,1991-01-24,"28, avenue Josette Chauveau",Galletboeuf,13944,FR,2023-12-14,true,gold
+10722,Gaetano,Schomber,gaetano.schomber@outlook.com,+49631435989,1992-01-25,Siegward-Wohlgemut-Gasse 5,Heiligenstadt,30721,DE,2024-01-03,true,gold
+11130,Gunnar,Klemt,gunnar.klemt@gmx.de,+49679863210,1946-05-04,Steckelstraße 8308,Sondershausen,61342,DE,2021-03-01,true,silver
+10784,Roxane,André,roxane.andre@gmx.de,+32654669275,1949-02-13,258 Parmentier Circles Suite 850,Mercierton,65074,BE,2021-03-23,true,gold
+10788,Odette,Pasquier,,0033682723590,1994-05-27,"63, chemin Faivre",Saint Jacquesdan,30776,FR,2021-03-20,false,bronze
+10078,Liselotte,Holt,liselotte.holt@gmx.de,+49 682 175 946,1976-08-17,Butteplatz 83,Husum,43957,DE,2022-08-13,false,gold
+10801,Capucine,Auger,,+33 6 96 09 62 62,1962-03-09,chemin de Diallo,Moreaudan,05174,FR,2022-01-30,false,silver
+10249,Julie,Meunier,julie.meunier@outlook.com,06 99 93 47 68,07-24-1965,"36, boulevard Gabrielle Gautier",Guillot,91426,,2021-03-12,true,gold
+10333,Sophie,Lagarde,,+33 6 56 20 53 36,1991-06-29,"2, rue Virginie Sanchez",Texier,64863,FR,07-13-2025,false,silver
+10382,Denis,Couturier,denis.couturier@gmx.de,+33 6 50 20 80 21,1995-12-06,"845, chemin Inès Bernard",Sainte Luceboeuf,97321,France,2022-01-20,true,platinum
+10810,Amélie,Andre,amelie.andre@hotmail.com,0033658477686,24/10/1995,"170, rue Yves Mace",Sainte Georges,82415,FR,2021-07-08,false,silver
+10437,Isabelle,Rey,isabelle.rey@free.fr,+33 6 83 03 44 14,03-26-2007,"94, rue de Salmon",Bruneau,13353,FR,2022-12-18,true,gold
+10277,Kordula,Dowerg,kordula.dowerg@yahoo.fr,+49603579727,1991-02-21,Haufferallee 0,Mittweida,14893,Allemagne,2024-10-27,false,gold
+10398,Osvaldo,Velasco,osvaldo.velasco@free.fr,+34676122868,1990-10-07,Acceso de Esmeralda Cerro 227 Apt. 85 ,Navarra,37010,Spain,2024-10-13,true,platinum
+10601,Matthias,Wulff,matthias.wulff@outlook.com,+49 608 466 845,2006-08-21,Irena-Zänker-Platz 81/99,Weißenfels,67104,DE,2024-03-22,true,gold
+10527,Niko,Hertrampf,niko.hertrampf@yahoo.fr,+49607603108,2002-01-19,Schönlandweg 6,Marktheidenfeld,05598,DE,2021-06-09,false,bronze
+10348,Antoinette,Conradi,antoinette.conradi@proton.me,+49676599162,1958-06-16,Ludwig-Weinhage-Weg 16/66,Kötzting,64644,DE,15/04/2022,true,bronze
+11200,Bernard,Joseph,BERNARD.JOSEPH@PROTON.ME,+33 6 97 99 07 07,1946-03-01,"45, rue Durand",LeroyVille,97358,fr,2026-02-19,true,gold
+10065,Catherine,Latour,catherine.latour@outlook.com,+32 667 175 655,1947-05-30,794 Sandrine Burgs,Lardinoishaven,11405,BE,2024-04-13,true,gold
+11026,Henriette,Ruiz,henriette.ruiz@gmail.com,06 77 53 96 73,1981-07-06,"39, boulevard Bousquet",Samsondan,43900,FR,17/03/2024,false,platinum
+10954,Gilbert,Didier,gilbert.didier@web.de,+33 6 57 90 39 23,14/10/2000,"54, chemin de Blondel",Nguyen,35865,FR,2021-05-27,false,bronze
+10721,Antoinette,Breton,antoinette.breton@orange.fr,+33 6 96 18 44 62,1974-04-11,"27, chemin Marine Delahaye",Wagner,22564,FR,2021-09-21,true,gold
+10751,  MONIQUE ,Da Silva,monique.dasilva@orange.fr,06 20 29 39 08,1974-10-23,"1, rue Marianne Valentin",Sainte ChantalVille,91985,FR,2022-02-28,true,gold
+11125,Bert,Stey,bert.stey@web.de,+49613721433,1952-09-17,Gertzstr. 538,Beeskow,68273,,2025-08-13,true,bronze
+10031,Antoinette,Bigot,antoinette.bigot@yahoo.fr,0033645868501,2000-04-16,"1, chemin Susanne Nicolas",Olivier,07789,FR,03/05/2025,false,silver
+11121,Alix,Joly,alix.joly@outlook.com,+33 6 01 05 87 52,1982-04-03,"8, chemin de Maillot",Humbert,17412,FR,2022-10-24,true,platinum
+10588,Georges,Morin,georges.morin@outlook.com,+33 6 77 70 79 33,1976-04-01,"7, avenue de Lemaître",Sainte Michel,17717,FR,2025-02-22,false,bronze
+10373,Hans-Dieter,Rosemann,hans-dieter.rosemann@proton.me,+49 675 987 622,1964-01-21,Georgios-Hentschel-Allee 6080,Königs Wusterhausen,06826,DE,10/07/2022,true,silver
+10015,Lucie,Lagarde,lucie.lagarde@gmail.com,+33 6 03 10 51 83,1980-12-15,rue Gomes,RoyerBourg,87432,FR,2021-05-26,false,silver
+10218,Alfred,Lefort,alfred.lefort@proton.me,06 42 23 25 36,1978-05-04,"16, chemin de Guillot",Delattre-sur-Lemoine,30835,fr,02/05/2021,true,gold
+11147,Joseph,Fabre,joseph.fabre@yahoo.fr,+33 6 47 16 56 09,1990-11-17,"90, rue de Perrier",Hebert,86645,FR,2021-05-18,false,gold
+10859,Édith,Louis,edith.louis@yahoo.fr,+33 6 59 02 51 76,1995-02-03,"2, avenue de Labbé",Sainte Léondan,97345,FR,2023-06-24,true,silver
+10917,Monique,Bourguignon,monique.bourguignon@gmx.de,+32646136847,1960-02-06,776 Martine Hills Suite 705,Lake Jacques,09242,,2023-02-11,true,silver
+10083,Oxana,Gude,oxana.gude@free.fr,+49617123685,1954-06-02,Heserstr. 3-1,Miltenberg,04348,DEU,2025-07-06,false,bronze
+10542,Honoré,Breton,honore.breton@gmail.com,+33 6 55 90 56 16,06-22-1983,"97, rue Sabine Neveu",Laine,97490,,2021/09/20,false,platinum
+10694,Constantin,Girschner,constantin.girschner@proton.me,,1972-12-18,Neureutherallee 703,Höxter,00905,DE,2021-12-16,false,silver
+10994,Agathe,Labbé,agathe.labbe@outlook.com,+33 6 87 84 44 83,1955-11-11,avenue Gabriel Maurice,Mathieu,4768,FR,2022-11-05,true,gold
+10406,Alexandrie,Barbier,alexandrie.barbier@yahoo.fr,+33 6 90 86 41 68,1961-12-10,"4, boulevard de Bernard",Saint Patrick,14687,FR,02/09/2023,true,silver
+11097,Hans D.,Wulf,hansd..wulf@gmail.com,+49663766046,05/03/1964,Gröttnergasse 2/4,Cuxhaven,53118,DE,2022-09-12,true,platinum
+10248,Patrick,Pottier,patrick.pottier@proton.me,0033667066253,1971-06-15,"3, avenue Christine Barthelemy",Leblanc,58174,france ,2025-08-10,false,gold
+11005,Anthony,Collette,anthony.collette@free.fr,+32673257375,1993-04-28,830 Dujardin Path Apt. 467,Christinechester,40598,BE,2025-05-02,true,gold
+10986,Jeanne,Pages,jeanne.pages@outlook.com,06 29 85 85 67,05-24-1984,"90, avenue Verdier",Lenoir,86936,France,2022-12-06,true,platinum
+10515,Margaret,Navarro,margaret.navarro@gmail.com,06.55.47.81.37,1957-04-15,"802, rue Antoinette Besnard",Saint Raymond,48897,FR,2022-08-06,false,platinum
+10787,Raymond,Bonnin,raymond.bonnin@yahoo.fr,06 63 65 15 59,1960-10-01,"6, rue Valentin",Costa,23918,FR,2023-03-24,true,platinum
+11205,Isaac,Zurita,isaac.zurita@orange.fr,+34611686854,1988-01-26,Cuesta de Edelmiro Manuel 10,Málaga,26602,es,2026-01-15,true,platinum
+11221,Ute,Wagenknecht,UTE.WAGENKNECHT@OUTLOOK.COM,+49685072517,1962-04-11,Ingmar-Cichorius-Platz 521,Rathenow,78088,DE,2026-05-02,false,silver
+10416,Patricia,Moulin,,06 21 68 93 63,1955-05-10,"650, avenue Gallet",Duval,5169,FR,07/09/2024,false,gold
+10266,Alexandria,Bouvier,alexandria.bouvier@gmx.de,+33 6 47 74 34 90,2006-02-21,"854, rue Lopes",Léger-sur-Mer,58645,FR,2021-04-02,true,bronze
+10317,Isidor,Heinz,isidor.heinz@hotmail.com,+49673598933,1955-01-23,Henschelstr. 2170,Nauen,49351,DE,2024-06-24,true,bronze
+10963,Véronique,Neveu,veronique.neveu@orange.fr,+33 6 79 38 97 01,1987-06-03,"105, boulevard de Sauvage",Foucher,58743,FR,09/12/2022,true,silver
+10228,Celia,Morillo,celia.morillo@orange.fr,+34689836403,1980-03-26,Via de Chus Blanch 42,Castellón,20359,Spain,2022-02-25,true,silver
+11049,Théophile,Blanc,theophile.blanc@orange.fr,+33 6 73 33 37 32,1970-10-10,"446, boulevard de Prévost",Bousquet,16950,FR,23/02/2021,true,bronze
+11132,Adélaïde,Bonnin,adelaide.bonnin@orange.fr,0033632537657,1998-12-15,"46, boulevard Peron",Albertnec,38500,fr,2021-01-26,true,silver
+10057,Elif,Kohl,elif.kohl@outlook.com,+49671094777,10-08-1991,Mirella-Neuschäfer-Straße 27-34,Wolgast,45957,DE,2024-07-30,true,gold
+10874,Thibaut,Dupuy,thibaut.dupuy@web.de,+33 6 15 20 37 71,1989-01-19,boulevard de Benard,Richard,88471,france ,03-08-2022,true,gold
+10217,Iván,Blanca,ivan.blanca@free.fr,+34649825449,1983-06-19,Glorieta de César Azcona 9,Cáceres,20212,ES,27/12/2023,true,bronze
+10851,Sophie,Bertin,sophie.bertin@yahoo.fr,0033667238497,1960-02-27,chemin Jacquet,Brun-les-Bains,47395,france ,2022-09-07,true,bronze
+10230,Jocelyne,Louis,jocelyne.louis@yahoo.fr,+32691043006,08-09-1984,30371 Dumont Fork Apt. 264,Sandrinestad,61246,Belgium,2021-02-04,true,platinum
+10858,Françoise,Ferreira,francoise.ferreira@yahoo.fr,0033675331266,1965-04-12,"25, rue Julie Clerc",Guillon,51732,FR,2023-10-20,true,gold
+10465,Françoise,Germain,francoise.germain@gmail.com,+33 6 49 04 71 28,1999-11-02,boulevard de Coste,HumbertBourg,9864,FR,2024-09-06,false,gold
+10116,Marcel,Davids,marcel.davids@outlook.com,+49662229270,1947-07-02,Kabusstr. 9/2,Geldern,05877,DE,2024-05-08,true,silver
+11227,François,Millet,francois.millet@web.de,+33 6 25 12 07 34,1978-05-29,"31, avenue de Bouchet",Saint Charlesnec,24942,FR,2026-02-02,false,gold
+10959,Begoña,Rosselló,begona.rossello@free.fr,+34 626 861 205,1977/12/02,Plaza de Rocío Colom 54 Puerta 2 ,Zaragoza,31999,ES,2021-08-17,true,gold
+10282,Manu,Oliver,manu.oliver@orange.fr,+34 643 283 096,1989-05-11,Plaza Cebrián Esteban 39,Ourense,25581,Espagne,2024-09-05,true,silver
+10966,Joseph,Dupuis,joseph.dupuis@hotmail.com,0033664248096,2006-09-01,rue Chevallier,Jacquet-les-Bains,51191,FR,2025-04-07,true,gold
+10008,Martin,Ledoux,martin.ledoux@outlook.com,+33 6 88 49 69 65,1967-01-28,chemin Josette Aubry,Sainte Élise,12489,fr,2022-05-21,true,platinum
