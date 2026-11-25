@@ -1,0 +1,16 @@
+dimension,rule_in_plain_words,column,how_you_measured_it,failing_rows,total_rows,score_pct,severity_high_medium_low,who_should_fix_owner_steward_custodian
+Completeness,[customers] email is filled,email,df['email'].isna().sum(),48,1241,96.13,high,owner
+Uniqueness,[customers] customer_id is unique,customer_id,df['customer_id'].duplicated(keep=False).sum(),16,1241,98.71,high,custodian
+Uniqueness,[customers] one account per normalized email,email,df['email_norm'].dropna().duplicated(keep=False).sum(),120,1193,89.94,medium,owner
+Validity,[customers] email matches standard email format,email,~df['email'].dropna().str.strip().str.match(regex),19,1193,98.41,high,owner
+Consistency,[customers] country is an ISO-2 code (FR DE ES BE),country,~df['country'].dropna().isin(['FR' 'DE' 'ES' 'BE']),299,1204,75.17,medium,steward
+Consistency,[customers] signup_date is in YYYY-MM-DD format,signup_date,~df['signup_date'].dropna().str.match(r'^\d{4}-\d{2}-\d{2}$'),303,1241,75.58,low,custodian
+Validity,[customers] loyalty_tier is in allowed list,loyalty_tier,~df['loyalty_tier'].dropna().isin(['bronze' 'silver' 'gold' 'platinum']),13,1241,98.95,medium,steward
+Accuracy,[customers] birth_date is between 1906 and today,birth_date,(dob < '1906-01-01') | (dob > today),8,1241,99.36,high,owner
+Validity,[customers] French postal_code has 5 digits,postal_code,~(fr_cp.str.len() == 5),48,723,93.36,medium,custodian
+Uniqueness,[orders] order_id is unique,order_id,GX: expect_column_values_to_be_unique,14,,,high,custodian (action: Quarantine / Deduplicate)
+Validity,[orders] customer_id exists in customers,customer_id,GX: expect_column_values_to_be_in_set,14,,,high,custodian (action: Quarantine orphan records)
+Completeness,[orders] order_date is not null,order_date,GX: expect_column_values_to_not_be_null,11,,,high,owner (action: Stop / Quarantine)
+Accuracy,[orders] order_date is not in the future,order_date_dt,GX: expect_column_values_to_be_between,5,,,medium,owner (action: Quarantine & Alert source)
+Validity,[orders] status is in allowed values,status,GX: expect_column_values_to_be_in_set,9,,,medium,steward (action: Fix in transform / Quarantine)
+Validity,[orders] total_amount_eur > 0 and <= 10000,total_amount_eur,GX: expect_column_values_to_be_between,6,,,high,owner (action: Stop / Quarantine)
